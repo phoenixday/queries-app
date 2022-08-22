@@ -1,0 +1,8 @@
+@import '../node_modules/mini.css/dist/mini-default.min.css';
+
+.container {
+    border: 1px solid #ddd;
+    margin: 30px;
+    padding: 30px;
+}
+
