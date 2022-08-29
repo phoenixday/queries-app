@@ -1,0 +1,3519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH
+	xmlns="http://www.openarchives.org/OAI/2.0/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:europeana="http://www.europeana.eu/schemas/ese/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2022-05-05T13:40:37Z</responseDate>
+	<request metadataPrefix="ese" set="publikacePredmetu" resumptionToken="metadataPrefix~ese!set~publikacePredmetu!nextPage~1" verb="ListRecords">http://admin.esbirky.cz/w4m/oai/NM-HM</request>
+	<ListRecords>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Přezka (část)</dc:title>
+					<dc:coverage>Záluží (u Čelákovic)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-43531</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>Doba stěhování národů</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=112843</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/112841</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Plech (zlomky)</dc:title>
+					<dc:coverage>Záluží (u Čelákovic)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-43532</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>Doba stěhování národů</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=112854</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/112852</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Přezka (část)</dc:title>
+					<dc:coverage>Záluží (u Čelákovic)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-43705</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>Doba stěhování národů</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=113048</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/113046</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Kování ? (část)</dc:title>
+					<dc:coverage>Záluží (u Čelákovic)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-43712</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>300..600</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Kov</dcterms:medium>
+					<dcterms:medium>Kov</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=113070</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/113068</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pochva ? (část)</dc:title>
+					<dc:coverage>Záluží (u Čelákovic)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-43713</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>Doba stěhování národů</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=113081</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/113079</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Přezka ? (část)</dc:title>
+					<dc:coverage>Záluží (u Čelákovic)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-43715</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>300..600</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=113103</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/113101</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Předmět - zlomek</dc:title>
+					<dc:coverage>Záluží (u Čelákovic)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-43742</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>300..600</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=113290</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/113288</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nůž ? (část)</dc:title>
+					<dc:coverage>Záluží (u Čelákovic)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-43743</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>300..600</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=113301</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/113299</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nůžky (část)</dc:title>
+					<dc:coverage>Záluží (u Čelákovic)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-43750</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>300..600</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=113367</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/113365</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Předmět - zlomek</dc:title>
+					<dc:coverage>Záluží (u Čelákovic)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-43769</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>300..600</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=113488</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/113486</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:coverage>Podbaba (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-229011</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>Doba stěhování národů</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:extent>délka: 6,1 cm</dcterms:extent>
+					<dcterms:medium>Stříbro</dcterms:medium>
+					<dcterms:medium>Stříbro</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=115704</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/115702</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:description>Stříbrná pozlacená merovejská spona.</dc:description>
+					<dc:coverage>Zvoleněves (u Slaného)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-18634</dc:identifier>
+					<dc:date>Stěhování národů</dc:date>
+					<dc:date>Stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>Doba stěhování národů</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=115715</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/115713</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Mince</dc:title>
+					<dc:coverage>Stradonice (u Berouna)-hradiště*</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-2012</dc:identifier>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Stříbro</dcterms:medium>
+					<dcterms:medium>Stříbro</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=117656</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/117654</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pochva (část)</dc:title>
+					<dc:coverage>Úhřetice (u Chrudimi)</dc:coverage>
+					<dcterms:spatial>Pardubický kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-19778</dc:identifier>
+					<dc:date>Doba laténská - doba římská</dc:date>
+					<dc:date>Doba laténská - doba římská</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=117813</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/117811</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náramek ?</dc:title>
+					<dc:coverage>Poříčany (u Českého Brodu)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-26615</dc:identifier>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=118033</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/118031</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Mince</dc:title>
+					<dc:coverage>Stradonice (u Berouna)*</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-27273</dc:identifier>
+					<dc:date>Doba laténská D ?</dc:date>
+					<dc:date>Doba laténská D ?</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=118078</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/118076</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Mince</dc:title>
+					<dc:coverage>Stradonice (u Berouna)*</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-27274</dc:identifier>
+					<dc:date>Doba laténská D ?</dc:date>
+					<dc:date>Doba laténská D ?</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=118090</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/118088</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Slitek</dc:title>
+					<dc:coverage>Stradonice (u Berouna)*</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-27278</dc:identifier>
+					<dc:date>Doba laténská D ?</dc:date>
+					<dc:date>Doba laténská D ?</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Ražba</dc:format>
+					<dc:format>Ražba</dc:format>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=118138</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/118136</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náramek (část)</dc:title>
+					<dc:coverage>Německé Kopisty (u Litoměřic)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-52443</dc:identifier>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=119308</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/119306</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nákrčník</dc:title>
+					<dc:coverage>Soběnice (u Litoměřic)</dc:coverage>
+					<dcterms:spatial>Ústecký kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-52489</dc:identifier>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=119616</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/119614</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náramek ? (část)</dc:title>
+					<dc:coverage>Okoř (u Prahy)-u mlýna Starodolského*</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-52505</dc:identifier>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=119693</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/119691</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:coverage>Žižkov (Praha)-Komenského nám.  ()</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-52547</dc:identifier>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=119825</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/119823</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náramek (část)</dc:title>
+					<dc:coverage>Žižkov (Praha)-Komenského nám.  ()</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-52554</dc:identifier>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=119891</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/119889</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náramek</dc:title>
+					<dc:coverage>Žižkov (Praha)-Komenského nám.  ()</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-52555</dc:identifier>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=119902</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/119900</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:SCD</setSpec>
+				<setSpec>publikacePredmetu:S:SCD:PL</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Akvamanile gotické</dc:title>
+					<dc:description>Lité a cizelované, tvaru stojícího lva, obdélníkový otvor s víčkem je na temeni hlavy, výlevka kruhová na spodu hrudi pod hřívou.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo|Kovy</dc:relation>
+					<dc:identifier>H2-13950</dc:identifier>
+					<dc:date>Středověk</dc:date>
+					<dc:date/>
+					<dc:date>600-1-1</dc:date>
+					<dcterms:temporal>Středověk</dcterms:temporal>
+					<dcterms:created>600-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:extent>30,3x12,5x34,3 cm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=125994</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/125992</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona (část)</dc:title>
+					<dc:coverage>Žižkov (Praha)-Komenského nám.  ()</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-52571</dc:identifier>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=126939</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/126937</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Podkova (část)</dc:title>
+					<dc:coverage>Žižkov (Praha)-Komenského nám.  ()</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-52574</dc:identifier>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=126972</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/126970</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Zápona</dc:title>
+					<dc:coverage>Kobyly (u Turnova)</dc:coverage>
+					<dcterms:spatial>Liberecký kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-67658</dc:identifier>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=127643</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/127641</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:coverage>Kobyly (u Turnova)</dc:coverage>
+					<dcterms:spatial>Liberecký kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-67659</dc:identifier>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=127654</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/127652</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:coverage>Stradonice (u Berouna)*</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-141376</dc:identifier>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131064</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131062</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:coverage>Stradonice (u Berouna)*</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-141384</dc:identifier>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131075</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131073</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - konvice</dc:title>
+					<dc:coverage>Hradiště (u Písku)</dc:coverage>
+					<dcterms:spatial>Jihočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-201827</dc:identifier>
+					<dc:date>Doba laténská A</dc:date>
+					<dc:date>Doba laténská A</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=304997</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131084</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:coverage>Neznámé nal.</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-212655</dc:identifier>
+					<dc:date>Doba laténská B1-2,C1</dc:date>
+					<dc:date>Doba laténská B1-2,C1</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131196</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131194</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:coverage>Neznámé nal.</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-212656</dc:identifier>
+					<dc:date>Doba laténská B2</dc:date>
+					<dc:date>Doba laténská B2</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131207</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131205</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:coverage>Neznámé nal.</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-212657</dc:identifier>
+					<dc:date>Doba laténská B1-2,C1</dc:date>
+					<dc:date>Doba laténská B1-2,C1</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131218</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131216</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:coverage>Neznámé nal.</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-212658</dc:identifier>
+					<dc:date>Doba laténská B1b-c</dc:date>
+					<dc:date>Doba laténská B1b-c</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131229</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131227</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Meč</dc:title>
+					<dc:coverage>Želenice (u Slaného)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-212660</dc:identifier>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131251</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131249</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Plastika</dc:title>
+					<dc:coverage>Neznámé nal.</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-212675</dc:identifier>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131405</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131403</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Zápona</dc:title>
+					<dc:coverage>Neznámé nal.</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-212677</dc:identifier>
+					<dc:date>Doba laténská B1-2,C1</dc:date>
+					<dc:date>Doba laténská B1-2,C1</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131427</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131425</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Závěsek</dc:title>
+					<dc:coverage>Roudnice nad Labem</dc:coverage>
+					<dcterms:spatial>Ústecký kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-229014</dc:identifier>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>Doba laténská A-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:extent>Délka (s víčkem): 5,4 cm, délka (bez víčka): 4,3 cm, délka víčka s násadkou: 2,2 cm</dcterms:extent>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131449</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131447</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:coverage>Chýnov (u Prahy)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-229108</dc:identifier>
+					<dc:date>Doba laténská A</dc:date>
+					<dc:date>Doba laténská A</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131460</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131458</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Plastika</dc:title>
+					<dc:coverage>Šárka (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-229109</dc:identifier>
+					<dc:date>Doba laténská D</dc:date>
+					<dc:date>Doba laténská D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131471</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131469</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Plastika</dc:title>
+					<dc:coverage>Neznámé nal.</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-229110</dc:identifier>
+					<dc:date>Doba laténská A</dc:date>
+					<dc:date>Doba laténská A</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131482</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131480</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:PDK</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Záušnice</dc:title>
+					<dc:coverage>Bubeneč (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-37022</dc:identifier>
+					<dc:date>Kultura zvoncovitých pohárů ?</dc:date>
+					<dc:date>Kultura zvoncovitých pohárů ?</dc:date>
+					<dc:date>-4400-1-1</dc:date>
+					<dcterms:temporal>Eneolit</dcterms:temporal>
+					<dcterms:created>-4400-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Stříbro</dcterms:medium>
+					<dcterms:medium>Stříbro</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=134058</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/134056</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náramek</dc:title>
+					<dc:coverage>Lžovice (u Kolína)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-16259</dc:identifier>
+					<dc:date>Slezskoplatěnická kultura HaB ?</dc:date>
+					<dc:date>Slezskoplatěnická kultura HaB ?</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=139518</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/139516</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Meč (část)</dc:title>
+					<dc:coverage>Most</dc:coverage>
+					<dcterms:spatial>Ústecký kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-28244</dc:identifier>
+					<dc:date>Doba halštatská C-Dt</dc:date>
+					<dc:date>Doba halštatská C-Dt</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=139837</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/139835</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náramek</dc:title>
+					<dc:coverage>Láz u Radomyšle</dc:coverage>
+					<dcterms:spatial>Jihočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-39952</dc:identifier>
+					<dc:date>Doba halštatská ?</dc:date>
+					<dc:date>Doba halštatská ?</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=139914</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/139912</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náramek ? (část)</dc:title>
+					<dc:coverage>Chlum (u Opařan?)</dc:coverage>
+					<dcterms:spatial>Jihočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-48476</dc:identifier>
+					<dc:date>Halštatská mohylová kultura</dc:date>
+					<dc:date>Halštatská mohylová kultura</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Odlévání</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=140278</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/140276</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nůž (část)</dc:title>
+					<dc:coverage>Vinohrady (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-56842</dc:identifier>
+					<dc:date>Bylanská kultura</dc:date>
+					<dc:date>Bylanská kultura</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=140476</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/140474</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náramek</dc:title>
+					<dc:coverage>Vinohrady (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-56843</dc:identifier>
+					<dc:date>Bylanská kultura</dc:date>
+					<dc:date>Bylanská kultura</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kování</dc:format>
+					<dc:format>Kování</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=140487</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/140485</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>náramek</dc:title>
+					<dc:coverage>Zrůbek (u Sedlčan)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-23332</dc:identifier>
+					<dcterms:alternative>H1-23332</dcterms:alternative>
+					<dc:date>Doba železná</dc:date>
+					<dc:date>Kultura bylanská</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4653751</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/4653252</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>nákrčník</dc:title>
+					<dc:coverage>Zrůbek (u Sedlčan)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-23333</dc:identifier>
+					<dcterms:alternative>H1-23333</dcterms:alternative>
+					<dc:date>Doba železná</dc:date>
+					<dc:date>Kultura bylanská</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4653756</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/4653266</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>náramek</dc:title>
+					<dc:coverage>Zrůbek (u Sedlčan)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-23341</dc:identifier>
+					<dcterms:alternative>H1-23341</dcterms:alternative>
+					<dc:date>Doba železná</dc:date>
+					<dc:date>Kultura bylanská</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4653791</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/4653364</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>kroužek</dc:title>
+					<dc:coverage>Zrůbek (u Sedlčan)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-23342</dc:identifier>
+					<dcterms:alternative>H1-23342</dcterms:alternative>
+					<dc:date>Doba železná</dc:date>
+					<dc:date>Kultura bylanská</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4653796</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/4653378</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>náramek ?</dc:title>
+					<dc:coverage>Nalžovice (u Sedlčan)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-51567</dc:identifier>
+					<dcterms:alternative>H1-51567</dcterms:alternative>
+					<dc:date>Doba železná</dc:date>
+					<dc:date>Kultura halštatská mohylová</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4653856</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/4653546</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>náramek ?</dc:title>
+					<dc:coverage>Nalžovice (u Sedlčan)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-51568</dc:identifier>
+					<dcterms:alternative>H1-51568</dcterms:alternative>
+					<dc:date>Doba železná</dc:date>
+					<dc:date>Kultura halštatská mohylová</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4653861</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/4653560</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>náramek</dc:title>
+					<dc:coverage>Nalžovice (u Sedlčan)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-51569</dc:identifier>
+					<dcterms:alternative>H1-51569</dcterms:alternative>
+					<dc:date>Doba železná</dc:date>
+					<dc:date>Kultura halštatská mohylová</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4653866</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/4653574</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>náramek</dc:title>
+					<dc:coverage>Nalžovice (u Sedlčan)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-51570</dc:identifier>
+					<dcterms:alternative>H1-51570</dcterms:alternative>
+					<dc:date>Doba železná</dc:date>
+					<dc:date>Kultura halštatská mohylová</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4653871</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/4653588</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>náramek</dc:title>
+					<dc:coverage>Hradiště u Kačína (?)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-6830</dc:identifier>
+					<dcterms:alternative>H1-6830</dcterms:alternative>
+					<dc:date>Doba železná</dc:date>
+					<dc:date>Kultura bylanská</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4653746</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/4653741</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Kostým z opery Bludný Holanďan (Richard Wagner)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-01</dc:identifier>
+					<dcterms:alternative>Der fliegende Holländer</dcterms:alternative>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=146950</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/146948</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Der Graf von Luna z opery Trubadúr (Giuseppe Verdi)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-02</dc:identifier>
+					<dcterms:alternative>Il trovatore</dcterms:alternative>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=146961</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/146959</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Kostým z opery Hans Heiling (Heinrich Marschner)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-03</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=146972</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/146970</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hoël z opery Dinora (Giacomo Meyerbeer)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-05</dc:identifier>
+					<dcterms:alternative>Dinorah</dcterms:alternative>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=146994</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/146992</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Escamillo z opery Carmen (Georges Bizet)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-06</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147005</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147003</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Escamillo z opery Carmen (Georges Bizet)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-07</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147016</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147014</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Zampa</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-08</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147027</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147025</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Figaro z opery Lazebník sevillský (Gioacchino Rossini)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-09</dc:identifier>
+					<dcterms:alternative>Der Barbier von Sevilla</dcterms:alternative>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147038</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147036</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Gringoire</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-10</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147049</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147047</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Czar z opery Car a tesař (Gustav Albert Lortzing)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-11</dc:identifier>
+					<dcterms:alternative>Czar und Zimmermann</dcterms:alternative>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147060</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147058</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Czar z opery Car a tesař (Gustav Albert Lortzing)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-12</dc:identifier>
+					<dcterms:alternative>Czar und Zimmermann</dcterms:alternative>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147071</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147069</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Petruchio ze Shakespearovy hry Zkrocení zlé ženy</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-13</dc:identifier>
+					<dcterms:alternative>Der Widerspenstigen Zähmung</dcterms:alternative>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147082</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147080</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Wolfram von Eschenbach z opery Tannhäuser (Richard Wagner)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-14</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147093</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147091</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Wolfram von Eschenbach z opery Tannhäuser (Richard Wagner)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-15</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147104</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147102</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Kurwenal z opery Tristan a Isolda (Richard Wagner)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-16</dc:identifier>
+					<dcterms:alternative>Tristan und Isolde</dcterms:alternative>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147115</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147113</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Friedrich von Telramund z opery Lohengrin (Richard Wagner)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-17</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147126</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147124</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Lord Ruthven z opery Vampýr (Heinrich Marschner)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-18</dc:identifier>
+					<dcterms:alternative>Il Vampiro</dcterms:alternative>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147137</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147135</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Wotan z opery Zlato Rýna (Richard Wagner)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-19</dc:identifier>
+					<dcterms:alternative>Rheingold</dcterms:alternative>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147148</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147146</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Petruchio ze Shakespearovy hry Zkrocení zlé ženy</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-20</dc:identifier>
+					<dcterms:alternative>Der Widerspenstigen Zähmung</dcterms:alternative>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147159</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147157</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>René z opery Maškarní ples (Giuseppe Verdi)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-21</dc:identifier>
+					<dcterms:alternative>Un ballo in maschera, Ein Maskenball</dcterms:alternative>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147170</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147168</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Templer</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-22</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147181</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147179</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>König Salomon z opery Královna ze Sáby</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-23</dc:identifier>
+					<dcterms:alternative>Königin von Saba</dcterms:alternative>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147192</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147190</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Graf Almaviva z opery Figarova svatba (W. A. Mozart)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-24</dc:identifier>
+					<dcterms:alternative>Le nozze di Figaro, Figaros Hochzeit</dcterms:alternative>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147203</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147201</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nelusco z opery Afričanka (Giacomo Meyerbeer)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-26</dc:identifier>
+					<dcterms:alternative>Afrikanerin</dcterms:alternative>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147225</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147223</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Kühleborn z opery Ondina (Albert Lorzing)</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-27</dc:identifier>
+					<dcterms:alternative>Undine</dcterms:alternative>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Fr. Moser</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147236</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147234</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Petit duc de Parthenay</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-39</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Neznámý</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147368</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147366</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Petit duc de Parthenay</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-40</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Neznámý</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147379</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147377</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Petit duc de Parthenay</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-41</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Neznámý</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147390</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147388</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Petit duc de Parthenay</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-42</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Neznámý</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147401</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147399</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Petit duc de Parthenay</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-43</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Neznámý</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147412</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147410</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Petit duc de Parthenay</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-44</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Neznámý</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147423</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147421</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Petit duc de Parthenay</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-45</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Neznámý</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147434</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147432</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-05-28T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Tisky:Souborkol</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Petit duc de Parthenay</dc:title>
+					<dc:description>Kolorovaná kresba kostýmního návrhu z majetku Angella Neumanna, ředitele Německého divadla v Praze.</dc:description>
+					<dc:coverage>Bez určení</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Divadlo</dc:relation>
+					<dc:identifier>B 6427-46</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Neznámý</dc:creator>
+					<dc:format>Kresba</dc:format>
+					<dc:format>Kolorovaná kresba</dc:format>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=147445</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/147443</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-01T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Slitek</dc:title>
+					<dc:coverage>Radětice (u Příbrami)-Na stráži</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-12598</dc:identifier>
+					<dc:date>Doba bronzová</dc:date>
+					<dc:date>Knovízská kultura ?</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:extent>Výška: 6,7 cm, Šířka: 3,4 cm</dcterms:extent>
+					<dcterms:medium>Olovo</dcterms:medium>
+					<dcterms:medium>Olovo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3668592</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/19228</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-01T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SSDK</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Rydlo</dc:title>
+					<dc:coverage>Nebušice (Praha)-cihelna Jenerálka</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-10223</dc:identifier>
+					<dc:date>Gravettien</dc:date>
+					<dc:date>Gravettien</dc:date>
+					<dcterms:temporal>Paleolit a mezolit</dcterms:temporal>
+					<dc:format>Štípání</dc:format>
+					<dc:format>Štípání</dc:format>
+					<dcterms:medium>Kámen jako stavební surovina</dcterms:medium>
+					<dcterms:medium>Kámen jako stavební surovina</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4310554</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/138316</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-01T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Obraz Eleonory z Ehrenbergu</dc:title>
+					<dc:coverage>Československá republika</dc:coverage>
+					<dcterms:spatial>Česká republika</dcterms:spatial>
+					<dc:relation>Umělecké sbírky|Malířství, kresba a grafika</dc:relation>
+					<dc:identifier>H6D-5693</dc:identifier>
+					<dc:date>s.a.</dc:date>
+					<dc:creator>E. Demartini</dc:creator>
+					<dc:creator>MgA. Alžběta Kumstátová</dc:creator>
+					<dc:format>Malba</dc:format>
+					<dc:format>Malba</dc:format>
+					<dcterms:medium>Plátno</dcterms:medium>
+					<dcterms:medium>Plátno</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3509168</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/3509166</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-04T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:RIM</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - vědro</dc:title>
+					<dc:description>Bronzové vědro s vysoko položenou baňatostí a prohnutých stěn na spodní části nádoby. Dno je zesíleno v hráněnou nožku konickou na válcovitém podkladu.</dc:description>
+					<dc:coverage>Dobřichov (u Kolína)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-53265</dc:identifier>
+					<dc:date>Doba římská</dc:date>
+					<dc:date>Doba římská</dc:date>
+					<dc:date>-50-1-1</dc:date>
+					<dcterms:temporal>-50..380</dcterms:temporal>
+					<dcterms:created>-50-1-1</dcterms:created>
+					<dc:creator/>
+					<dc:creator>Lenka Káchová</dc:creator>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=111724</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/111722</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-04T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:RIM</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:description>Bronzová spona, jejíž jehla byla vyvedena z krátkého vinutí a zapadala do prolamovaného zachycovače. Ozdobná část úplně zakryla část účelovou.</dc:description>
+					<dc:coverage>Dobřichov (u Kolína)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-53267</dc:identifier>
+					<dc:date>Doba římská</dc:date>
+					<dc:date>Doba římská</dc:date>
+					<dc:date>-50-1-1</dc:date>
+					<dcterms:temporal>-50..380</dcterms:temporal>
+					<dcterms:created>-50-1-1</dcterms:created>
+					<dc:creator/>
+					<dc:creator>Lenka Káchová</dc:creator>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=111736</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/111734</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-04T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:RIM</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Kování</dc:title>
+					<dc:description>Ozdobné kování ze dvou dílů složené, spojované čípkem. Kování je z bronz. plechu do oblouku klenutého a při koncích členěného příčnými a kulovitými vývalky do tvaru stilizované ptačí /kachní/ hlavičky.</dc:description>
+					<dc:coverage>Dobřichov (u Kolína)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-53308</dc:identifier>
+					<dc:date>Doba římská</dc:date>
+					<dc:date>Doba římská</dc:date>
+					<dc:date>-50-1-1</dc:date>
+					<dcterms:temporal>-50..380</dcterms:temporal>
+					<dcterms:created>-50-1-1</dcterms:created>
+					<dc:creator/>
+					<dc:creator>Lenka Káchová</dc:creator>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=111759</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/111757</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-04T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:RIM</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:description>Honosná bronzová spona, jejíž vinutí je kryto rourkou, zdobenou rýhováním a brázděním.</dc:description>
+					<dc:coverage>Dobřichov (u Kolína)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-53486</dc:identifier>
+					<dc:date>Doba římská</dc:date>
+					<dc:date>Doba římská</dc:date>
+					<dc:date>-50-1-1</dc:date>
+					<dcterms:temporal>-50..380</dcterms:temporal>
+					<dcterms:created>-50-1-1</dcterms:created>
+					<dc:creator/>
+					<dc:creator>Lenka Káchová</dc:creator>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=111770</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/111768</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-04T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Předmět neurčený</dc:title>
+					<dc:description>Bronzová tyčinka, patrně zlomek složitějšího předmětu /dle stopy spojení na jednom konci/. Horní část, zakončená lopatkovitou ploškou s kulovitým otvorem, je zdoben článkovanými vývalky a prstenci, dolní konec vybíhá plochou vyhráněnou tyčinkou.</dc:description>
+					<dc:coverage>Podbaba (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-51183</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>300..600</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3637521</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/116085</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<resumptionToken completeListSize="120262" cursor="100">metadataPrefix~ese!set~publikacePredmetu!nextPage~2</resumptionToken>
+	</ListRecords>
+</OAI-PMH>

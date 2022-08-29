@@ -6,3 +6,16 @@
     padding: 30px;
 }
 
+.center-page {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.graph {
+    border: 1px solid #ddd;
+    height: 500px;
+    width: 1000px;
+}
+

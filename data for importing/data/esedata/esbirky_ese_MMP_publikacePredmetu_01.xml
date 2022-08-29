@@ -1,0 +1,3371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:europeana="http://www.europeana.eu/schemas/ese/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2022-05-05T13:30:41Z</responseDate>
+	<request metadataPrefix="ese" set="publikacePredmetu" verb="ListRecords">http://admin.esbirky.cz/w4m/oai/MMP</request>
+	<ListRecords>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:BI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Sekera</dc:title>
+					<dc:description>Broušená plochá sekera s kónickým otvorem a souměrně zbroušeným ostřím </dc:description>
+					<dc:coverage>Lokalita neznámá</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0000127</dc:identifier>
+					<dc:date>Neolit - eneolit</dc:date>
+					<dc:date/>
+					<dc:date>-5700-1-1</dc:date>
+					<dcterms:temporal>Neolit</dcterms:temporal>
+					<dcterms:created>-5700-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>163 mm x 65 mm x 38 mm</dcterms:extent>
+					<dcterms:medium>Kámen jako stavební surovina</dcterms:medium>
+					<dcterms:medium>kámen</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9554861</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9554859</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:BI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Sekera</dc:title>
+					<dc:description>Broušená plochá sekera, k týlu lichoběžníkovitě zúžená </dc:description>
+					<dc:coverage>Praha-Bubeneč</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0000386</dc:identifier>
+					<dc:date>Neolit</dc:date>
+					<dcterms:temporal>Neolit</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>230 mm x 68 mm x 23 mm</dcterms:extent>
+					<dcterms:medium>Kámen jako stavební surovina</dcterms:medium>
+					<dcterms:medium>kámen</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9554887</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9554885</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Záušnice</dc:title>
+					<dc:description>Záušnice pletená z drátu, s roztepanými, esovitě zahnutými konci </dc:description>
+					<dc:coverage>Želénky, část obce Zábrušany u Teplic</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0000391</dc:identifier>
+					<dc:date>Raný středověk</dc:date>
+					<dcterms:temporal>Raný středověk</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 41 mm, šířka 35 mm</dcterms:extent>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9554900</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9554898</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náušnice</dc:title>
+					<dc:description>Náušnice s plnými a prolamovanými filigránovými košíčky s kuželovitým zakončením </dc:description>
+					<dc:coverage>Roztoky u Prahy</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0000392</dc:identifier>
+					<dc:date>Raný středověk</dc:date>
+					<dcterms:temporal>Raný středověk</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 60 mm, šířka 45 mm</dcterms:extent>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9554913</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9554911</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Udidlo</dc:title>
+					<dc:description>Udidlo – součást koňského postroje</dc:description>
+					<dc:coverage>Praha-Bubeneč</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0000441</dc:identifier>
+					<dc:date>Doba halštatská - kultura bylanská</dc:date>
+					<dcterms:temporal>Kultura bylanská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 300 mm, délka článků 83 a 87 mm</dcterms:extent>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9554926</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9554924</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Kónicky rozevřená nádoba s vysokou výdutí, pod okrajem na dvou stranách nesymetricky provrtané dva a tři otvory</dc:description>
+					<dc:coverage>Praha-Dejvice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0000544</dc:identifier>
+					<dc:date>Časně slovanské období - pražský typ</dc:date>
+					<dcterms:temporal>Časně slovanské období - pražský typ</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 318 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9554952</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9554950</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hrot šípu</dc:title>
+					<dc:description>Broušený hrot šípu </dc:description>
+					<dc:coverage>Praha-Veleslavín</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0000803</dc:identifier>
+					<dc:date>Pravěk</dc:date>
+					<dc:date/>
+					<dc:date>-8000-1-1</dc:date>
+					<dcterms:temporal>Pravěk - střední Evropa</dcterms:temporal>
+					<dcterms:created>-8000-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 95 mm</dcterms:extent>
+					<dcterms:medium>Kost</dcterms:medium>
+					<dcterms:medium>kost</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9554965</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9554963</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hrot šípu</dc:title>
+					<dc:description>Broušený hrot šípu </dc:description>
+					<dc:coverage>Praha-Veleslavín</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0000835</dc:identifier>
+					<dc:date>Pravěk</dc:date>
+					<dc:date/>
+					<dc:date>-8000-1-1</dc:date>
+					<dcterms:temporal>Pravěk - střední Evropa</dcterms:temporal>
+					<dcterms:created>-8000-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 25 mm</dcterms:extent>
+					<dcterms:medium>Kost</dcterms:medium>
+					<dcterms:medium>kost</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9554978</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9554976</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Nádoba vejčitého tvaru, povrch zdobí ryté vodorovné linie, vlnice a tři řady vpichů uspořádaných do čtverce</dc:description>
+					<dc:coverage>Praha-Bubeneč</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0000961</dc:identifier>
+					<dc:date>Časně slovanské období - pražský typ</dc:date>
+					<dcterms:temporal>Časně slovanské období - pražský typ</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 310 mm, průměr okraje 275 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555030</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555028</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Široká mísa se dvěma pohyblivými držadly, připevněnými palmetovitým kováním, okraj plasticky zdoben dvěma řadami perlovce a vejcovce</dc:description>
+					<dc:coverage>Praha-Bubeneč</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0001201</dc:identifier>
+					<dc:date>Starší doba římská</dc:date>
+					<dcterms:temporal>Starší doba římská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 117 mm, průměr okraje 360 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555043</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555041</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pánev</dc:title>
+					<dc:description>Pánev s plochým držadlem zdobeným ptačími hlavičkami a rytým dekorem, uvnitř pocínovaná</dc:description>
+					<dc:coverage>Praha-Bubeneč</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0001202</dc:identifier>
+					<dc:date>Starší doba římská</dc:date>
+					<dcterms:temporal>Starší doba římská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 82 mm, průměr okraje 150 mm, držadlo délka 102 mm</dcterms:extent>
+					<dcterms:medium>Cín</dcterms:medium>
+					<dcterms:medium>bronz, cín</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555056</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555054</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Konvice s trojlaločnatým ústím a držadlem ve tvaru ženské postavy rukama objímající hrdlo, plastické zakončení spodku ucha má podobu hlavy Mainady</dc:description>
+					<dc:coverage>Praha-Bubeneč</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0001203</dc:identifier>
+					<dc:date>Starší doba římská</dc:date>
+					<dcterms:temporal>Starší doba římská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 176 mm, průměr okraje 71 x 100 mm, průměr výdutě 115 mm, průměr dna 64 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555069</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555067</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Keramická terina s hladkým povrchem a dvěma plastickými vodorovnými žebry na podhrdlí</dc:description>
+					<dc:coverage>Praha-Bubeneč</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0001204</dc:identifier>
+					<dc:date>Starší doba římská</dc:date>
+					<dcterms:temporal>Starší doba římská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 195 mm, průměr okraje 146 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555082</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555080</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Patera s válcovitou žebrovanou rukojetí a protilehlým pohyblivým uchem, uvnitř zdobená soustředně rytým dekorem s motivem růžice uprostřed</dc:description>
+					<dc:coverage>Praha-Bubeneč</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0001205</dc:identifier>
+					<dc:date>Starší doba římská</dc:date>
+					<dcterms:temporal>Starší doba římská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 54 mm, průměr okraje 235 mm, držadlo délka 92 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555095</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555093</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Ostře profilovaný koflík s leštěným povrchem</dc:description>
+					<dc:coverage>Praha-Bubeneč</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0001281</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 74 mm, průměr okraje 88 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555108</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555106</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Miska na duté vysoké nožce zdobená řadami vodorovných rýžek a čtyřmi výčnělky na výduti </dc:description>
+					<dc:coverage>Praha-Bubeneč</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0001327</dc:identifier>
+					<dc:date>Eneolit - kultura jordanovská</dc:date>
+					<dc:date/>
+					<dc:date>-4300-1-1</dc:date>
+					<dcterms:temporal>Kultura jordanovská</dcterms:temporal>
+					<dcterms:created>-4300-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 252 mm, průměr okraje 217 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555121</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555119</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Polokulovitá nádoba zdobená rytými girlandami </dc:description>
+					<dc:coverage>Praha-Vokovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0001640</dc:identifier>
+					<dc:date>Neolit - kultura s lineární keramikou</dc:date>
+					<dc:date/>
+					<dc:date>-6000-1-1</dc:date>
+					<dcterms:temporal>Kultura s lineární keramikou</dcterms:temporal>
+					<dcterms:created>-6000-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 138 mm, průměr okraje 118 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555147</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555145</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Nádoba s vodorovnými uchy na výduti a s oblým dnem, zdobená pásy rytých linií a vpichy </dc:description>
+					<dc:coverage>Praha-Bubeneč</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0001688</dc:identifier>
+					<dc:date>Neolit - kultura s lineární keramikou</dc:date>
+					<dc:date/>
+					<dc:date>-6000-1-1</dc:date>
+					<dcterms:temporal>Kultura s lineární keramikou</dcterms:temporal>
+					<dcterms:created>-6000-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 132 mm; průměr okraje 87 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555160</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555158</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA:NASTR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Šídlo</dc:title>
+					<dc:description>Oboustranně zahrocené čtyřhranné šídlo </dc:description>
+					<dc:coverage>Praha-Kobylisy</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0006386</dc:identifier>
+					<dc:date>Pravěk</dc:date>
+					<dc:date/>
+					<dc:date>-8000-1-1</dc:date>
+					<dcterms:temporal>Pravěk - střední Evropa</dcterms:temporal>
+					<dcterms:created>-8000-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 82 mm</dcterms:extent>
+					<dcterms:medium>Kost</dcterms:medium>
+					<dcterms:medium>kost</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555212</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555210</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nánožník</dc:title>
+					<dc:description>Puklicovitý nánožník s výrazným plastickým šnekovitým dekorem, dvojdílný</dc:description>
+					<dc:coverage>Praha-Dejvice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0007001</dc:identifier>
+					<dc:date>Doba laténská</dc:date>
+					<dcterms:temporal>Doba laténská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 105 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555225</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555223</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nánožník</dc:title>
+					<dc:description>Puklicovitý nánožník s výrazným plastickým šnekovitým dekorem, dvojdílný</dc:description>
+					<dc:coverage>Praha-Dejvice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0007002</dc:identifier>
+					<dc:date>Doba laténská</dc:date>
+					<dcterms:temporal>Doba laténská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 105 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555238</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555236</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Jehlice</dc:title>
+					<dc:description>Část jehlice s rytou výzdobou na krčku</dc:description>
+					<dc:coverage>Praha-Bubeneč</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0007046</dc:identifier>
+					<dc:date>Doba bronzová</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 114 mm</dcterms:extent>
+					<dcterms:medium>Kost</dcterms:medium>
+					<dcterms:medium>kost</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555264</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555262</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Gombík</dc:title>
+					<dc:description>Bronzový pozlacený gombík s částí poutka a ornamentální výzdobou </dc:description>
+					<dc:coverage>Roztoky u Prahy</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0020469</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 41,3 mm, průměr 38,5 mm</dcterms:extent>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>bronz, zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555277</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555275</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Gombík</dc:title>
+					<dc:description>Bronzový pozlacený gombík s poutkem a plastickým rostlinným dekorem </dc:description>
+					<dc:coverage>Roztoky u Prahy</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0020517</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 30 mm, průměr 33,5 mm</dcterms:extent>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>bronz, zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555290</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555288</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Gombík</dc:title>
+					<dc:description>Bronzový pozlacený gombík s poutkem a plastickou ornamentální výzdobou </dc:description>
+					<dc:coverage>Roztoky u Prahy</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0020612</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 22,3 mm, průměr 26,7 mm</dcterms:extent>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>bronz, zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555303</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555301</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Meč</dc:title>
+					<dc:description>Meč tzv. liptovského typu s plnou litou rukojetí</dc:description>
+					<dc:coverage>Praha-Vyšehrad</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0074498</dc:identifier>
+					<dc:date>Doba bronzová - kultura knovízská</dc:date>
+					<dcterms:temporal>Kultura knovízská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 646 mm (z toho délka rukojeti 108 mm), max. šířka čepele 34 mm, výška (tloušťka) čepele 9,2 mm, šířka zakončení rukojeti 57,1 x 44,8 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555329</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555327</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Džbán s leštěným povrchem a rohatým uchem (ansa lunata)</dc:description>
+					<dc:coverage>Praha-Jinonice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0074949/003</dc:identifier>
+					<dc:date>Eneolit - kultura řivnáčská</dc:date>
+					<dc:date/>
+					<dc:date>-3200-1-1</dc:date>
+					<dcterms:temporal>Kultura řivnáčská</dcterms:temporal>
+					<dcterms:created>-3200-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 190 mm, průměr okraje 167 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555342</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555340</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NASTR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Lžička</dc:title>
+					<dc:description>Technická lžička s tyčinkovitou rukojetí </dc:description>
+					<dc:coverage>Praha-Troja</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0094570</dc:identifier>
+					<dc:date>Doba bronzová - kultura věteřovská</dc:date>
+					<dc:date/>
+					<dc:date>-1700-1-1</dc:date>
+					<dcterms:temporal>Kultura věteřovská</dcterms:temporal>
+					<dcterms:created>-1700-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 124 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555355</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555353</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:description>Jednodílná spona s plasticky zdobeným širokým lučíkem a profilovanou patkou, část vinutí a jehla chybí</dc:description>
+					<dc:coverage>Praha-Michle</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0097028</dc:identifier>
+					<dc:date>Doba laténská</dc:date>
+					<dcterms:temporal>Doba laténská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 37 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555381</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555379</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:description>Jednodílná spona s klenutým, plasticky zdobeným lučíkem a profilovanou patkou, část vinutí a jehla chybí</dc:description>
+					<dc:coverage>Praha-Michle</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0097029</dc:identifier>
+					<dc:date>Doba laténská</dc:date>
+					<dcterms:temporal>Doba laténská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 64 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555394</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555392</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:description>Jednodílná spona s klenutým, plasticky zdobeným lučíkem a profilovanou patkou, část vinutí a jehla chybí</dc:description>
+					<dc:coverage>Praha-Michle</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0097030</dc:identifier>
+					<dc:date>Doba laténská</dc:date>
+					<dcterms:temporal>Doba laténská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 37mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555407</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555405</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Jehlice</dc:title>
+					<dc:description>Část jehlice s rytou výzdobou na krčku</dc:description>
+					<dc:coverage>Praha-Čimice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0100998</dc:identifier>
+					<dc:date>Doba bronzová</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 85 mm</dcterms:extent>
+					<dcterms:medium>Kost</dcterms:medium>
+					<dcterms:medium>kost</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555420</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555418</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:SI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Sekáč</dc:title>
+					<dc:description>Valounový sekáč s otlučenou týlní částí a oštípaným břitem </dc:description>
+					<dc:coverage>Praha-Troja</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0103141</dc:identifier>
+					<dc:date>Doba halštatská</dc:date>
+					<dc:date/>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba halštatská</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 121 mm</dcterms:extent>
+					<dcterms:medium>Kámen jako stavební surovina</dcterms:medium>
+					<dcterms:medium>kámen</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555433</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555431</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NASTR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nůžky</dc:title>
+					<dc:description>Pérové ovčácké nůžky </dc:description>
+					<dc:coverage>Praha-Hostivař</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0110268</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dcterms:temporal>Doba stěhování národů</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 170 mm</dcterms:extent>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555459</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555457</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:description>Stříbrné pozlacené spony esovitého tvaru s reliéfní výzdobou </dc:description>
+					<dc:coverage>Praha-Hostivař</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0110269/001</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dcterms:temporal>Doba stěhování národů</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 22 mm, šířka 14,5 mm</dcterms:extent>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>stříbro, zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555472</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555470</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:description>Stříbrné pozlacené spony s obdélníkovou záhlavní destičkou, krátkým nízko klenutým lučíkem s reliéfním žebrem a dvěma klikatkami a se zdobenou patkou zakončená zvířecí hlavičkou </dc:description>
+					<dc:coverage>Praha-Hostivař</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0110278/001</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dcterms:temporal>Doba stěhování národů</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 54 mm, šířka 27 mm</dcterms:extent>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>stříbro, zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555485</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555483</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Amfora se širokou výdutí a dvěma protilehlými uchy, v horní třetině zdobená plastickou přesekávanou páskou</dc:description>
+					<dc:coverage>Praha-Čimice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0146776</dc:identifier>
+					<dc:date>Eneolit - Kultura se šňůrovou keramikou</dc:date>
+					<dc:date/>
+					<dc:date>-2800-1-1</dc:date>
+					<dcterms:temporal>Kultura se šňůrovou keramikou</dcterms:temporal>
+					<dcterms:created>-2800-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 216 mm, průměr okraje 110 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555498</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555496</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:malak</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náhrdelník</dc:title>
+					<dc:description>Provrtané perleťové kroužky vyrobené z lastur velevruba</dc:description>
+					<dc:coverage>Praha-Čimice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0146780</dc:identifier>
+					<dc:date>Eneolit - Kultura se šňůrovou keramikou</dc:date>
+					<dc:date/>
+					<dc:date>-2800-1-1</dc:date>
+					<dcterms:temporal>Kultura se šňůrovou keramikou</dcterms:temporal>
+					<dcterms:created>-2800-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr kroužků 10 mm, síla 2 mm</dcterms:extent>
+					<dcterms:medium>Jiné</dcterms:medium>
+					<dcterms:medium>malakofauna</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555511</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555509</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náhrdelník</dc:title>
+					<dc:description>Celkem 194 provrtaných zvířecích zubů (řezáky a špičáky psa domácího, vlka a lišky) a 36 jejich kostěných napodobenin</dc:description>
+					<dc:coverage>Praha-Čimice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0146781/001</dc:identifier>
+					<dc:date>Eneolit - Kultura se šňůrovou keramikou</dc:date>
+					<dc:date/>
+					<dc:date>-2800-1-1</dc:date>
+					<dcterms:temporal>Kultura se šňůrovou keramikou</dcterms:temporal>
+					<dcterms:created>-2800-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Velikost zubů od 15 mm do 40 mm, průměr otvoru od 2 mm do 4 mm</dcterms:extent>
+					<dcterms:medium>Kost</dcterms:medium>
+					<dcterms:medium>zub, kost</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555524</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555522</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Zvonek</dc:title>
+					<dc:description>Čtyřhranný zvonek s kruhovým držadlem </dc:description>
+					<dc:coverage>Praha-Veleslavín</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>π0000236</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date/>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>Doba stěhování národů</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 96 mm, základna 65 mm x 45 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555537</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555535</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Nízký koflík s širokým, vysoko vytaženým uchem</dc:description>
+					<dc:coverage>Praha-Lysolaje</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0050058</dc:identifier>
+					<dc:date>Doba halštatská - kultura bylanská</dc:date>
+					<dc:date/>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Kultura bylanská</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 80 mm, průměr okraje 150 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555550</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555548</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:BI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Sekeromlat</dc:title>
+					<dc:description>Broušený vrtaný sekeromlat českého typu </dc:description>
+					<dc:coverage>Praha-Liboc</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0013704</dc:identifier>
+					<dc:date>Eneolit</dc:date>
+					<dcterms:temporal>Eneolit</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>113 mm x 40 mm x 35 mm</dcterms:extent>
+					<dcterms:medium>Kámen jako stavební surovina</dcterms:medium>
+					<dcterms:medium>kámen</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555563</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555561</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:BI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Sekeromlat</dc:title>
+					<dc:description>Broušený vrtaný sekeromlat s oblým týlem </dc:description>
+					<dc:coverage>Ořech</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>PJ0000127</dc:identifier>
+					<dc:date>Eneolit</dc:date>
+					<dcterms:temporal>Eneolit</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 118 mm, šířka 43 mm, průměr otvoru 23 mm</dcterms:extent>
+					<dcterms:medium>Kámen jako stavební surovina</dcterms:medium>
+					<dcterms:medium>kámen</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555589</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555587</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Pohár zvonovitého tvaru s hlazeným povrchem a jedním uchem </dc:description>
+					<dc:coverage>Slaný</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>PJ0000256</dc:identifier>
+					<dc:date>Eneolit - kultura zvoncovitých pohárů</dc:date>
+					<dc:date/>
+					<dc:date>-4400-1-1</dc:date>
+					<dcterms:temporal>Eneolit</dcterms:temporal>
+					<dcterms:created>-4400-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 110 mm, průměr okraje 125 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555602</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555600</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:BI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Mlat</dc:title>
+					<dc:description>Broušený mlat se žlábkem</dc:description>
+					<dc:coverage>Praha-Lipence</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0146832</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 173 mm, šířka 32 mm, výška 80 mm</dcterms:extent>
+					<dcterms:medium>Kámen jako stavební surovina</dcterms:medium>
+					<dcterms:medium>kámen</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555615</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555613</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:BI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Mlat</dc:title>
+					<dc:description>Broušený mlat se žlábkem</dc:description>
+					<dc:coverage>Praha-Lipence</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0146833</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 145 mm, šířka 32 mm, výška 50 mm</dcterms:extent>
+					<dcterms:medium>Kámen jako stavební surovina</dcterms:medium>
+					<dcterms:medium>kámen</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555628</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555626</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Záušnice</dc:title>
+					<dc:description>Stříbrná záušnice s vícenásobnou esovitou kličkou </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160006/002</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Pravěk - střední Evropa</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 19 mm, síla 1 mm, šířka smyčky1,1 mm</dcterms:extent>
+					<dcterms:medium>Stříbro</dcterms:medium>
+					<dcterms:medium>stříbro</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555641</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555639</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Záušnice</dc:title>
+					<dc:description>Masívní bronzová stříbrem plátovaná záušnice se širokou esovitou kličkou </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160014</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 24 mm, síla 4 mm, šířka kličky 4-5mm</dcterms:extent>
+					<dcterms:medium>Stříbro</dcterms:medium>
+					<dcterms:medium>bronz, stříbro</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555667</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555665</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Záušnice</dc:title>
+					<dc:description>Masívní bronzová stříbrem plátovaná záušnice se širokou esovitou kličkou </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160016</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 25 mm, síla 4 mm, šířka kličky 4-5 mm</dcterms:extent>
+					<dcterms:medium>Stříbro</dcterms:medium>
+					<dcterms:medium>bronz, stříbro</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555680</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555678</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korálek</dc:title>
+					<dc:description>Kvádrovitý korálek s okosenými rohy </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160054</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>8 mm x 6-7mm</dcterms:extent>
+					<dcterms:medium>Jantar</dcterms:medium>
+					<dcterms:medium>jantar</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555693</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555691</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korálek</dc:title>
+					<dc:description>Plochý, oble zbroušený korálek </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160063</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>12 mm x 30 mm x 4 mm</dcterms:extent>
+					<dcterms:medium>Jantar</dcterms:medium>
+					<dcterms:medium>jantar</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555706</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555704</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korálek</dc:title>
+					<dc:description>Broušený dvojkónický korálek </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160065</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 10 mm, výška 8 mm</dcterms:extent>
+					<dcterms:medium>Jantar</dcterms:medium>
+					<dcterms:medium>jantar</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555719</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555717</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korálek</dc:title>
+					<dc:description>Tmavý korálek zdobený zkříženými bílými klikatkami a stylizovanými barevný květinovými motivy ve třech obvodových polích </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160066</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Pravěk - střední Evropa</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 13 mm</dcterms:extent>
+					<dcterms:medium>Sklo</dcterms:medium>
+					<dcterms:medium>skelná pasta</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555732</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555730</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korálek</dc:title>
+					<dc:description>Podlouhlý korálek ze žluté formy polodrahokamu fluoritu </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160073</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 23 mm, průměr 65 mm</dcterms:extent>
+					<dcterms:medium>Kámen jako stavební surovina</dcterms:medium>
+					<dcterms:medium>kámen</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555745</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555743</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hrot šípu</dc:title>
+					<dc:description>Trojúhelníkový hrot šípu s řapem </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160139</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 67 mm, šířka 26 mm</dcterms:extent>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555758</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555756</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hrot šípu</dc:title>
+					<dc:description>Protáhlý trojúhelníkový hrot šípu s částí řapu </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160140</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 62 mm, šířka 22 mm</dcterms:extent>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555771</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555769</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hrot šípu</dc:title>
+					<dc:description>Listovitý hrot šípu se zbytky dřeva na řapu </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160141</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 50 mm, šířka 18 mm</dcterms:extent>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555784</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555782</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hrot šípu</dc:title>
+					<dc:description>Hrot šípu zaškrceného listovitého tvaru, s částí řapu </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160142</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 49 mm, šířka 16 mm</dcterms:extent>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555797</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555795</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NASTR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nůž</dc:title>
+					<dc:description>Nůž s řapem se stopami dřevěné rukojeti </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160144</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 195 mm, šířka 22 mm</dcterms:extent>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555810</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555808</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Záušnice</dc:title>
+					<dc:description>Masívní stříbrem plátovaná záušnice s jednoduchou kličkou </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160153</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 16 mm, síla 4 mm, šířka kličky 5 mm</dcterms:extent>
+					<dcterms:medium>Stříbro</dcterms:medium>
+					<dcterms:medium>bronz, stříbro</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555823</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555821</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA</setSpec>
+				<setSpec>publikacePredmetu:S:1:JIRA:NASTR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Kladivo</dc:title>
+					<dc:description>Kladivo s otvorem obdélného tvaru </dc:description>
+					<dc:coverage>Praha-Veleslavín</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0001807</dc:identifier>
+					<dc:date>Pravěk</dc:date>
+					<dc:date/>
+					<dc:date>-8000-1-1</dc:date>
+					<dcterms:temporal>Pravěk - střední Evropa</dcterms:temporal>
+					<dcterms:created>-8000-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 128 mm</dcterms:extent>
+					<dcterms:medium>Paroh</dcterms:medium>
+					<dcterms:medium>paroh</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555836</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555834</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Záušnice</dc:title>
+					<dc:description>Masívní stříbrem plátovaná záušnice s jednoduchou kličkou </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160154</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 16 mm, síla 3,5mm, šířka kličky 5mm</dcterms:extent>
+					<dcterms:medium>Stříbro</dcterms:medium>
+					<dcterms:medium>bronz, stříbro</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555849</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555847</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náušnice</dc:title>
+					<dc:description>Stříbrná náušnice se třemi košíčky z filigránového drátu na spodním oblouku, zakončeném očkem </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160159</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Pravěk - střední Evropa</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr obloučku16 mm, košíček 6 mm x 5 mm</dcterms:extent>
+					<dcterms:medium>Stříbro</dcterms:medium>
+					<dcterms:medium>stříbro</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555862</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555860</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NASTR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Ocílka</dc:title>
+					<dc:description>Ocílka lyrovitého tvaru – součást křesadla </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160180</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 85 mm</dcterms:extent>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9579696</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555873</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:SI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Kámen křesací</dc:title>
+					<dc:description>Pazourek ke křesadlu se stopami užívání </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160181</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>35 mm x 30 mm</dcterms:extent>
+					<dcterms:medium>Pazourek</dcterms:medium>
+					<dcterms:medium>pazourek</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555888</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555886</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Lahev zdobená na podhrdlí liniemi vodorovných, svislých a šikmých rýh </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160218</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 84 mm, průměr okraje 37-17mm, průměr výdutě 84 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555901</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555899</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náhrdelník</dc:title>
+					<dc:description>Náhrdelník z broušených jantarových, kamenných a skleněných perel </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160279</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 4-13 mm</dcterms:extent>
+					<dcterms:medium>Sklo</dcterms:medium>
+					<dcterms:medium>jantar, kámen, sklo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555914</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555912</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korálek</dc:title>
+					<dc:description>Korálek olivovitého tvaru lahvově hnědozelené barvy </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160292</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 14 mm, průměr 7 mm</dcterms:extent>
+					<dcterms:medium>Sklo</dcterms:medium>
+					<dcterms:medium>sklo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555927</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555925</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korálek</dc:title>
+					<dc:description>Korálek nepravidelně olivovitého tvaru lahvově hnědozelené barvy </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160294</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 15 mm, průměr 8 mm</dcterms:extent>
+					<dcterms:medium>Sklo</dcterms:medium>
+					<dcterms:medium>sklo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555940</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555938</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korálek</dc:title>
+					<dc:description>Korálek olivovitého tvaru lahvově hnědozelené barvy </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160295</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 14 mm, průměr 8 mm</dcterms:extent>
+					<dcterms:medium>Sklo</dcterms:medium>
+					<dcterms:medium>sklo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555953</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555951</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Mísa s vyhnutým okrajem horizontálně zdobená rýhou, hřebenovou vlnicí a třemi jemnými rýhami </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160298</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 88 mm, průměr okraje 155 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555966</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555964</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Kaptorga</dc:title>
+					<dc:description>Kaptorga (schránka na ostatky a amulety) vyrobená z tenkého plechu, se zdobenou přední stranou, uvnitř byl složen zbytek textilu </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160332/001</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>25 mm x 41 mm x 6 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555979</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555977</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náhrdelník</dc:title>
+					<dc:description>Náhrdelník z jantarových a skleněných kulovitých, dvojkónických nebo osmihranných korálků, skleněné korálky jsou zelené, šedé a jeden modrý, některé zdobené klikatkami z tenkých vláken </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160335/001</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 5-13 mm</dcterms:extent>
+					<dcterms:medium>Sklo</dcterms:medium>
+					<dcterms:medium>jantar, sklo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9555992</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9555990</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Vejčitý hrnec zdobený třemi jednoduchými horizontálními liniemi překrytými nepravidelnou strmější vlnicí </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160379</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 124 mm, průměr okraje 128 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556005</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556003</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korálek</dc:title>
+					<dc:description>Devět různobarevných oblých sekaných korálků </dc:description>
+					<dc:coverage>Praha-Lahovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0160410/001</dc:identifier>
+					<dc:date>Doba hradištní</dc:date>
+					<dcterms:temporal>Doba hradištní</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 6 mm; výška 9 mm</dcterms:extent>
+					<dcterms:medium>Sklo</dcterms:medium>
+					<dcterms:medium>sklo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556018</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556016</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Baňatá amfora s kónicky zůženým hrdlem a výzdobou v podobě jemně rytých šrafovaných trojúhelníků a kosočtverců</dc:description>
+					<dc:coverage>Praha-Suchdol</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0210234</dc:identifier>
+					<dc:date>Doba halštatská - kultura bylanská</dc:date>
+					<dcterms:temporal>Kultura bylanská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 138 mm, průměr okraje 109 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556031</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556029</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Baňatá nádoba s nízkým odsazeným hrdlem, na uchu a na hrdle zdobená malovanými svislými pásy a na plecích šrafovanými trojúhelníky</dc:description>
+					<dc:coverage>Praha-Suchdol</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0210235</dc:identifier>
+					<dc:date>Doba halštatská - kultura bylanská</dc:date>
+					<dcterms:temporal>Kultura bylanská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 178 mm, průměr okraje 205 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556044</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556042</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Široká mísa uvnitř zdobená vlešťovanými hvězdicemi, šrafovanými pásy a vhlazovanými trojúhelníky</dc:description>
+					<dc:coverage>Praha-Suchdol</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0210242</dc:identifier>
+					<dc:date>Doba halštatská - kultura bylanská</dc:date>
+					<dcterms:temporal>Kultura bylanská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 65 mm, průměr okraje 248 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556057</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556055</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Mírně esovitě profilovaný talíř zdobený klikatými a šikmými svazky vhlazovaných linií</dc:description>
+					<dc:coverage>Praha-Suchdol</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0210248</dc:identifier>
+					<dc:date>Doba halštatská - kultura bylanská</dc:date>
+					<dcterms:temporal>Kultura bylanská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 52 mm, průměr okraje 300 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556070</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556068</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Forma</dc:title>
+					<dc:description>Část formy na odlévání bronzových předmětů </dc:description>
+					<dc:coverage>Praha-Stodůlky</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0229445</dc:identifier>
+					<dc:date>Doba bronzová</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 102 mm</dcterms:extent>
+					<dcterms:medium>Pískovec</dcterms:medium>
+					<dcterms:medium>pískovec</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556096</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556094</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Džbán s rozevřeným hrdlem a převýšeným rohatým uchem¨(typu ansa lunata/cornuta) zdobeným podélnými žlábky u vnějšího okraje</dc:description>
+					<dc:coverage>Praha-Kbely</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0236393</dc:identifier>
+					<dc:date>Eneolit - řivnáčská kultura</dc:date>
+					<dcterms:temporal>Kultura řivnáčská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 235 mm, průměr okraje 165 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556109</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556107</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Džbán s s rozevřeným hrdlem a převýšeným rohatým uchem (typu ansa lunata/cornuta)</dc:description>
+					<dc:coverage>Praha-Kbely</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0236395</dc:identifier>
+					<dc:date>Eneolit - řivnáčská kultura</dc:date>
+					<dcterms:temporal>Kultura řivnáčská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 215 mm, průměr okraje 150 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556122</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556120</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Džbán s rozevřeným hrdlem, se svislými žebry na těle a s převýšeným rohatým uchem¨(typu ansa lunata/cornuta) zdobeným podélnými žlábky u vnějšího okraje</dc:description>
+					<dc:coverage>Praha-Kbely</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0236396/001</dc:identifier>
+					<dc:date>Eneolit - řivnáčská kultura</dc:date>
+					<dcterms:temporal>Kultura řivnáčská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 243 mm, průměr okraje 180 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556135</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556133</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:SI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hrot šípu</dc:title>
+					<dc:description>Štípaný hrot šípu trojúhelníkovitého tvaru</dc:description>
+					<dc:coverage>Praha-Jinonice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0254925</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>20 mm x 20 mm x 4 mm</dcterms:extent>
+					<dcterms:medium>Pazourek</dcterms:medium>
+					<dcterms:medium>pazourek</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556161</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556159</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:SI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hrot šípu</dc:title>
+					<dc:description>Štípaný hrot šípu trojúhelníkovitého tvaru</dc:description>
+					<dc:coverage>Praha-Jinonice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0254926</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>15 mm x 13 mm x 4 mm</dcterms:extent>
+					<dcterms:medium>Pazourek</dcterms:medium>
+					<dcterms:medium>pazourek</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556174</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556172</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:SI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hrot šípu</dc:title>
+					<dc:description>Štípaný hrot šípu trojúhelníkovitého tvaru</dc:description>
+					<dc:coverage>Praha-Jinonice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0254927</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>23 mm x 18 mm x 4 mm</dcterms:extent>
+					<dcterms:medium>Pazourek</dcterms:medium>
+					<dcterms:medium>pazourek</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556187</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556185</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:SI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hrot šípu</dc:title>
+					<dc:description>Štípaný hrot šípu trojúhelníkovitého tvaru</dc:description>
+					<dc:coverage>Praha-Jinonice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0254928</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dc:date/>
+					<dc:date>-2200-1-1</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dcterms:created>-2200-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>19 mm x 17 mm x 4 mm</dcterms:extent>
+					<dcterms:medium>Pazourek</dcterms:medium>
+					<dcterms:medium>pazourek</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556200</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556198</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:SI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hrot šípu</dc:title>
+					<dc:description>Štípaný hrot šípu trojúhelníkovitého tvaru</dc:description>
+					<dc:coverage>Praha-Jinonice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0254929</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dc:date/>
+					<dc:date>-2200-1-1</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dcterms:created>-2200-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>22 mm x 19 mm x 4 mm</dcterms:extent>
+					<dcterms:medium>Pazourek</dcterms:medium>
+					<dcterms:medium>pazourek</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556213</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556211</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:SI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hrot šípu</dc:title>
+					<dc:description>Štípaný hrot šípu trojúhelníkovitého tvaru, hrot odlomen</dc:description>
+					<dc:coverage>Praha-Jinonice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0254930</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dc:date/>
+					<dc:date>-2200-1-1</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dcterms:created>-2200-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>16 mm x 13 mm x 3 mm</dcterms:extent>
+					<dcterms:medium>Pazourek</dcterms:medium>
+					<dcterms:medium>pazourek</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556226</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556224</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Závěsek</dc:title>
+					<dc:description>Broušený plochý závěsek tvaru rovnoramenného trojúhelníku s otvorem uprostřed</dc:description>
+					<dc:coverage>Praha-Jinonice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0254967</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>27 mm x 27 mm x 5 mm</dcterms:extent>
+					<dcterms:medium>Kámen jako stavební surovina</dcterms:medium>
+					<dcterms:medium>kámen</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556239</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556237</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:SI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hrot šípu</dc:title>
+					<dc:description>Štípaný hrot šípu trojúhelníkovitého tvaru</dc:description>
+					<dc:coverage>Praha-Jinonice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0254981</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>26 mm x 22 mm x 4 mm</dcterms:extent>
+					<dcterms:medium>Pazourek</dcterms:medium>
+					<dcterms:medium>pazourek</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556252</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556250</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:SI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hrot šípu</dc:title>
+					<dc:description>Štípaný hrot šípu s křidélky</dc:description>
+					<dc:coverage>Praha-Jinonice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0254980</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>26 mm x 13 mm x 4 mm</dcterms:extent>
+					<dcterms:medium>Pazourek</dcterms:medium>
+					<dcterms:medium>pazourek</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556265</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556263</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:SI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hrot šípu</dc:title>
+					<dc:description>Štípaný hrot šípu s křidélky</dc:description>
+					<dc:coverage>Praha-Jinonice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0254982</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>22 mm x 12 mm x 4 mm</dcterms:extent>
+					<dcterms:medium>Pazourek</dcterms:medium>
+					<dcterms:medium>pazourek</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556278</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556276</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:SI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hrot šípu</dc:title>
+					<dc:description>Štípaný hrot šípu s křidélky</dc:description>
+					<dc:coverage>Praha-Jinonice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0254983</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>24 mm x 18 mm x 5 mm</dcterms:extent>
+					<dcterms:medium>Pazourek</dcterms:medium>
+					<dcterms:medium>pazourek</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556291</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556289</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:BI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Bulava</dc:title>
+					<dc:description>Broušená bulava s kruhovým vrtaným otvorem</dc:description>
+					<dc:coverage>Praha-Hostivař</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0266322</dc:identifier>
+					<dc:date>Eneolit - Kultura se šňůrovou keramikou</dc:date>
+					<dc:date/>
+					<dc:date>-2800-1-1</dc:date>
+					<dcterms:temporal>Kultura se šňůrovou keramikou</dcterms:temporal>
+					<dcterms:created>-2800-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 44 mm, šířka 51 mm, průměr otvoru 16 mm</dcterms:extent>
+					<dcterms:medium>Kámen jako stavební surovina</dcterms:medium>
+					<dcterms:medium>kámen</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556304</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556302</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Kónická mísa s tordovaným okrajem, uvnitř na dně koncentrické žlábky, na stěnách kolmé a obloukovité pásy složené ze tří úzkých žlábků</dc:description>
+					<dc:coverage>Praha-Modřany</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0275177</dc:identifier>
+					<dc:date>Doba bronzová - kultura knovízská</dc:date>
+					<dcterms:temporal>Kultura knovízská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 75 mm, průměr okraje 260 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556317</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556315</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Bulava</dc:title>
+					<dc:description>Polotovar bulavy nepravidelně kulovitého tvaru, středový otvor je vrtaný z obou stran, ale nedokončený.</dc:description>
+					<dc:coverage>Praha-Ruzyně</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0337330</dc:identifier>
+					<dc:date>Eneolit</dc:date>
+					<dcterms:temporal>Eneolit</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 68 mm, výška 52 mm</dcterms:extent>
+					<dcterms:medium>Kámen jako stavební surovina</dcterms:medium>
+					<dcterms:medium>kámen</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556330</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556328</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:SI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pila</dc:title>
+					<dc:description>Štípaný nástroj - pilka s jednostrannou retuší podélných stran</dc:description>
+					<dc:coverage>Praha-Stodůlky</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0354569</dc:identifier>
+					<dc:date>Doba bronzová - kultura knovízská</dc:date>
+					<dcterms:temporal>Kultura knovízská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 72,5 mm, šířka 31 mm, síla 9 mm</dcterms:extent>
+					<dcterms:medium>Pazourek</dcterms:medium>
+					<dcterms:medium>pazourek</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556343</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556341</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Záušnice</dc:title>
+					<dc:description>Velká okrouhlá záušnice stočená z dvojitého drátu</dc:description>
+					<dc:coverage>Praha-Stodůlky</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0360121</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dc:date/>
+					<dc:date>-2200-1-1</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dcterms:created>-2200-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 38 mm, výška 12 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>měď/bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556356</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556354</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Jehlice</dc:title>
+					<dc:description>Jehlice s kónickou hlavicí a očkem, na krčku je rytá výzdoba větvičkovitým vzorem</dc:description>
+					<dc:coverage>Praha-Stodůlky</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0360133</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 100 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>měď/bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556369</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556367</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>

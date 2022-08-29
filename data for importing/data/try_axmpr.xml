@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH
+		xmlns="http://www.openarchives.org/OAI/2.0/"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xmlns:europeana="http://www.europeana.eu/schemas/ese/"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:dcterms="http://purl.org/dc/terms/"
+		xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2022-05-05T13:21:59Z</responseDate>
+	<request metadataPrefix="axmpr" set="publikacePredmetu" verb="ListRecords">http://admin.esbirky.cz/w4m/oai/MMP</request>
+	<ListRecords>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:BI</setSpec>
+			</header>
+			<metadata>
+				<axmpr
+						xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd">
+					<PublikacePredmetu
+							xmlns="">
+						<id>9554859</id>
+						<inventarniCislo>A0000127</inventarniCislo>
+						<nazev>Sekera</nazev>
+						<popis>Broušená plochá sekera s kónickým otvorem a souměrně zbroušeným ostřím </popis>
+						<rozmer>163 mm x 65 mm x 38 mm</rozmer>
+						<konvDatace>Neolit - eneolit</konvDatace>
+						<konvLokalita>Lokalita neznámá</konvLokalita>
+						<konvMaterial>kámen</konvMaterial>
+						<poznamka>záznam získán harvestingem OAI-PMH dne 7.3.2016</poznamka>
+						<autorskaPrava>http://www.europeana.eu/rights/rr-f/</autorskaPrava>
+						<datumPublikace>2015-12-21+01:00</datumPublikace>
+						<datumModifikace>2020-01-14+01:00</datumModifikace>
+						<Datace>
+							<start>-100000057000101</start>
+							<end>-100000044001231</end>
+							<snad>false</snad>
+							<snad2>false</snad2>
+							<dataceNazvemPublic setSpec="DataceNazvemPublic" oaiId="oai:esbirky.cz:~dataceNazvemPublic~313166" id="313166" label="Pravěk - střední Evropa|Neolit"/>
+						</Datace>
+						<typSbirkyPublic setSpec="TypSbirkyPublic" oaiId="oai:esbirky.cz:~typSbirkyPublic~17115" id="17115" label="Archeologické sbírky"/>
+						<materialPublic setSpec="MaterialPublic" oaiId="oai:esbirky.cz:~materialPublic~17269" id="17269" label="Nerost|Kámen jako stavební surovina"/>
+						<lokalitaPublic setSpec="LokalitaPublic" oaiId="oai:esbirky.cz:~lokalitaPublic~17193" id="17193" label="Evropa|Česká republika|Hlavní město Praha"/>
+						<typPredmetu>P</typPredmetu>
+						<KontextovyDokument>
+							<id>9554861</id>
+							<nahled>true</nahled>
+							<url>http://sbirky.muzeumprahy.cz/img.php?id=34022807</url>
+							<poznamka>záznam získán harvestingem OAI-PMH dne 16.12.2015</poznamka>
+							<licenceCc>false</licenceCc>
+							<typPrilohy>URL</typPrilohy>
+						</KontextovyDokument>
+						<sbirka setSpec="Sbirka" oaiId="oai:esbirky.cz:MMP~sbirka~3458476" id="3458476" label="S"/>
+						<spravceSbirky setSpec="SpravceSbirky" oaiId="oai:esbirky.cz:MMP~spravceSbirky~3458471" id="3458471" label="MMP"/>
+						<podsbirka setSpec="Podsbirka" id="3458477" label="1"/>
+						<fond setSpec="Fond" id="3459877" label="A"/>
+						<skupina setSpec="Skupina" id="9491067" label="BI"/>
+					</PublikacePredmetu>
+				</axmpr>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:BI</setSpec>
+			</header>
+			<metadata>
+				<axmpr
+						xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd">
+					<PublikacePredmetu
+							xmlns="">
+						<id>9554885</id>
+						<inventarniCislo>A0000386</inventarniCislo>
+						<nazev>Sekera</nazev>
+						<popis>Broušená plochá sekera, k týlu lichoběžníkovitě zúžená </popis>
+						<rozmer>230 mm x 68 mm x 23 mm</rozmer>
+						<konvDatace>Neolit</konvDatace>
+						<konvLokalita>Praha-Bubeneč</konvLokalita>
+						<konvMaterial>kámen</konvMaterial>
+						<poznamka>záznam získán harvestingem OAI-PMH dne 7.3.2016</poznamka>
+						<autorskaPrava>http://www.europeana.eu/rights/rr-f/</autorskaPrava>
+						<datumPublikace>2015-12-21+01:00</datumPublikace>
+						<datumModifikace>2020-01-14+01:00</datumModifikace>
+						<Datace>
+							<hodnota>Neolit</hodnota>
+							<start>-199999999990101</start>
+							<end>199999999990101</end>
+							<snad>false</snad>
+							<snad2>false</snad2>
+						</Datace>
+						<typSbirkyPublic setSpec="TypSbirkyPublic" oaiId="oai:esbirky.cz:~typSbirkyPublic~17115" id="17115" label="Archeologické sbírky"/>
+						<materialPublic setSpec="MaterialPublic" oaiId="oai:esbirky.cz:~materialPublic~17269" id="17269" label="Nerost|Kámen jako stavební surovina"/>
+						<lokalitaPublic setSpec="LokalitaPublic" oaiId="oai:esbirky.cz:~lokalitaPublic~17193" id="17193" label="Evropa|Česká republika|Hlavní město Praha"/>
+						<typPredmetu>P</typPredmetu>
+						<KontextovyDokument>
+							<id>9554887</id>
+							<nahled>true</nahled>
+							<url>http://sbirky.muzeumprahy.cz/img.php?id=34040504</url>
+							<poznamka>záznam získán harvestingem OAI-PMH dne 16.12.2015</poznamka>
+							<licenceCc>false</licenceCc>
+							<typPrilohy>URL</typPrilohy>
+						</KontextovyDokument>
+						<sbirka setSpec="Sbirka" oaiId="oai:esbirky.cz:MMP~sbirka~3458476" id="3458476" label="S"/>
+						<spravceSbirky setSpec="SpravceSbirky" oaiId="oai:esbirky.cz:MMP~spravceSbirky~3458471" id="3458471" label="MMP"/>
+						<podsbirka setSpec="Podsbirka" id="3458477" label="1"/>
+						<fond setSpec="Fond" id="3459877" label="A"/>
+						<skupina setSpec="Skupina" id="9491067" label="BI"/>
+					</PublikacePredmetu>
+				</axmpr>
+			</metadata>
+		</record>
+		<resumptionToken completeListSize="308" cursor="0">metadataPrefix~axmpr!set~publikacePredmetu!nextPage~1</resumptionToken>
+	</ListRecords>
+</OAI-PMH>

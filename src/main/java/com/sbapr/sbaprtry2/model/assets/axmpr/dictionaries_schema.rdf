@@ -1,0 +1,611 @@
+<rdf:RDF 
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:myloc="http://myloc.org/"
+xmlns:mymat="http://mymat.org/"
+xmlns:myera="http://myera.org/">
+
+<!-- regions -->
+
+<rdf:Description rdf:about="http://myloc.org/332456">
+	<rdf:type rdf:resource="http://myloc.org/region" />
+	<dc:title>Prešovský kraj</dc:title>
+	<myloc:isRegionOf rdf:resource="http://myloc.org/Sk"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myloc.org/17193">
+	<rdf:type rdf:resource="http://myloc.org/region" />
+	<dc:title>Hlavní město Praha</dc:title>
+	<myloc:isRegionOf rdf:resource="http://myloc.org/17153"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myloc.org/17202">
+	<rdf:type rdf:resource="http://myloc.org/region" />
+	<dc:title>Vysočina</dc:title>
+	<myloc:isRegionOf rdf:resource="http://myloc.org/17153"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myloc.org/17194">
+	<rdf:type rdf:resource="http://myloc.org/region" />
+	<dc:title>Středočeský kraj</dc:title>
+	<myloc:isRegionOf rdf:resource="http://myloc.org/17153"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myloc.org/17195">
+	<rdf:type rdf:resource="http://myloc.org/region" />
+	<dc:title>Jihočeský kraj</dc:title>
+	<myloc:isRegionOf rdf:resource="http://myloc.org/17153"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myloc.org/17196">
+	<rdf:type rdf:resource="http://myloc.org/region" />
+	<dc:title>Plzeňský kraj</dc:title>
+	<myloc:isRegionOf rdf:resource="http://myloc.org/17153"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myloc.org/17198">
+	<rdf:type rdf:resource="http://myloc.org/region" />
+	<dc:title>Ústecký kraj</dc:title>
+	<myloc:isRegionOf rdf:resource="http://myloc.org/17153"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myloc.org/17199">
+	<rdf:type rdf:resource="http://myloc.org/region" />
+	<dc:title>Liberecký kraj</dc:title>
+	<myloc:isRegionOf rdf:resource="http://myloc.org/17153"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myloc.org/17200">
+	<rdf:type rdf:resource="http://myloc.org/region" />
+	<dc:title>Kralovohradecký kraj</dc:title>
+	<myloc:isRegionOf rdf:resource="http://myloc.org/17153"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myloc.org/17201">
+	<rdf:type rdf:resource="http://myloc.org/region" />
+	<dc:title>Pardubický kraj</dc:title>
+	<myloc:isRegionOf rdf:resource="http://myloc.org/17153"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myloc.org/17203">
+	<rdf:type rdf:resource="http://myloc.org/region" />
+	<dc:title>Jihomoravský kraj</dc:title>
+	<myloc:isRegionOf rdf:resource="http://myloc.org/17153"/>
+</rdf:Description>
+
+<!-- countries -->
+
+<rdf:Description rdf:about="http://myloc.org/17153">
+	<rdf:type rdf:resource="http://myloc.org/country" />
+	<dc:title>Česká republika</dc:title>
+	<myloc:isCountryOf rdf:resource="http://myloc.org/17143" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myloc.org/17186">
+	<rdf:type rdf:resource="http://myloc.org/country" />
+	<dc:title>Srbsko</dc:title>
+	<myloc:isCountryOf rdf:resource="http://myloc.org/17143" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myloc.org/Sk">
+	<rdf:type rdf:resource="http://myloc.org/country" />
+	<dc:title>Slovenská republika</dc:title>
+	<myloc:isCountryOf rdf:resource="http://myloc.org/17143" />
+</rdf:Description>
+
+<!-- continent -->
+
+<rdf:Description rdf:about="http://myloc.org/17143">
+	<rdf:type rdf:resource="http://myloc.org/continent" />
+	<dc:title>Evropa</dc:title>
+</rdf:Description>
+
+<!-- schema -->
+
+<rdf:Description rdf:about="http://myloc.org/lokalitaPublic">
+	<dc:title>Lokalita</dc:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myloc.org/region">
+	<dc:title>region</dc:title>
+	<rdfs:subClassOf rdf:resource="http://myloc.org/lokalitaPublic" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myloc.org/country">
+	<dc:title>country</dc:title>
+	<rdfs:subClassOf rdf:resource="http://myloc.org/lokalitaPublic" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myloc.org/continent">
+	<dc:title>continent</dc:title>
+	<rdfs:subClassOf rdf:resource="http://myloc.org/lokalitaPublic" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myloc.org/isRegionOf">
+	<rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/isPartOf" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myloc.org/isCountryOf">
+	<rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/isPartOf" />
+</rdf:Description>
+
+<!-- cultures -->
+
+<rdf:Description rdf:about="http://myera.org/17476">
+	<rdf:type rdf:resource="http://myera.org/culture" />
+	<dc:title>Kultura s lineární keramikou</dc:title>
+	<myera:isCultureOf rdf:resource="http://myera.org/313166"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/17478">
+	<rdf:type rdf:resource="http://myera.org/culture" />
+	<dc:title>Kultura s vypíchanou keramikou</dc:title>
+	<myera:isCultureOf rdf:resource="http://myera.org/313166"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/17486">
+	<rdf:type rdf:resource="http://myera.org/culture" />
+	<dc:title>Kultura jordanovská</dc:title>
+	<myera:isCultureOf rdf:resource="http://myera.org/313168"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/17494">
+	<rdf:type rdf:resource="http://myera.org/culture" />
+	<dc:title>Kultura řivnáčská</dc:title>
+	<myera:isCultureOf rdf:resource="http://myera.org/313168"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/17498">
+	<rdf:type rdf:resource="http://myera.org/culture" />
+	<dc:title>Kultura se šňůrovou keramikou</dc:title>
+	<myera:isCultureOf rdf:resource="http://myera.org/313168"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/17504">
+	<rdf:type rdf:resource="http://myera.org/culture" />
+	<dc:title>Kultura únětická</dc:title>
+	<myera:isCultureOf rdf:resource="http://myera.org/313170"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/17506">
+	<rdf:type rdf:resource="http://myera.org/culture" />
+	<dc:title>Kultura věteřovská</dc:title>
+	<myera:isCultureOf rdf:resource="http://myera.org/313170"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/17510">
+	<rdf:type rdf:resource="http://myera.org/culture" />
+	<dc:title>Kultura knovízská</dc:title>
+	<myera:isCultureOf rdf:resource="http://myera.org/313170"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/17518">
+	<rdf:type rdf:resource="http://myera.org/culture" />
+	<dc:title>Starší doba římská</dc:title>
+	<myera:isCultureOf rdf:resource="http://myera.org/17534"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/17516">
+	<rdf:type rdf:resource="http://myera.org/culture" />
+	<dc:title>Doba halštatská</dc:title>
+	<myera:isCultureOf rdf:resource="http://myera.org/313172"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/17532">
+	<rdf:type rdf:resource="http://myera.org/culture" />
+	<dc:title>Doba laténská</dc:title>
+	<myera:isCultureOf rdf:resource="http://myera.org/313172"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/17524">
+	<rdf:type rdf:resource="http://myera.org/subculture" />
+	<dc:title>Kultura bylanská</dc:title>
+	<myera:isSubcultureOf rdf:resource="http://myera.org/17516"/>
+</rdf:Description>
+
+<!-- periods -->
+
+<rdf:Description rdf:about="http://myera.org/294944">
+	<rdf:type rdf:resource="http://myera.org/period" />
+	<dc:title>17. století</dc:title>
+	<myera:isPeriodOf rdf:resource="http://myera.org/Stoleti"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/294946">
+	<rdf:type rdf:resource="http://myera.org/period" />
+	<dc:title>18. století</dc:title>
+	<myera:isPeriodOf rdf:resource="http://myera.org/Stoleti"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/294948">
+	<rdf:type rdf:resource="http://myera.org/period" />
+	<dc:title>19. století</dc:title>
+	<myera:isPeriodOf rdf:resource="http://myera.org/Stoleti"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/294950">
+	<rdf:type rdf:resource="http://myera.org/period" />
+	<dc:title>20. století</dc:title>
+	<myera:isPeriodOf rdf:resource="http://myera.org/Stoleti"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/10169475">
+	<rdf:type rdf:resource="http://myera.org/period" />
+	<dc:title>Časně slovanské období - pražský typ</dc:title>
+	<myera:isPeriodOf rdf:resource="http://myera.org/313122"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/17534">
+	<rdf:type rdf:resource="http://myera.org/period" />
+	<dc:title>Doba římská</dc:title>
+	<myera:isPeriodOf rdf:resource="http://myera.org/313122"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/17556">
+	<rdf:type rdf:resource="http://myera.org/period" />
+	<dc:title>Doba stěhování národů</dc:title>
+	<myera:isPeriodOf rdf:resource="http://myera.org/313122"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/313166">
+	<rdf:type rdf:resource="http://myera.org/period" />
+	<dc:title>Neolit</dc:title>
+	<myera:isPeriodOf rdf:resource="http://myera.org/313122"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/313172">
+	<rdf:type rdf:resource="http://myera.org/period" />
+	<dc:title>Doba železná</dc:title>
+	<myera:isPeriodOf rdf:resource="http://myera.org/313122" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/313170">
+	<rdf:type rdf:resource="http://myera.org/period" />
+	<dc:title>Doba bronzová</dc:title>
+	<myera:isPeriodOf rdf:resource="http://myera.org/313122"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/313168">
+	<rdf:type rdf:resource="http://myera.org/period" />
+	<dc:title>Eneolit</dc:title>
+	<myera:isPeriodOf rdf:resource="http://myera.org/313122"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/313164">
+	<rdf:type rdf:resource="http://myera.org/period" />
+	<dc:title>Paleolit a mezolit</dc:title>
+	<myera:isPeriodOf rdf:resource="http://myera.org/313122"/>
+</rdf:Description>
+
+<!-- eras -->
+ 
+<rdf:Description rdf:about="http://myera.org/Stoleti">
+	<rdf:type rdf:resource="http://myera.org/era" />
+	<dc:title>Století 1.-21.</dc:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/313122">
+	<rdf:type rdf:resource="http://myera.org/era" />
+	<dc:title>Pravěk - střední Evropa</dc:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/313176">
+	<rdf:type rdf:resource="http://myera.org/era" />
+	<dc:title>Středověk</dc:title>
+</rdf:Description>
+
+<!-- schema -->
+
+<rdf:Description rdf:about="http://myera.org/subculture">
+	<dc:title>subculture</dc:title>
+	<rdfs:subClassOf rdf:resource="http://myera.org/dataceNazvemPublic" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/culture">
+	<dc:title>culture</dc:title>
+	<rdfs:subClassOf rdf:resource="http://myera.org/dataceNazvemPublic" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/period">
+	<dc:title>period</dc:title>
+	<rdfs:subClassOf rdf:resource="http://myera.org/dataceNazvemPublic" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/era">
+	<dc:title>era</dc:title>
+	<rdfs:subClassOf rdf:resource="http://myera.org/dataceNazvemPublic" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/dataceNazvemPublic">
+	<dc:title>Datace Nazvem</dc:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/isSubcultureOf">
+	<rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/isPartOf" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/isCultureOf">
+	<rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/isPartOf" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://myera.org/isPeriodOf">
+	<rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/isPartOf" />
+</rdf:Description>
+
+<!-- material subgroups -->
+
+<rdf:Description rdf:about="http://mymat.org/17266">
+	<rdf:type rdf:resource="http://mymat.org/materialSubgroup" />
+	<dc:title>Grafit</dc:title>
+	<mymat:isSubgroupOf rdf:resource="http://mymat.org/mineral"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17268">
+	<rdf:type rdf:resource="http://mymat.org/materialSubgroup" />
+	<dc:title>Jantar</dc:title>
+	<mymat:isSubgroupOf rdf:resource="http://mymat.org/mineral"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17289">
+	<rdf:type rdf:resource="http://mymat.org/materialSubgroup" />
+	<dc:title>Pazourek</dc:title>
+	<mymat:isSubgroupOf rdf:resource="http://mymat.org/mineral"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17272">
+	<rdf:type rdf:resource="http://mymat.org/materialSubgroup" />
+	<dc:title>Břidlice</dc:title>
+	<mymat:isSubgroupOf rdf:resource="http://mymat.org/hornina"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17290">
+	<rdf:type rdf:resource="http://mymat.org/materialSubgroup" />
+	<dc:title>Pískovec</dc:title>
+	<mymat:isSubgroupOf rdf:resource="http://mymat.org/hornina"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17294">
+	<rdf:type rdf:resource="http://mymat.org/materialSubgroup" />
+	<dc:title>Rohovec</dc:title>
+	<mymat:isSubgroupOf rdf:resource="http://mymat.org/hornina"/>
+</rdf:Description>
+
+<!-- material groups -->
+
+<rdf:Description rdf:about="http://mymat.org/17208">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Atlas</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17207"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17238">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Plátno</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17207"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17269">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Kámen jako stavební surovina</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Nerost"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/mineral">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Minerál</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Nerost"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/hornina">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Hornina</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Nerost"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/7800472">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Zkamenělina</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Nerost"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17307">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Dřevo</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Rost"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17316">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Pryskyřice</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Rost"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17327">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Kost</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Ziv"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17328">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Kůže</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Ziv"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17332">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Paroh</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Ziv"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17337">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Skořápka</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Ziv"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17341">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Zub</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Ziv"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17346">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Ulita</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Ziv"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/3902376">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Lastura</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Ziv"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17361">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Keramika</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17347"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17364">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Lignit</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17347"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17367">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Mazanice</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17347"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17369">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Papír</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17347"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17374">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Sklo</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17347"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17382">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Hlína</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17347"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17389">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Bronz</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17384"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17391">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Cín</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17384"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17392">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Měď</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17384"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17394">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Olovo</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17384"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17401">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Plech</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17384"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17402">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Stříbro</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17384"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17403">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Zlato</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17384"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17404">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Železo</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17384"/>
+</rdf:Description>
+
+<!-- materials -->
+
+<rdf:Description rdf:about="http://mymat.org/17207">
+	<rdf:type rdf:resource="http://mymat.org/material" />
+	<dc:title>Textil</dc:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/Nerost">
+	<rdf:type rdf:resource="http://mymat.org/material" />
+	<dc:title>Nerost</dc:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/Rost">
+	<rdf:type rdf:resource="http://mymat.org/material" />
+	<dc:title>Rostlinný původ</dc:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/Ziv">
+	<rdf:type rdf:resource="http://mymat.org/material" />
+	<dc:title>Živočišný původ</dc:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17347">
+	<rdf:type rdf:resource="http://mymat.org/material" />
+	<dc:title>Jiné</dc:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17384">
+	<rdf:type rdf:resource="http://mymat.org/material" />
+	<dc:title>Kov</dc:title>
+</rdf:Description>
+
+<!-- schema -->
+
+<rdf:Description rdf:about="http://mymat.org/materialSubgroup">
+	<dc:title>material subgroup</dc:title>
+	<rdfs:subClassOf rdf:resource="http://mymat.org/materialPublic" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/materialGroup">
+	<dc:title>material group</dc:title>
+	<rdfs:subClassOf rdf:resource="http://mymat.org/materialPublic" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/material">
+	<dc:title>material</dc:title>
+	<rdfs:subClassOf rdf:resource="http://mymat.org/materialPublic" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/materialPublic">
+	<dc:title>Material</dc:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/isSubgroupOf">
+	<rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/isPartOf" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/isGroupOf">
+	<rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/isPartOf" />
+</rdf:Description>
+
+</rdf:RDF>

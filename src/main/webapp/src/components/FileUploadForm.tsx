@@ -1,12 +1,18 @@
 import {ChangeEvent, FormEvent, useEffect, useState} from "react";
 
-export const FileUploadForm = () => {
+interface FileUploadFormProps {
+    onLoad: (loading: boolean, uploaded: boolean) => void;
+}
+
+
+export const FileUploadForm = ({onLoad}: FileUploadFormProps) => {
     const [format, setFormat] = useState("ese");
     const [file, setFile] = useState<File | undefined>();
     const [error, setError] = useState<string | null>(null);
 
     function handleSubmit(e: FormEvent<HTMLFormElement>) {
         e.preventDefault();
+        onLoad(true, false);
         if (file === undefined || error) return;
         const formData = new FormData();
         formData.append('file', file);
@@ -20,6 +26,7 @@ export const FileUploadForm = () => {
         )
             .then((response) => {
                 console.log(`Success... ${response.status} ... ${response.statusText}`);
+                onLoad(false, true);
             })
             .catch((error) => {
                 console.error('Error:', error);
@@ -39,31 +46,35 @@ export const FileUploadForm = () => {
     }, [file]);
 
     return (
-        <form onSubmit={handleSubmit}>
-            <label htmlFor="format">Select a format:</label>
-            <select
-                name="format"
-                id="format"
-                value={format}
-                onChange={(e) => setFormat(e.target.value)}>
-                <option value="ese">ESE</option>
-                <option value="axmpr">AXMPR</option>
-            </select>
+        <div className="row">
+            <div className="col-sm-12">
+                <form onSubmit={handleSubmit}>
+                    <label htmlFor="format">Select a format:</label>
+                    <select
+                        name="format"
+                        id="format"
+                        value={format}
+                        onChange={(e) => setFormat(e.target.value)}>
+                        <option value="ese">ESE</option>
+                        <option value="axmpr">AXMPR</option>
+                    </select>
 
-            <label htmlFor="file" className="button">Upload file</label>
-            <input
-                type="file"
-                id="file"
-                name="file"
-                style={{display: "none"}}
-                accept=".xml"
-                onChange={handleChange}/>
-            <br/>
+                    <label htmlFor="file" className="button">Upload file</label>
+                    <input
+                        type="file"
+                        id="file"
+                        name="file"
+                        style={{display: "none"}}
+                        accept=".xml"
+                        onChange={handleChange}/>
+                    <br/>
 
-            {file && <p>Filename: {file.name}</p>}
-            {error && <p>{error}</p>}
+                    {file && <p>Filename: {file.name}</p>}
+                    {error && <p>{error}</p>}
 
-            <button type="submit">Submit</button>
-        </form>
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+        </div>
     );
 }

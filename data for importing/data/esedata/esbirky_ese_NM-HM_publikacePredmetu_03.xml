@@ -1,0 +1,3539 @@
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-04T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Kroužek</dc:title>
+					<dc:description>Kroužek, dnes na jednom místě prolomený, z bronzové tyčinky čočkovitého průřezu, na vnějším obvodu zdobený paprskovitě sázenými krátkými vyhraněnými tyčinkami.</dc:description>
+					<dc:coverage>Podbaba (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-51184</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>300..600</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3637525</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/116096</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-04T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:description>Bronzová spona se samostřílovým vinutím, zakrytým válcovitým pláštíkem, zdobeným rytím a tečkováním.</dc:description>
+					<dc:coverage>Pchery (u Slaného)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-51684</dc:identifier>
+					<dc:date>Doba stěhování národů  ?</dc:date>
+					<dc:date>Doba stěhování národů  ?</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>300..600</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:creator/>
+					<dc:creator>Lenka Káchová</dc:creator>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=116618</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/116616</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-04T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Návlečka knoflíkovitá</dc:title>
+					<dc:description>Bronz. ozdobný knoflíček, kruhovitého mírně vyklenutého těla s prsovitým pupíkem zakončeným malou trubičkou, uprostřed. Na spodní straně jsou dvě široká plochá úška k provléknutí řemene. Okraj knoflíku je olámán, nečistá patina.</dc:description>
+					<dc:coverage>Chlum (u Opařan?)</dc:coverage>
+					<dcterms:spatial>Jihočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1 - 48399</dc:identifier>
+					<dc:date>doba halštatská A ?</dc:date>
+					<dc:date>doba halštatská A ?</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=141192</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/141190</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-04T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Návlečka knoflíkovitá</dc:title>
+					<dc:description>Bronz. ozdobný knoflíček, kruhovitého mírně vyklenutého těla s prsovitým pupíkem zakončeným malou trubičkou, uprostřed. Na spodní straně jsou dvě široká plochá úška k provléknutí řemene. Okraj knoflíku je olámán, nečistá patina.</dc:description>
+					<dc:coverage>Chlum (u Opařan?)</dc:coverage>
+					<dcterms:spatial>Jihočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1 - 48400</dc:identifier>
+					<dc:date>doba halštatská A ?</dc:date>
+					<dc:date>doba halštatská A ?</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=141205</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/141203</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-04T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Návlečka knoflíkovitá</dc:title>
+					<dc:description>Bronz. ozdobný knoflíček, kruhovitého mírně vyklenutého těla s prsovitým pupíkem zakončeným malou trubičkou, uprostřed. Na spodní straně jsou dvě široká plochá úška k provléknutí řemene. Okraj knoflíku je olámán, nečistá patina.</dc:description>
+					<dc:coverage>Chlum (u Opařan?)</dc:coverage>
+					<dcterms:spatial>Jihočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1 - 48401</dc:identifier>
+					<dc:date>doba halštatská A ?</dc:date>
+					<dc:date>doba halštatská A ?</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovolitectví</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=141218</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/141216</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-04T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Římský meč</dc:title>
+					<dc:coverage>Úhřetice</dc:coverage>
+					<dcterms:spatial>Pardubický kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-18614</dc:identifier>
+					<dc:date>Doba římská</dc:date>
+					<dc:date/>
+					<dc:date>-50-1-1</dc:date>
+					<dcterms:temporal>-50..380</dcterms:temporal>
+					<dcterms:created>-50-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovotepectví</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3387022</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/3387020</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-04T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Železné kopí s tulejí a žebrem</dc:title>
+					<dc:coverage>Úhřetice</dc:coverage>
+					<dcterms:spatial>Pardubický kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-19776, H1-19777</dc:identifier>
+					<dc:date>Doba římská</dc:date>
+					<dc:date/>
+					<dc:date>-50-1-1</dc:date>
+					<dcterms:temporal>-50..380</dcterms:temporal>
+					<dcterms:created>-50-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovotepectví</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3387045</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/3387043</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-04T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Železné zlomky kování pochvy meče</dc:title>
+					<dc:coverage>Úhřetice</dc:coverage>
+					<dcterms:spatial>Pardubický kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-19778-9_19781-4</dc:identifier>
+					<dc:date>Doba římská</dc:date>
+					<dc:date/>
+					<dc:date>-50-1-1</dc:date>
+					<dcterms:temporal>-50..380</dcterms:temporal>
+					<dcterms:created>-50-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovotepectví</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3387056</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/3387054</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-04T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Zlomky rourkovitého kování pochvy meče</dc:title>
+					<dc:coverage>Úhřetice</dc:coverage>
+					<dcterms:spatial>Pardubický kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-19785-90</dc:identifier>
+					<dc:date>Doba římská</dc:date>
+					<dc:date/>
+					<dc:date>-50-1-1</dc:date>
+					<dcterms:temporal>-50..380</dcterms:temporal>
+					<dcterms:created>-50-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovotepectví</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3387068</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/3387066</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-04T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Železná kosa</dc:title>
+					<dc:coverage>České Lhotice</dc:coverage>
+					<dcterms:spatial>Pardubický kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-135880</dc:identifier>
+					<dc:date>Doba laténská</dc:date>
+					<dc:date/>
+					<dc:date>-400-1-1</dc:date>
+					<dcterms:temporal>-400..1</dcterms:temporal>
+					<dcterms:created>-400-1-1</dcterms:created>
+					<dc:format>Kovolitectví</dc:format>
+					<dc:format>Kovotepectví</dc:format>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3387112</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/3387110</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-04T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Fotografie</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Fotografie:Fotografie</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Lier, Jan</dc:title>
+					<dc:description>portrét Jana Liera, na reversu: K padesátým narozeninám spisovatelovým, značeno: Kabinet portrait, nedat., Čechy</dc:description>
+					<dc:coverage>Čechy</dc:coverage>
+					<dcterms:spatial>Česká republika</dcterms:spatial>
+					<dc:type>tisk fotografie</dc:type>
+					<dc:relation>Fotografie</dc:relation>
+					<dc:identifier>H6p-10/2011 - sig. 10F28</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3973973</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/3973969</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-04T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:DS</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Fotografie</setSpec>
+				<setSpec>publikacePredmetu:S:DS:Fotografie:Fotografie</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Lier, Jan</dc:title>
+					<dc:description>portrét dramaturga Národního divadla a divadelního kritika Jana Liera (1852 - 1917)</dc:description>
+					<dc:coverage>Čechy</dc:coverage>
+					<dcterms:spatial>Česká republika</dcterms:spatial>
+					<dc:type>pohlednice</dc:type>
+					<dc:relation>Fotografie</dc:relation>
+					<dc:identifier>H6E19863 - sig. IIF2615</dc:identifier>
+					<dc:date>s. a.</dc:date>
+					<dc:creator>Langhans</dc:creator>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3974012</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/3974008</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náramek (zlomky)  ...</dc:title>
+					<dc:coverage>Bubeneč (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-13810</dc:identifier>
+					<dc:date>Únětická kultura ?</dc:date>
+					<dc:date>Únětická kultura ?</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3670663</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/20779</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náušnice</dc:title>
+					<dc:coverage>Bubeneč (Praha)-nádraží</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-17899</dc:identifier>
+					<dc:date>Únětická kultura ?</dc:date>
+					<dc:date>Únětická kultura ?</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>-2000..-750</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3677773</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/22154</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náušnice</dc:title>
+					<dc:coverage>Bubeneč (Praha)-nádraží</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-17900</dc:identifier>
+					<dc:date>Únětická kultura ?</dc:date>
+					<dc:date>Únětická kultura ?</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>-2000..-750</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3677774</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/22165</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náušnice</dc:title>
+					<dc:coverage>Kamýk (u Prahy)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-19755</dc:identifier>
+					<dc:date>Únětická kultura ?</dc:date>
+					<dc:date>Únětická kultura ?</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>-2000..-750</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3677789</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/22198</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náramek (část)</dc:title>
+					<dc:coverage>Vinoř (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-26105</dc:identifier>
+					<dc:date>Mladší doba bronzová neurčená</dc:date>
+					<dc:date>Mladší doba bronzová neurčená</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>-2000..-750</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3678143</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/22484</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Sekerka (část)</dc:title>
+					<dc:coverage>Vinoř (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-26112</dc:identifier>
+					<dc:date>Mladší doba bronzová neurčená</dc:date>
+					<dc:date>Mladší doba bronzová neurčená</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>-2000..-750</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3678195</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/22561</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Kopí (část)</dc:title>
+					<dc:coverage>Vinoř (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-26119</dc:identifier>
+					<dc:date>Mladší doba bronzová neurčená</dc:date>
+					<dc:date>Mladší doba bronzová neurčená</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>-2000..-750</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3678240</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/22638</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Srp (zlomek)</dc:title>
+					<dc:coverage>Vinoř (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-26139</dc:identifier>
+					<dc:date>Mladší doba bronzová neurčená</dc:date>
+					<dc:date>Mladší doba bronzová neurčená</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>-2000..-750</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3678346</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/22792</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Srp (zlomek)</dc:title>
+					<dc:coverage>Vinoř (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-26188</dc:identifier>
+					<dc:date>Mladší doba bronzová neurčená</dc:date>
+					<dc:date>Mladší doba bronzová neurčená</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>-2000..-750</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3678350</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/22803</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Srp (zlomek)</dc:title>
+					<dc:coverage>Vinoř (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-26190</dc:identifier>
+					<dc:date>Mladší doba bronzová neurčená</dc:date>
+					<dc:date>Mladší doba bronzová neurčená</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>-2000..-750</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3678354</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/22814</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Srp (zlomek)</dc:title>
+					<dc:coverage>Vinoř (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-26198</dc:identifier>
+					<dc:date>Mladší doba bronzová neurčená</dc:date>
+					<dc:date>Mladší doba bronzová neurčená</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>-2000..-750</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3678364</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/22847</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Bronzovina</dc:title>
+					<dc:coverage>Vinoř (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-26200</dc:identifier>
+					<dc:date>Mladší doba bronzová neurčená</dc:date>
+					<dc:date>Mladší doba bronzová neurčená</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>-2000..-750</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3678370</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/22858</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Drát</dc:title>
+					<dc:coverage>Čechy - neznámé nal.</dc:coverage>
+					<dcterms:spatial>Česká republika</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-47748</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>-2000..-750</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3680060</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/23837</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Sekerka (část)</dc:title>
+					<dc:coverage>Suchdol (Praha)-Kozí hřbety</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-48882</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3681415</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/24475</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona (část)</dc:title>
+					<dc:coverage>Suchdol (Praha)-Kozí hřbety</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-48884</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3681419</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/24497</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Záušnice ?</dc:title>
+					<dc:coverage>Hosty (u Týna n. Vlt.)-les Kopcová</dc:coverage>
+					<dcterms:spatial>Jihočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-58905</dc:identifier>
+					<dc:date>Únětická kultura ?</dc:date>
+					<dc:date>Únětická kultura ?</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3682292</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/24849</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:coverage>Hořovičky (u Rakovníka)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210107</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Měď</dcterms:medium>
+					<dcterms:medium>Měď</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3682894</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/26631</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:coverage>Hořovičky (u Rakovníka)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210118</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Měď</dcterms:medium>
+					<dcterms:medium>Měď</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3682919</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/26752</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:coverage>Hořovičky (u Rakovníka)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210119</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Měď</dcterms:medium>
+					<dcterms:medium>Měď</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3682921</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/26763</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:coverage>Hořovičky (u Rakovníka)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210124</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Měď</dcterms:medium>
+					<dcterms:medium>Měď</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3682933</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/26818</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:coverage>Hořovičky (u Rakovníka)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210125</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:extent>Celkový průměr 93, váha 204 g.</dcterms:extent>
+					<dcterms:medium>Měď</dcterms:medium>
+					<dcterms:medium>Měď</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3682936</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/26829</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:coverage>Hořovičky (u Rakovníka)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210126</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:extent>Celkový průměr 150, váha 211 g.</dcterms:extent>
+					<dcterms:medium>Měď</dcterms:medium>
+					<dcterms:medium>Měď</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3682938</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/26840</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:coverage>Hořovičky (u Rakovníka)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210127</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:extent>Celkový průměr 147, váha 203 g.</dcterms:extent>
+					<dcterms:medium>Měď</dcterms:medium>
+					<dcterms:medium>Měď</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3682940</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/26851</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:coverage>Hořovičky (u Rakovníka)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210128</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:extent>Celkový průměr 153, váha 236 g.</dcterms:extent>
+					<dcterms:medium>Měď</dcterms:medium>
+					<dcterms:medium>Měď</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3682942</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/26862</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:coverage>Hořovičky (u Rakovníka)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210129</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:extent>Celkový průměr 146, váha 187 g.</dcterms:extent>
+					<dcterms:medium>Měď</dcterms:medium>
+					<dcterms:medium>Měď</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3682944</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/26873</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:coverage>Hořovičky (u Rakovníka)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210130</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:extent>Celkový průměr 147, váha 203,5 g.</dcterms:extent>
+					<dcterms:medium>Měď</dcterms:medium>
+					<dcterms:medium>Měď</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3682946</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/26884</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:coverage>Hořovičky (u Rakovníka)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210131</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:extent>Celkový průměr 154, váha 220 g.</dcterms:extent>
+					<dcterms:medium>Měď</dcterms:medium>
+					<dcterms:medium>Měď</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3682948</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/26895</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:coverage>Hořovičky (u Rakovníka)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210139</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Měď</dcterms:medium>
+					<dcterms:medium>Měď</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3682963</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/26972</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:coverage>Hořovičky (u Rakovníka)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210161</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:extent>Celkový průměr 174, váha 197 g</dcterms:extent>
+					<dcterms:medium>Měď</dcterms:medium>
+					<dcterms:medium>Měď</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3683008</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/27214</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:coverage>Hořovičky (u Rakovníka)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210163</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Měď</dcterms:medium>
+					<dcterms:medium>Měď</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3683012</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/27236</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:coverage>Hořovičky (u Rakovníka)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210164</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:extent>Celkový průměr 175, váha 173 g.</dcterms:extent>
+					<dcterms:medium>Měď</dcterms:medium>
+					<dcterms:medium>Měď</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3683014</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/27247</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:coverage>Hořovičky (u Rakovníka)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210166</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:extent>Celkový průměr 151, váha 194 g.</dcterms:extent>
+					<dcterms:medium>Měď</dcterms:medium>
+					<dcterms:medium>Měď</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3683016</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/27258</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:coverage>Hořovičky (u Rakovníka)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210167</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:extent>Celkový průměr 148, váha 196 g.</dcterms:extent>
+					<dcterms:medium>Měď</dcterms:medium>
+					<dcterms:medium>Měď</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3683018</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/27269</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Záušnice</dc:title>
+					<dc:coverage>Zvoleněves (u Slaného)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-11957</dc:identifier>
+					<dc:date>Únětická kultura ?</dc:date>
+					<dc:date>Únětická kultura ?</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3683086</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/27621</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Slitek</dc:title>
+					<dc:coverage>Lhotka (u Kralovic)</dc:coverage>
+					<dcterms:spatial>Plzeňský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-11993</dc:identifier>
+					<dc:date>Milavečská kultura ?</dc:date>
+					<dc:date>Milavečská kultura ?</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3683105</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/27654</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Záušnice</dc:title>
+					<dc:coverage>Jagodina (v Srbsku)</dc:coverage>
+					<dcterms:spatial>Srbsko</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-42627</dc:identifier>
+					<dc:date>Starší doba bronzová neurčená</dc:date>
+					<dc:date>Starší doba bronzová neurčená</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3690530</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/30461</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Záušnice</dc:title>
+					<dc:coverage>Jagodina (v Srbsku)</dc:coverage>
+					<dcterms:spatial>Srbsko</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-42628</dc:identifier>
+					<dc:date>Starší doba bronzová neurčená</dc:date>
+					<dc:date>Starší doba bronzová neurčená</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3690532</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/30472</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Lastura provrtaná</dc:title>
+					<dc:coverage>Kobylisy (Praha)-Čimická ul.*</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-42650</dc:identifier>
+					<dc:date>Únětická kultura ?</dc:date>
+					<dc:date>Únětická kultura ?</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Lastura</dcterms:medium>
+					<dcterms:medium>Lastura</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3690534</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/30483</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Trubička spirálovitá (náhrdelník)</dc:title>
+					<dc:coverage>Únětice (u Prahy)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-48121</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=31464</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/31462</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Závěsek ?</dc:title>
+					<dc:coverage>Únětice (u Prahy)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-48129</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Jantar</dcterms:medium>
+					<dcterms:medium>Jantar</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=31530</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/31528</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Lastura</dc:title>
+					<dc:coverage>Únětice (u Prahy)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-48134</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Lastura</dcterms:medium>
+					<dcterms:medium>Lastura</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=31585</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/31583</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náramek</dc:title>
+					<dc:coverage>Únětice (u Prahy)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-48145</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=31684</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/31682</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Záušnice (část)</dc:title>
+					<dc:coverage>Únětice (u Prahy)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-48186</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=31860</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/31858</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Trubička spirálovitá (náhrdelník)</dc:title>
+					<dc:coverage>Únětice (u Prahy)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-48189</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=31893</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/31891</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Ulita</dc:title>
+					<dc:coverage>Únětice (u Prahy)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-48191</dc:identifier>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>-2000..-750</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dc:format>Kombinovaná technika</dc:format>
+					<dcterms:medium>Ulita</dcterms:medium>
+					<dcterms:medium>Ulita</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=31915</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/31913</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba (část)</dc:title>
+					<dc:coverage>Záluží (u Čelákovic)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-43709</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>300..600</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=113059</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/113057</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korál</dc:title>
+					<dc:description>Skleněný korál.</dc:description>
+					<dc:coverage>Podbaba (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-51317</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>Doba stěhování národů</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:creator/>
+					<dc:creator>Lenka Káchová</dc:creator>
+					<dc:format>Sklářství</dc:format>
+					<dc:format>Sklářství</dc:format>
+					<dcterms:medium>Sklo</dcterms:medium>
+					<dcterms:medium>Sklo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3637642</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/115113</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:description>Stříbrná spona s peltoidně vykrajovanou záhlavní destičkou a kosodélníkovou srdcovitě zakončenou patkou.</dc:description>
+					<dc:coverage>Podbaba (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-51130</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>300..600</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:creator/>
+					<dc:creator>Lenka Káchová</dc:creator>
+					<dc:format/>
+					<dc:format>Nezařazeno</dc:format>
+					<dcterms:medium>Stříbro</dcterms:medium>
+					<dcterms:medium>stříbro</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3637398</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/115860</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:STEH</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:description>Stříbrná spona, v ohni zlacená, se čtvercovou vrubořezem lemovanou destičkou, jejíž rohy jsou lemovány dvojicemi oček s červeným sklem, také pupík uprostřed destičky nese očko s červeným sklem.</dc:description>
+					<dc:coverage>Podbaba (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-51143</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dc:date>300-1-1</dc:date>
+					<dcterms:temporal>300..600</dcterms:temporal>
+					<dcterms:created>300-1-1</dcterms:created>
+					<dc:creator/>
+					<dc:creator>Lenka Káchová</dc:creator>
+					<dc:format/>
+					<dc:format>Nezařazeno</dc:format>
+					<dcterms:medium>Stříbro</dcterms:medium>
+					<dcterms:medium>stříbro</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3637458</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/115915</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDK</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Střep</dc:title>
+					<dc:coverage>Bubny (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-28294</dc:identifier>
+					<dc:date>Kultura vypíchané keramiky ?</dc:date>
+					<dc:date>Kultura vypíchané keramiky ?</dc:date>
+					<dc:date>-5700-1-1</dc:date>
+					<dcterms:temporal>Neolit</dcterms:temporal>
+					<dcterms:created>-5700-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3555590</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/116914</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDK</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Naběračka</dc:title>
+					<dc:coverage>Prštice (u Brna)</dc:coverage>
+					<dcterms:spatial>Jihomoravský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-89399</dc:identifier>
+					<dc:date>Lengyelská kultura</dc:date>
+					<dc:date>Lengyelská kultura</dc:date>
+					<dc:date>-5700-1-1</dc:date>
+					<dcterms:temporal>Neolit</dcterms:temporal>
+					<dcterms:created>-5700-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3460229</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/117355</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Naběračka</dc:title>
+					<dc:coverage>Neštěmice (u Ústí n. Labem)</dc:coverage>
+					<dcterms:spatial>Ústecký kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-212659</dc:identifier>
+					<dc:date>Doba laténská B1-2,C1</dc:date>
+					<dc:date>Doba laténská B1-2,C1</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131240</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131238</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - pohár</dc:title>
+					<dc:coverage>Neznámé nal.</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-212661</dc:identifier>
+					<dc:date>Doba laténská B1-2,C1</dc:date>
+					<dc:date>Doba laténská B1-2,C1</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131262</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131260</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - hrnec</dc:title>
+					<dc:coverage>Neznámé nal.</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-212662</dc:identifier>
+					<dc:date>Doba laténská B1</dc:date>
+					<dc:date>Doba laténská B1</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131273</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131271</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - hrnec</dc:title>
+					<dc:coverage>Neznámé nal.</dc:coverage>
+					<dcterms:spatial>Bez určení</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-212663</dc:identifier>
+					<dc:date>Doba laténská B1-2,C1</dc:date>
+					<dc:date>Doba laténská B1-2,C1</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131284</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131282</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - situla</dc:title>
+					<dc:coverage>Stradonice (u Berouna)*</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-212664</dc:identifier>
+					<dc:date>Doba laténská D</dc:date>
+					<dc:date>Doba laténská D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131295</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131293</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - lahev</dc:title>
+					<dc:coverage>Stradonice (u Berouna)*</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-212665</dc:identifier>
+					<dc:date>Doba laténská D</dc:date>
+					<dc:date>Doba laténská D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131306</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131304</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - lahev</dc:title>
+					<dc:coverage>Stradonice (u Berouna)*</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-212666</dc:identifier>
+					<dc:date>Doba laténská D</dc:date>
+					<dc:date>Doba laténská D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131317</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131315</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - situla</dc:title>
+					<dc:coverage>Stradonice (u Berouna)*</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-212667</dc:identifier>
+					<dc:date>Doba laténská D</dc:date>
+					<dc:date>Doba laténská D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131328</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131326</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - pohár</dc:title>
+					<dc:coverage>Třísov - hradiště</dc:coverage>
+					<dcterms:spatial>Jihočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-224456</dc:identifier>
+					<dc:date>Doba laténská C2-D</dc:date>
+					<dc:date>Doba laténská C2-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131438</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131436</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - pohár</dc:title>
+					<dc:coverage>Stradonice (u Berouna)*</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-229113</dc:identifier>
+					<dc:date>Doba laténská C2-D</dc:date>
+					<dc:date>Doba laténská C2-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131493</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131491</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - váza</dc:title>
+					<dc:coverage>Stradonice (u Berouna)*</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-229114</dc:identifier>
+					<dc:date>Doba laténská C2-D</dc:date>
+					<dc:date>Doba laténská C2-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131504</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131502</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:MDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Poklička</dc:title>
+					<dc:coverage>Stradonice (u Berouna)*</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-229115</dc:identifier>
+					<dc:date>Doba laténská C2-D</dc:date>
+					<dc:date>Doba laténská C2-D</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=131515</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/131513</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:PDK</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Sekerka</dc:title>
+					<dc:coverage>Žalov - Řivnáč  (?)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-1525</dc:identifier>
+					<dc:date>Eneolit neurčený</dc:date>
+					<dc:date>Eneolit neurčený</dc:date>
+					<dc:date>-4400-1-1</dc:date>
+					<dcterms:temporal>Eneolit</dcterms:temporal>
+					<dcterms:created>-4400-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=132364</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/132362</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:PDK</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - džbánek</dc:title>
+					<dc:coverage>Kralupy nad Vltavou</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-11155</dc:identifier>
+					<dc:date>Kultura zvoncovitých pohárů ?</dc:date>
+					<dc:date>Kultura zvoncovitých pohárů ?</dc:date>
+					<dc:date>-4400-1-1</dc:date>
+					<dcterms:temporal>Eneolit</dcterms:temporal>
+					<dcterms:created>-4400-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=132430</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/132428</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:PDK</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - mísa</dc:title>
+					<dc:coverage>Velvary</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-11459</dc:identifier>
+					<dc:date>Badenská kultura</dc:date>
+					<dc:date>Badenská kultura</dc:date>
+					<dc:date>-4400-1-1</dc:date>
+					<dcterms:temporal>-4400..-2000</dcterms:temporal>
+					<dcterms:created>-4400-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=132463</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/132461</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:PDK</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - pohár</dc:title>
+					<dc:coverage>Vinohrady (Praha)-vodojem*</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-18701</dc:identifier>
+					<dc:date>Kultura šňůrové keramiky ?</dc:date>
+					<dc:date>Kultura šňůrové keramiky ?</dc:date>
+					<dc:date>-4400-1-1</dc:date>
+					<dcterms:temporal>-4400..-2000</dcterms:temporal>
+					<dcterms:created>-4400-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=133200</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/133198</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by-nc/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:PDK</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - pohár</dc:title>
+					<dc:coverage>Ďáblice (Praha)</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-62981</dc:identifier>
+					<dc:date>Kultura zvoncovitých pohárů</dc:date>
+					<dc:date>Kultura zvoncovitých pohárů</dc:date>
+					<dc:date>-4400-1-1</dc:date>
+					<dcterms:temporal>Eneolit</dcterms:temporal>
+					<dcterms:created>-4400-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=135015</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/135013</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:PDK</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - džbánek</dc:title>
+					<dc:coverage>Rakvice (u Hustopečí)</dc:coverage>
+					<dcterms:spatial>Jihomoravský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-69844</dc:identifier>
+					<dc:date>Kultura zvoncovitých pohárů ?</dc:date>
+					<dc:date>Kultura zvoncovitých pohárů ?</dc:date>
+					<dc:date>-4400-1-1</dc:date>
+					<dcterms:temporal>Eneolit</dcterms:temporal>
+					<dcterms:created>-4400-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=135147</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/135145</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:PDK</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - mísa</dc:title>
+					<dc:coverage>Lhánice (u Mohelna)</dc:coverage>
+					<dcterms:spatial>Vysočina</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-90031</dc:identifier>
+					<dc:date>Kultura zvoncovitých pohárů ?</dc:date>
+					<dc:date>Kultura zvoncovitých pohárů ?</dc:date>
+					<dc:date>-4400-1-1</dc:date>
+					<dcterms:temporal>Eneolit</dcterms:temporal>
+					<dcterms:created>-4400-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=135983</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/135981</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:PDK</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:coverage>Hoštice-Heroltice (u Vyškova)*</dc:coverage>
+					<dcterms:spatial>Jihomoravský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-116538</dc:identifier>
+					<dc:date>Kultura šňůrové keramiky</dc:date>
+					<dc:date>Kultura šňůrové keramiky</dc:date>
+					<dc:date>-4400-1-1</dc:date>
+					<dcterms:temporal>Eneolit</dcterms:temporal>
+					<dcterms:created>-4400-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=136401</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/136399</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:PDK</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba - mísa</dc:title>
+					<dc:coverage>Dřetovice (u Kladna)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-230000</dc:identifier>
+					<dc:date>Badenská kultura</dc:date>
+					<dc:date>Badenská kultura</dc:date>
+					<dc:date>-4400-1-1</dc:date>
+					<dcterms:temporal>Eneolit</dcterms:temporal>
+					<dcterms:created>-4400-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=136698</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/136696</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SSDK</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Medvědí čelist opracovaná</dc:title>
+					<dc:coverage>Hostim (u Berouna)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-72679</dc:identifier>
+					<dc:date>Paleolit neurčený</dc:date>
+					<dc:date>Paleolit neurčený</dc:date>
+					<dcterms:temporal>Paleolit a mezolit</dcterms:temporal>
+					<dc:format/>
+					<dc:format>Nezařazeno</dc:format>
+					<dcterms:medium>Kost</dcterms:medium>
+					<dcterms:medium>Zvířecí kost</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=3460584</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/139053</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba (část)</dc:title>
+					<dc:coverage>Láz u Radomyšle</dc:coverage>
+					<dcterms:spatial>Jihočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-39921</dc:identifier>
+					<dc:date>Doba halštatská ?</dc:date>
+					<dc:date>Doba halštatská ?</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=139892</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/139890</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Závěsek ? kroužkový-zlomky</dc:title>
+					<dc:coverage>Burkovský vrch (u Nemějic)</dc:coverage>
+					<dcterms:spatial>Jihočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-60058</dc:identifier>
+					<dc:date>Halštatská mohylová kultura</dc:date>
+					<dc:date>Halštatská mohylová kultura</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=140576</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/140574</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Kruh (část)</dc:title>
+					<dc:coverage>Burkovský vrch (u Nemějic)</dc:coverage>
+					<dcterms:spatial>Jihočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-60059</dc:identifier>
+					<dc:date>Halštatská mohylová kultura</dc:date>
+					<dc:date>Halštatská mohylová kultura</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=140587</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/140585</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Závěsek ? prstencový</dc:title>
+					<dc:coverage>Burkovský vrch (u Nemějic)</dc:coverage>
+					<dcterms:spatial>Jihočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-60061</dc:identifier>
+					<dc:date>Halštatská mohylová kultura</dc:date>
+					<dc:date>Halštatská mohylová kultura</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=140598</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/140596</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Závěsek ? prstencový-zlomky</dc:title>
+					<dc:coverage>Burkovský vrch (u Nemějic)</dc:coverage>
+					<dcterms:spatial>Jihočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-60062</dc:identifier>
+					<dc:date>Halštatská mohylová kultura</dc:date>
+					<dc:date>Halštatská mohylová kultura</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=140609</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/140607</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:coverage>Stražkov viz Straškov (u Roudnice n. L.)</dc:coverage>
+					<dcterms:spatial>Ústecký kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-210171</dc:identifier>
+					<dc:date>Bylanská kultura</dc:date>
+					<dc:date>Bylanská kultura</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>-750..-400</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Vypalování</dc:format>
+					<dc:format>Vypalování</dc:format>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=141181</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/141179</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>korál</dc:title>
+					<dc:coverage>Rtišovice (u Příbrami)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-57003</dc:identifier>
+					<dcterms:alternative>H1-57003</dcterms:alternative>
+					<dc:date>Doba železná</dc:date>
+					<dc:date>Halštat až latén</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Sklářství</dc:format>
+					<dc:format>Sklářství</dc:format>
+					<dcterms:medium>Sklo</dcterms:medium>
+					<dcterms:medium>Sklo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4653876</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/4653602</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>korál</dc:title>
+					<dc:coverage>Rtišovice (u Příbrami)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-57004</dc:identifier>
+					<dcterms:alternative>H1-57004</dcterms:alternative>
+					<dc:date>Doba železná</dc:date>
+					<dc:date>Halštat až latén</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Sklářství</dc:format>
+					<dc:format>Sklářství</dc:format>
+					<dcterms:medium>Sklo</dcterms:medium>
+					<dcterms:medium>Sklo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4653881</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/4653616</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-10T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:SDZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>korál</dc:title>
+					<dc:coverage>Rtišovice (u Příbrami)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-57005</dc:identifier>
+					<dcterms:alternative>H1-57005</dcterms:alternative>
+					<dc:date>Doba železná</dc:date>
+					<dc:date>Halštat až latén</dc:date>
+					<dc:date>-750-1-1</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dcterms:created>-750-1-1</dcterms:created>
+					<dc:format>Sklářství</dc:format>
+					<dc:format>Sklářství</dc:format>
+					<dcterms:medium>Sklo</dcterms:medium>
+					<dcterms:medium>Sklo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4653886</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/4653630</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-29T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korál</dc:title>
+					<dc:description>Jantarový korál z únětického kostrového hrobu
+</dc:description>
+					<dc:coverage>Tursko (u Prahy)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-27077</dc:identifier>
+					<dcterms:alternative>H1-27077</dcterms:alternative>
+					<dc:date>Doba bronzová</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:creator/>
+					<dc:creator>Lenka Káchová</dc:creator>
+					<dcterms:medium>Jantar</dcterms:medium>
+					<dcterms:medium>Jantar</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4634785</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/29811</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-29T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náhrdelník</dc:title>
+					<dc:description>Únětický náhrdelník z 12 jantarových soudečkovitých, 9 trubkovitých kostěných  korálků a bronzového plochého spirálovitě stočeného drátu. Jako přívěsků je použito ulit Caudita antignata Poli /Středomoří/ a jedna ulita je napodobena litím v bílém kovu</dc:description>
+					<dc:coverage>Veliš (u Jičína)</dc:coverage>
+					<dcterms:spatial>Královéhradecký kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-47745</dc:identifier>
+					<dcterms:alternative>H1-47745</dcterms:alternative>
+					<dc:date>Doba bronzová</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:creator/>
+					<dc:creator>Lenka Káchová</dc:creator>
+					<dcterms:medium>Jantar</dcterms:medium>
+					<dcterms:medium>Jantar</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4758203</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/31264</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-29T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Náhrdelník</dc:title>
+					<dc:description>Jantarový náhrdelník z únětického hrobu č. 10
+</dc:description>
+					<dc:coverage>Únětice (u Prahy)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-48115</dc:identifier>
+					<dcterms:alternative>H1-48115</dcterms:alternative>
+					<dc:date>Doba bronzová</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:creator/>
+					<dc:creator>Lenka Káchová</dc:creator>
+					<dcterms:medium>Jantar</dcterms:medium>
+					<dcterms:medium>Jantar</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4635075</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/31407</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-29T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korál (náhrdelník)</dc:title>
+					<dc:description>Jantarový náhrdelník z únětického hrobu č. II-6
+</dc:description>
+					<dc:coverage>Únětice (u Prahy)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-48156</dc:identifier>
+					<dcterms:alternative>H1-48156</dcterms:alternative>
+					<dc:date>Doba bronzová</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:creator/>
+					<dc:creator>Lenka Káchová</dc:creator>
+					<dcterms:medium>Jantar</dcterms:medium>
+					<dcterms:medium>Jantar</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4635099</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/31726</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-29T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korálky</dc:title>
+					<dc:coverage>Únětice (u Prahy)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-48193</dc:identifier>
+					<dcterms:alternative>H1-48193</dcterms:alternative>
+					<dc:date>Doba bronzová</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:creator/>
+					<dc:creator>Lenka Káchová</dc:creator>
+					<dcterms:medium>Jantar</dcterms:medium>
+					<dcterms:medium>Jantar</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4760514</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/31935</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2015-06-29T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH</setSpec>
+				<setSpec>publikacePredmetu:S:ARCH:BRONZ</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korál</dc:title>
+					<dc:coverage>Únětice (u Prahy)</dc:coverage>
+					<dcterms:spatial>Středočeský kraj</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>H1-48195</dc:identifier>
+					<dcterms:alternative>H1-48195</dcterms:alternative>
+					<dc:date>Doba bronzová</dc:date>
+					<dc:date>Únětická kultura</dc:date>
+					<dc:date>-2000-1-1</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dcterms:created>-2000-1-1</dcterms:created>
+					<dc:creator/>
+					<dc:creator>Lenka Káchová</dc:creator>
+					<dcterms:medium>Jantar</dcterms:medium>
+					<dcterms:medium>Jantar</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Národní muzeum - Historické muzeum</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=4760519</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/31957</europeana:isShownAt>
+					<europeana:rights>http://creativecommons.org/licenses/by/4.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<resumptionToken completeListSize="120262" cursor="200">metadataPrefix~ese!set~publikacePredmetu!nextPage~3</resumptionToken>
+	</ListRecords>
+</OAI-PMH>

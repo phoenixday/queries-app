@@ -1,0 +1,285 @@
+<rdf:RDF 
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+xmlns:dcmi="http://purl.org/dc/terms/DCMIType"
+xmlns:mymat="http://mymat.org/">
+
+<!-- material subgroups -->
+
+<rdf:Description rdf:about="http://mymat.org/17266">
+	<rdf:type rdf:resource="http://mymat.org/materialSubgroup" />
+	<dc:title>Grafit</dc:title>
+	<mymat:isSubgroupOf rdf:resource="http://mymat.org/mineral"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17268">
+	<rdf:type rdf:resource="http://mymat.org/materialSubgroup" />
+	<dc:title>Jantar</dc:title>
+	<mymat:isSubgroupOf rdf:resource="http://mymat.org/mineral"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17289">
+	<rdf:type rdf:resource="http://mymat.org/materialSubgroup" />
+	<dc:title>Pazourek</dc:title>
+	<mymat:isSubgroupOf rdf:resource="http://mymat.org/mineral"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17272">
+	<rdf:type rdf:resource="http://mymat.org/materialSubgroup" />
+	<dc:title>Břidlice</dc:title>
+	<mymat:isSubgroupOf rdf:resource="http://mymat.org/hornina"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17290">
+	<rdf:type rdf:resource="http://mymat.org/materialSubgroup" />
+	<dc:title>Pískovec</dc:title>
+	<mymat:isSubgroupOf rdf:resource="http://mymat.org/hornina"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17294">
+	<rdf:type rdf:resource="http://mymat.org/materialSubgroup" />
+	<dc:title>Rohovec</dc:title>
+	<mymat:isSubgroupOf rdf:resource="http://mymat.org/hornina"/>
+</rdf:Description>
+
+<!-- material groups -->
+
+<rdf:Description rdf:about="http://mymat.org/17208">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Atlas</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17207"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17238">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Plátno</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17207"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17269">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Kámen jako stavební surovina</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Nerost"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/mineral">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Minerál</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Nerost"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/hornina">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Hornina</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Nerost"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/7800472">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Zkamenělina</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Nerost"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17307">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Dřevo</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Rost"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17316">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Pryskyřice</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Rost"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17327">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Kost</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Ziv"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17328">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Kůže</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Ziv"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17332">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Paroh</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Ziv"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17337">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Skořápka</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Ziv"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17341">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Zub</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Ziv"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17346">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Ulita</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Ziv"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/3902376">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Lastura</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/Ziv"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17361">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Keramika</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17347"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17364">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Lignit</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17347"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17367">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Mazanice</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17347"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17369">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Papír</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17347"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17374">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Sklo</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17347"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17382">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Hlína</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17347"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17389">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Bronz</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17384"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17391">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Cín</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17384"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17392">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Měď</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17384"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17394">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Olovo</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17384"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17401">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Plech</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17384"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17402">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Stříbro</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17384"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17403">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Zlato</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17384"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17404">
+	<rdf:type rdf:resource="http://mymat.org/materialGroup" />
+	<dc:title>Železo</dc:title>
+	<mymat:isGroupOf rdf:resource="http://mymat.org/17384"/>
+</rdf:Description>
+
+<!-- materials -->
+
+<rdf:Description rdf:about="http://mymat.org/17207">
+	<rdf:type rdf:resource="http://mymat.org/material" />
+	<dc:title>Textil</dc:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/Nerost">
+	<rdf:type rdf:resource="http://mymat.org/material" />
+	<dc:title>Nerost</dc:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/Rost">
+	<rdf:type rdf:resource="http://mymat.org/material" />
+	<dc:title>Rostlinný původ</dc:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/Ziv">
+	<rdf:type rdf:resource="http://mymat.org/material" />
+	<dc:title>Živočišný původ</dc:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17347">
+	<rdf:type rdf:resource="http://mymat.org/material" />
+	<dc:title>Jiné</dc:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/17384">
+	<rdf:type rdf:resource="http://mymat.org/material" />
+	<dc:title>Kov</dc:title>
+</rdf:Description>
+
+<!-- schema -->
+
+<rdf:Description rdf:about="http://mymat.org/materialSubgroup">
+	<dc:title>material subgroup</dc:title>
+	<rdfs:subClassOf rdf:resource="http://mymat.org/materialPublic" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/materialGroup">
+	<dc:title>material group</dc:title>
+	<rdfs:subClassOf rdf:resource="http://mymat.org/materialPublic" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/material">
+	<dc:title>material</dc:title>
+	<rdfs:subClassOf rdf:resource="http://mymat.org/materialPublic" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/materialPublic">
+	<dc:title>Material</dc:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/isSubgroupOf">
+	<rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/isPartOf" />
+</rdf:Description>
+
+<rdf:Description rdf:about="http://mymat.org/isGroupOf">
+	<rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/isPartOf" />
+</rdf:Description>
+
+</rdf:RDF>

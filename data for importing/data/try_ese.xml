@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:europeana="http://www.europeana.eu/schemas/ese/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<ListRecords>		
+		<record>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Zpovědník</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Národního divadla na drama v osmi obrazech - Zpovědník od Franka Tetauera. Režie - A. Podhorský, výprava - V. Hofman, hudba - M. Ponc.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H175364</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1901-1-1</dc:date>
+					<dcterms:temporal>20. století</dcterms:temporal>
+					<dcterms:created>1901-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>295 x 210 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=40195580</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/39861852</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+	</ListRecords>
+</OAI-PMH>

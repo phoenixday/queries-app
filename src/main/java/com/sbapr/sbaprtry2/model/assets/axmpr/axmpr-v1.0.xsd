@@ -1,0 +1,1228 @@
+<!-- added targetNamespace and xmlns, element axmpr-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="https://api.museion.cz/schema/axmpr"
+           xmlns="https://api.museion.cz/schema/axmpr">
+    <xs:annotation>
+        <xs:documentation>Package pro generování XML schématu axmpr verze 1.0</xs:documentation>
+    </xs:annotation>
+    <xs:element name="axmpr" type="AXMPR" />
+    <xs:complexType name="AXMPR">
+        <xs:sequence>
+            <xs:element name="Adresa" type="Adresa"/>
+            <xs:element name="DalsiJmenoOsoby" type="DalsiJmenoOsoby"/>
+            <xs:element name="Datace" type="Datace"/>
+            <xs:element name="DataceNazvemPublic" type="DataceNazvemPublic"/>
+            <xs:element name="Fond" type="Fond"/>
+            <xs:element name="Kontakt" type="Kontakt"/>
+            <xs:element name="KontextovyDokument" type="KontextovyDokument"/>
+            <xs:element name="LokalitaPublic" type="LokalitaPublic"/>
+            <xs:element name="MaterialPublic" type="MaterialPublic"/>
+            <xs:element name="Obor" type="Obor"/>
+            <xs:element name="Podsbirka" type="Podsbirka"/>
+            <xs:element name="Podskupina1" type="Podskupina1"/>
+            <xs:element name="Podskupina2" type="Podskupina2"/>
+            <xs:element name="Podskupina3" type="Podskupina3"/>
+            <xs:element name="PublikacePredmetu" type="PublikacePredmetu"/>
+            <xs:element name="PublikaceTBiologie" type="PublikaceTBiologie"/>
+            <xs:element name="PublikaceTFotofrafie" type="PublikaceTFotofrafie"/>
+            <xs:element name="PublikaceTNumismatika" type="PublikaceTNumismatika"/>
+            <xs:element name="PublikaceTVytvarneUmeni" type="PublikaceTVytvarneUmeni"/>
+            <xs:element name="Role" type="Role"/>
+            <xs:element name="RoleOsoby" type="RoleOsoby"/>
+            <xs:element name="Sbirka" type="Sbirka"/>
+            <xs:element name="Skupina" type="Skupina"/>
+            <xs:element name="SpravceSbirky" type="SpravceSbirky"/>
+            <xs:element name="Subjekt" type="Subjekt"/>
+            <xs:element name="TechnikaPublic" type="TechnikaPublic"/>
+            <xs:element name="TypSbirkyPublic" type="TypSbirkyPublic"/>
+            <xs:element name="OaiId" type="OaiId"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="Adresa">
+        <xs:annotation>
+            <xs:documentation>Adresa subjektu.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="stat" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="kraj" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="okres" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="obec" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="mestskaCast" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>new4.4.1</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="castObce" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>new4.4.1</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="cislo" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>new4.4.1</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="ulice" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>old4.4.1{ - atrubut: uliceCislo } new4.4.1{ změna názvu atiubutu - ulice }</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="cisloOrientacni" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>new4.4.1</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="psc" type="xs:string" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="DalsiJmenoOsoby">
+        <xs:annotation>
+            <xs:documentation>Další jména osoby (pseudonymy, skutečné jména osob, jména z různých manželství apod.)</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="jmeno" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Jméno (jméno včetně příjmení).</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="typJmena" type="TypJmena" minOccurs="1" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="Datace">
+        <xs:annotation>
+            <xs:documentation>Datace pro vyjádření určitého času nebo časového období ve veřejném repozitáři.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="hodnota" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Hodnota datace zapsaná standardizovaným formálním způsobem. Omezení: - musí vyhovovat formátu zápisu a pravidlům: - DATUM - datum úplné - DD.MM.[S]YYYY [„n. l.“|„před. n. l.“] - DATUM - datum neúplné - (([MM.][S]YYYY) | ([2“.polovina “|3“.třetina “ |4“.čtvrtina“] ([S]CC“.stol.“) | ([S]TT“.tis.“))) [„n. l.“|„před. n. l.“] - A_DATUM - archeologické datum - (SYYYYYY | YYYYYY „před. n. l.“) - OBDOBI - období, časový úsek - DATUM".."DATUM - A_DATUM".."A_DATUM - DATUM".." - A_DATUM".." - ".."DATUM - ".."A_DATUM - N_OBDOBI - pojmenované období - slovník DataceNazvem- zápis musí vyhovovat formátu</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="start" type="xs:long" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Datum začátku datace - hodnota OD zjištěná z formálně zapsané hodnoty datace. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="end" type="xs:long" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Datum konce datace - hodnota DO zjištěná z formálně zapsané hodnoty datace. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poznamka" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Poznámka k dataci. slovní upřesnění, nebo další související údaje k zanamenané dataci.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="snad" type="xs:boolean" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Jistota/nejistota datace vyjádřeno slovem "snad". </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="snad2" type="xs:boolean" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Jistota/nejistota datace vyjádřeno slovem "snad" pro hranici intervalu "do" </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="kvalifikator" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Kvalifikátor datace.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="kvalifikator2" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Kvalifikátor datace pro hranici intervalu "do". </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="dataceNazvemPublic" type="OaiId" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="DataceNazvemPublic">
+        <xs:annotation>
+            <xs:documentation>Datace názvem - slovník veřejného repozitáře.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:ID" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="nazev" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Název datace.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="Datace" type="Datace" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Pojmenovaná datace pro publikaci (datace názvem pro publikaci) obsahuje atribut @Datace{datace} vyjadřující standardizovaným způsobem informaci o časovém zařazení.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="spravceSbirky" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="nadrizeny" type="OaiId" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="Fond">
+        <xs:annotation>
+            <xs:documentation>Fond - 3. úroveň systematického členění pro zatřídění sbírkového předmětu. Další úrovně jsou: skupina, podksupina1 až 3.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:ID" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="kod" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Kód systématické skupiny - kód fondu.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="nazev" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Název systématické skupiny - název fondu.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poradi" type="xs:int" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Pořadí pro zobrazení na webovém portále.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="popisPublic" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Popis určený pro webový portál. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poznamka" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Poznámka.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="podsbirka" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="sbirka" type="OaiId" minOccurs="1" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="Kontakt">
+        <xs:sequence>
+            <xs:element name="email" type="xs:string" minOccurs="0" maxOccurs="2"/>
+            <xs:element name="mobil" type="xs:string" minOccurs="0" maxOccurs="2"/>
+            <xs:element name="telefon" type="xs:string" minOccurs="0" maxOccurs="2"/>
+            <xs:element name="komunikator" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="internet" type="xs:anyURI" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="bankSpoj" type="xs:string" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="KontextovyDokument">
+        <xs:annotation>
+            <xs:documentation>Metadata kontextového dokumentu (přílohy) připojeného k master záznamu (např. sbírkový předmět, subjekt, ... apod.)</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="oaiId" type="xs:string" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="id" type="xs:ID" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="nazev" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="nahled" type="xs:boolean" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="url" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="poznamka" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="autor" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="drzitelLicence" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="typLicence" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="licenceCc" type="xs:boolean" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="oznaceniCcl" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="nazevCcl" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="casovaLicence" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="uzemniLicence" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="mnozstevniLicence" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="datumVyprseni" type="xs:date" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="literatura" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="urlResource" type="xs:anyURI" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="typPrilohy" type="TypPrilohyKd" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="subjekt" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="publikacePredmetu" type="OaiId" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="LokalitaPublic">
+        <xs:annotation>
+            <xs:documentation>Lokalita - slovník veřejného repozitáře.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:ID" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="nazev" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Název lokality / místa původu.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="spravceSbirky" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="nadrizeny" type="OaiId" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="MaterialPublic">
+        <xs:annotation>
+            <xs:documentation>Materiál - slovník veřejného repozitáře.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:ID" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="nazev" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Název materiálu.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="spravceSbirky" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="nadrizeny" type="OaiId" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="Obor">
+        <xs:annotation>
+            <xs:documentation>Číselník oborů obsahuje obory sbírek a je naplněn údaji dle vyhlášky 275/2000 Sb. </xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="kod" type="xs:int" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Kód oboru. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="nazev" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Název oboru. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poznamka" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Poznámka.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="Podsbirka">
+        <xs:annotation>
+            <xs:documentation>Podsbírka - 2. úroveň systematického členění pro zatřídění sbírkového předmětu. Další úrovně jsou: fond, skupina, podksupina1 až 3. </xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:ID" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="cislo" type="xs:string" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="nazev" type="xs:string" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="poradi" type="xs:int" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Pořadí pro zobrazení na webovém portále.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="popisPublic" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="poznamka" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="predmetyCes" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="obdobiCes" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="uzemiCes" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="sbirka" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="typSbirkyPublic" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="Obor" type="Obor" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="Podskupina1">
+        <xs:annotation>
+            <xs:documentation>Podskupina1 - 5. úroveň systematického členění pro zatřídění sbírkového předmětu. Další úrovně jsou: podskupina2 a podskupina3.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:ID" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="kod" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Kód systématické skupiny - kód podskupiny1.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="nazev" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Název systématické skupiny - název podskupiny1.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poradi" type="xs:int" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Pořadí pro zobrazení na webovém portále.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="popisPublic" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Popis určený pro webový portál. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poznamka" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Poznámka.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="skupina" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="sbirka" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="podsbirka" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="fond" type="OaiId" minOccurs="1" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="Podskupina2">
+        <xs:annotation>
+            <xs:documentation>Podskupina2 - 6. úroveň systematického členění pro zatřídění sbírkového předmětu. Další úrovně jsou: podskupina3.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:ID" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="kod" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Kód systématické skupiny - kód podskupiny1.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="nazev" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Název systématické skupiny - název podskupiny1.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poradi" type="xs:int" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Pořadí pro zobrazení na webovém portále.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="popisPublic" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Popis určený pro webový portál. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poznamka" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Poznámka.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="podskupina1" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="sbirka" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="podsbirka" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="fond" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="skupina" type="OaiId" minOccurs="1" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="Podskupina3">
+        <xs:annotation>
+            <xs:documentation>Podskupina3 - 7. úroveň systematického členění pro zatřídění sbírkového předmětu. Další úrovně již nejsou.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:ID" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="kod" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Kód systématické skupiny - kód podskupiny1.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="nazev" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Název systématické skupiny - název podskupiny1.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poradi" type="xs:int" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Pořadí pro zobrazení na webovém portále.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="popisPublic" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Popis určený pro webový portál. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poznamka" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Poznámka.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="podskupina2" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="sbirka" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="podsbirka" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="fond" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="skupina" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="podskupina1" type="OaiId" minOccurs="1" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="PublikacePredmetu">
+        <xs:annotation>
+            <xs:documentation>Karta sbírkového předmětu dostupná ve veřejném repozitáři Jednoznačné určení: - inventární číslo (SbirkovyPredmet.cislo) - správce sbírky (spravceSbirky)</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:ID" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="inventarniCislo" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Inventární číslo (pro publikaci) sbírkového předmětu. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="prirustkoveCislo" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Přírůstkové číslo sbírkového předmětu. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="nazev" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Název sbírkového předmětu. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="altNazev" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Alternativní název sbírkového předmětu. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="popis" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Popis sbírkového předmětu. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="popis2" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Popis rubu (reversu) sbírkového předmětu. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="pocetKusu" type="xs:int" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Počet kusů. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="autorPredmetu" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Autor předmětu. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="rozmer" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Rozměry sbírkového předmětu. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="datumVydani" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Datum vydání dokumentu. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="jazyk" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Jazyk dokumentu. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="obdobi" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Období/kultura. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="konvDatace" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Datace slovy (využíváno při migraci dat). </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="konvLokalita" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Místo vzniku / lokalita slovy (využíváno při migraci dat). </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="konvMaterial" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Materiál slovy (využíváno při migraci dat).</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="konvTechnika" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Technika slovy (využíváno při migraci dat).</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="signatura" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Signatura, značka, nápis, datování (na přední straně, aversu). </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="signatura2" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Signatura, značka, nápis, datování (na zadní straně, reversu). </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="adjustace" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Adjustace - způsob a popis adjustace sbírkového předmětu. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="odkazLiteratura" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Odkaz na literární prameny.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poznamka" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Poznámka. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="vydavatel" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Vydavatel dokumentu. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="nakladatel" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Nakladatel (u knih, pohlednic, apod.). </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="tiskar" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Tiskař (u knih, pohlednic, apod.). </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="autorFotografie" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Autor fotografie. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="autorPredlohy" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Autor předlohy (např. pro pohlednice). </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="puvodniMajitel" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Původní majitel, původ předmětu. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="puvodnost" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Původnost . </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="autorskaPrava" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Autorská práva. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="nametObsahu" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Námět obsahu - námět/téma vyobrazení na sbírkovém předmětu. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="subjektObsahu" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Subjekt obsahu (osoby, instituce). </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="lokalitaObsahu" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Lokalita obsahu (místo). </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="klicObsahu" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Klíč obsahu - předmět, budova, událost apod. vyobrazení na sbírkovém předmětu. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="klicovaSlova" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Klíčová slova. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="rokAkvizice" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Rok akvizice. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="souradniceGpsDelka" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Souřadnice zeměpisné délky v systému WGS84 (lambda). Povolené formáty: - úplný formát - DD°MM'SS.sss" - např.: 16°34'6.783" - pouze stupně - DD.ddddddd° - např.: 16.5685508° - s uvedením světové strany: - úplný formát - S DD°MM'SS.sss" - např.: E 16°34'6.783" - pouze stupně - S DD.ddddddd° - např.: E 16.5685508° - pouze stupně - bez mezer DD.dddddddS - např.: 16.5685508E - v případě zápisu v úplném formátu lze zapsat jen stupně, systém si automaticky doplní minuty a vteřiny hodnoutou 0 - 16° --> systém uloží 16°00'00.0" - 16°34' --> systém uloží 16°34'00.0"</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="souradniceGpsSirka" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Souřadnice zeměpisné šířky v systému WGS84 (fí). Povolené formáty: - úplný formát - DD°MM'SS.sss" - např.: 49°14'2.436" - pouze stupně - DD.ddddddd° - např.: 49.2340100° - s uvedením světové strany: - úplný formát - S DD°MM'SS.sss" - např.: N 49°14'2.436" - pouze stupně - S DD.ddddddd° - např.: N 49.2340100° - pouze stupně - bez mezer DD.dddddddS - např.: 49.2340100N - v případě zápisu v úplném formátu lze zapsat jen stupně, systém si automaticky doplní minuty a vteřiny hodnoutou 0 - 49° --> systém uloží 49°00'00.0" - 49°14' --> systém uloží 49°14'00.0"</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="typMedia" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Typ média. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="datumPublikace" type="xs:date" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Datum první publikace.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="datumModifikace" type="xs:date" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Datum poslední modifikace záznamu.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="Datace" type="Datace" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Datace předmětu obsahuje atribut @Datace{datace} vyjadřující standardizovaným způsobem informaci o časovém zařazení.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="typSbirkyPublic" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="materialPublic" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="technikaPublic" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="lokalitaPublic" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="typPredmetu" type="TypPredmetu" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="lokalitaNalezu" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="KontextovyDokument" type="KontextovyDokument" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="sbirka" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="spravceSbirky" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="podsbirka" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="fond" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="skupina" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="podskupina1" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="podskupina2" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="podskupina3" type="OaiId" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="PublikaceTBiologie">
+        <xs:annotation>
+            <xs:documentation>Specializace publikační karty pro přírodovědnou sbírku - živá příroda. Atribut typPredmetu musí být jeden z následujících: "BI", "BO", "ZO", "EN", "PL".</xs:documentation>
+        </xs:annotation>
+        <xs:complexContent>
+            <xs:extension base="PublikacePredmetu">
+                <xs:sequence>
+                    <xs:element name="taxonNomen" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Název taxonu latinsky. </xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="taxonNazev" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Název taxonu česky (v aktuálním jazyce). </xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="taxonAutor" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Autor taxonu. </xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="dalsiTaxony" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Další taxony.</xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="statusTypu" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Status typu - Holotyp nebo Lectotyp.</xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="sberatel" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Sběratel(é) sbírkového předmětu přírodovědecké sbírky.</xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="dataceSberu" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Datace sběru</xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="chronoStratigrafie" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Chronostratigrafie.</xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="cleneniChronoStrat" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Členění (úroveň) chronostratigrafie.</xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="chronoStratigrafieAnglicky" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Chronostratigrafie anglicky.</xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="litoStratigrafie" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Litostratigrafie.</xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="cleneniLitoStrat" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Členění (úroveň) litostratigrafie.</xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+    <xs:complexType name="PublikaceTFotofrafie">
+        <xs:annotation>
+            <xs:documentation>Specializace publikační karty pro fotografickou sbírku. Atribut typPredmetu musí mít hodnotu "FO". </xs:documentation>
+        </xs:annotation>
+        <xs:complexContent>
+            <xs:extension base="PublikacePredmetu">
+                <xs:sequence>
+                    <xs:element name="format" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Formát. </xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="povrch" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Povrch. </xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="barva" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Barva. </xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="orientace" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Orientace. </xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="citelnost" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Čitelnost. </xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="zoom" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Zoom. </xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+    <xs:complexType name="PublikaceTNumismatika">
+        <xs:annotation>
+            <xs:documentation>Specializace publikační karty pro numizmatickou sbírku. Atribut typPredmetu musí mít hodnotu "NU". </xs:documentation>
+        </xs:annotation>
+        <xs:complexContent>
+            <xs:extension base="PublikacePredmetu">
+                <xs:sequence>
+                    <xs:element name="hodnota" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Nominální hodnota mince.</xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="popisHrana" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Slovní popis hrany u mincí, razítek apod.</xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="dobaPlatnosti" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Doba platnosti mince.</xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+    <xs:complexType name="PublikaceTVytvarneUmeni">
+        <xs:annotation>
+            <xs:documentation>Specializace publikační karty pro sbírku výtvarného umění. Atribut typPredmetu musí mít hodnotu "VU". </xs:documentation>
+        </xs:annotation>
+        <xs:complexContent>
+            <xs:extension base="PublikacePredmetu">
+                <xs:sequence>
+                    <xs:element name="sloh" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Sloh, styl.</xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="titul" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Titul, pojmenování konkrétního uměleckého předmětu.</xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="stupenZpracovani" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Stupeň zpracování.</xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                    <xs:element name="povahaZpracovani" type="xs:string" minOccurs="0" maxOccurs="1">
+                        <xs:annotation>
+                            <xs:documentation>Povaha zpracování.</xs:documentation>
+                        </xs:annotation>
+                    </xs:element>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+    <xs:complexType name="Role">
+        <xs:annotation>
+            <xs:documentation>Role je vyjádření role určitého typu, kterou osoba zastává v pracovním, uměleckém, politickém ... apod. kontextu. </xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="nazev" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Název role příslušného typu role. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="typ" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Typ role</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poznamka" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Poznámka. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="RoleOsoby">
+        <xs:annotation>
+            <xs:documentation>Role přiřazená osobě nebo instituci.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="poradi" type="xs:int" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Pořadí přiřazené role osoby. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="datumOd" type="xs:date" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Datum, od kdy je role osobě přisuzována.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="datumDo" type="xs:date" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Datum, do kdy je role osobě přisuzována.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poznamka" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Poznámka k přiřazené roli osobě.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="Role" type="Role" minOccurs="1" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="Sbirka">
+        <xs:annotation>
+            <xs:documentation>Sbírka, kterou má ve správě správce sbírky, a zároveň 1. úroveň systematického členění pro zatřídění sbírkového předmětu. Další úrovně jsou: podsbírka, fond, skupina, podskupina1 až 3.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:ID" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="cisloEvidInt" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Interní evidenční číslo. Interní číslo sbírky, které si zvolí správce sbírky jako číslo provizorní, než mu ministerstvo kultury přidělí oficiální evidenční číslo sbírky (číslo pro CES). </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="cisloEvidCES" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Oficiální evidenční číslo sbírky. Evidenční číslo sbírky přiděluje ministerstvo kultury, pod tímto číslem je sbírka zaevidována do CES.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="nazev" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Název sbírky. Např. Sbírka Muze hlavního města Prahy.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="popisPublic" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Popis sbírky pro publikaci.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poznamka" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Poznámka.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="spravceSbirky" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="vlastnik" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="typVlastnika" type="TypSpravceVlastnika" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="Skupina">
+        <xs:annotation>
+            <xs:documentation>Skupina - 4. úroveň systematického členění pro zatřídění sbírkového předmětu. Další úrovně jsou: podksupina1, podskupina2 a podskupina3.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:ID" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="kod" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Kód systématické skupiny - kód skupiny.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="nazev" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Název systématické skupiny - název skupiny.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poradi" type="xs:int" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Pořadí pro zobrazení na webovém portále.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="popisPublic" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Popis určený pro webový portál. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poznamka" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Poznámka.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="fond" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="sbirka" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="podsbirka" type="OaiId" minOccurs="1" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="SpravceSbirky">
+        <xs:annotation>
+            <xs:documentation>Správce sbírky muzejní povahy.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:ID" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="nazev" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Zkrácený název (nebo zkratka) správce sbírky. Např.: MMP</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poznamka" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Poznámka. </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="popisPublic" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Popis paměťové instituce - správce sbírky - pro publikaci.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="typ" type="TypSpravceVlastnika" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="subjekt" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="nadrizeny" type="OaiId" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="Subjekt">
+        <xs:annotation>
+            <xs:documentation>Subjekt (actor) - fyzická nebo právnická osoba (osoba/instituce) související se sbírkovým předmětem, vystupující v něaké roli (autor, grafik, fotograf, ... ). </xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:ID" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Identifikátor záznamu.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="kod" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Jednoznačný kód subjektu, např. zkratka jména osoby nebo názvu instituce.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="nazev" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Název, který právnickou osobu identifikuje ve státním rejstříku.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="ic" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Identifikační číslo z rejstříku, ve kterém je PO zapsaná.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="dic" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Daňové identifikační číslo daňového subjektu.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="jmenoPrvni" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>První jméno osoby.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="jmenoDruhe" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Druhé jméno osoby.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="prijmeni" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Příjmení osoby.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="rodnePrijmeni" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Rodné příjmení osoby.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="titulPredJmenem" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Titul před jménem osoby.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="titulZaJmenem" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Titul za jménem osoby.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="medailon" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Medailon - životopis osobnosti (např. pro tisk do katalogů) nebo popis instituce, spolku apod.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="studia" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Studia - obvykle se uvádí doba studia, škola, případně učitel.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="spolky" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Spolky - spolky (zejména umělecké), kterých osoba byla nebo je členem.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="datumOd" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Datování narození osoby nebo založení instituce v textové podobě.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="datumDo" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Datování úmrtí osoby nebo ukončení činnosti instituce v textové podobě.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="datumNarozeni" type="xs:date" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="mistoNarozeni" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Místo narození osoby.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="datumUmrti" type="xs:date" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="mistoUmrti" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Místo úmrtí osoby.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="pohlavi" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Pohlaví osoby.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="text1" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Textový údaj č. 1 pro volné použití zákazníkem.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="text2" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Textový údaj č. 2 pro volné použití zákazníkem.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="text3" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Textový údaj č. 3 pro volné použití zákazníkem.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="poznamka" type="xs:string" minOccurs="0" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Poznámka, libovolný text.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="typ" type="TypSubjektu" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="Kontakt" type="Kontakt" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="Adresa" type="Adresa" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="RoleOsoby" type="RoleOsoby" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="DalsiJmenoOsoby" type="DalsiJmenoOsoby" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="KontextovyDokument" type="KontextovyDokument" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="spravceSbirky" type="OaiId" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="podsbirka" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="sbirka" type="OaiId" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="TechnikaPublic">
+        <xs:annotation>
+            <xs:documentation>Technika - slovník veřejného repozitáře.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:ID" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="nazev" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Název techniky.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="spravceSbirky" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="nadrizeny" type="OaiId" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:simpleType name="TypJmena">
+        <xs:annotation>
+            <xs:documentation>Typ jména osoby. Význam kódů: - PS - pseudonym - SJ - skutečné jméno - DV - další varianta jména - XX - neurčeno</xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="PS"/>
+            <xs:enumeration value="SJ"/>
+            <xs:enumeration value="DV"/>
+            <xs:enumeration value="XX"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="TypPredmetu">
+        <xs:annotation>
+            <xs:documentation>Typ sbírkového předmětu (typ katalogizační karty). Význam kódů: P, obecný sbírkový předmět PA, předmět v archeologické sbírce FO, předmět sbírky fotografií VU, předmět sbírky výtvarného umění NU, předmět numismatické sbírky MI, předmět sbírky militárií DI, předmět divadelní sbírky BI, předmět obecné biologocké sbírky BO, předmět botanické sbírky ZO, předmět zoologické sbírky EN, předmět entomologické sbírky GE, předmět geologické sbírky PL, předmět paleontologické sbírky HM, předmět historické sbírky (spec. MMP) AU, movitý nález archeologie (spec. AUSAV) F1, fotografie objektu (spec. KTF) BR, záznam o knize (spec. Book Report)</xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="P"/>
+            <xs:enumeration value="PA"/>
+            <xs:enumeration value="FO"/>
+            <xs:enumeration value="VU"/>
+            <xs:enumeration value="NU"/>
+            <xs:enumeration value="MI"/>
+            <xs:enumeration value="DI"/>
+            <xs:enumeration value="BI"/>
+            <xs:enumeration value="BO"/>
+            <xs:enumeration value="ZO"/>
+            <xs:enumeration value="EN"/>
+            <xs:enumeration value="GE"/>
+            <xs:enumeration value="PL"/>
+            <xs:enumeration value="HM"/>
+            <xs:enumeration value="AU"/>
+            <xs:enumeration value="F1"/>
+            <xs:enumeration value="BR"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="TypPrilohyKd">
+        <xs:annotation>
+            <xs:documentation>Typ přílohy kontextového dokumentu.</xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="IMAGE"/>
+            <xs:enumeration value="VIDEO"/>
+            <xs:enumeration value="AUDIO"/>
+            <xs:enumeration value="URL"/>
+            <xs:enumeration value="DOC"/>
+            <xs:enumeration value="OBJECT3D"/>
+            <xs:enumeration value="PAPER"/>
+            <xs:enumeration value="UNKNOWN"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:complexType name="TypSbirkyPublic">
+        <xs:annotation>
+            <xs:documentation>Typ sbírky - slovník veřejného repozitáře.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:ID" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="nazev" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>Název typu sbírky.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="spravceSbirky" type="OaiId" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="nadrizeny" type="OaiId" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:simpleType name="TypSpravceVlastnika">
+        <xs:annotation>
+            <xs:documentation>Typ správce sbírky nebo vlastníka sbírky. Význam kódů: - S - Stát - K - Kraj - O - Obec - C - Církevní právnická osoba - P - Jiná právnická osoba - F - Jiná osoba</xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="S"/>
+            <xs:enumeration value="K"/>
+            <xs:enumeration value="O"/>
+            <xs:enumeration value="C"/>
+            <xs:enumeration value="P"/>
+            <xs:enumeration value="F"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="TypSubjektu">
+        <xs:annotation>
+            <xs:documentation>Typ subjektu (osoba, instituce, ...). Význam kódů: - PO, Právnická osoba - OO, Osoba obecná - OZ, Osoba zaměstnanec</xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="PO"/>
+            <xs:enumeration value="OO"/>
+            <xs:enumeration value="OZ"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:complexType name="OaiId">
+        <xs:annotation>
+            <xs:documentation>Komplexní typu OaiId obsahuje hodnotu OAI identifikátoru, který byl záznamu v repozitáři přidělen.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence/>
+        <xs:attribute name="setSpec" use="optional" type="xs:string">
+            <xs:annotation>
+                <xs:documentation>Specifikace datové sady kam přísluší odkaz přes identifikátor oai_id. </xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+        <xs:attribute name="oaiId" use="optional" type="xs:string">
+            <xs:annotation>
+                <xs:documentation>OAI identifikátor - jednoznačný v datovém repozitáři.</xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+        <xs:attribute name="id" use="optional" type="xs:string">
+            <xs:annotation>
+                <xs:documentation>Interní (lokální) identifikátor záznamu. </xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+        <xs:attribute name="label" use="optional" type="xs:string">
+            <xs:annotation>
+                <xs:documentation>Název nebo kód nebo hlavní označení záznamu identifikovaného přes oai_id a datové sady z atributu setSpec.</xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+    </xs:complexType>
+</xs:schema>

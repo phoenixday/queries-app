@@ -1,0 +1,3555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH
+	xmlns="http://www.openarchives.org/OAI/2.0/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:europeana="http://www.europeana.eu/schemas/ese/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2022-05-05T13:32:02Z</responseDate>
+	<request metadataPrefix="ese" set="publikacePredmetu" resumptionToken="metadataPrefix~ese!set~publikacePredmetu!nextPage~1" verb="ListRecords">http://admin.esbirky.cz/w4m/oai/MMP</request>
+	<ListRecords>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Záušnice</dc:title>
+					<dc:description>Kličkovitá záušnice vyrobená z dvojitého drátu</dc:description>
+					<dc:coverage>Praha-Stodůlky</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0360180</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 16 mm, šířka 17 mm; síla drátku 1 mm</dcterms:extent>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556382</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556380</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Záušnice</dc:title>
+					<dc:description>Kličkovitá záušnice vyrobená z dvojitého drátu</dc:description>
+					<dc:coverage>Praha-Stodůlky</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0360181</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 15,5 mm, šířka 9,5 mm, síla drátku 1,2 mm</dcterms:extent>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556395</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556393</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Záušnice</dc:title>
+					<dc:description>Kličkovitá záušnice vyrobená z dvojitého drátu</dc:description>
+					<dc:coverage>Praha-Stodůlky</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0360182</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dc:date/>
+					<dc:date>-2200-1-1</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dcterms:created>-2200-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 16 mm, šířka 10 mm, síla drátku 1,2 mm</dcterms:extent>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556408</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556406</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Záušnice</dc:title>
+					<dc:description>Kličkovitá záušnice vyrobená z dvojitého drátu</dc:description>
+					<dc:coverage>Praha-Stodůlky</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0360183</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dc:date/>
+					<dc:date>-2200-1-1</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dcterms:created>-2200-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 14 mm, šířka 10 mm, síla drátku 0,75 mm</dcterms:extent>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556421</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556419</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nákončí</dc:title>
+					<dc:description>Lité avarsko-slovanské nákončí opasku zdobené motivy gryfů </dc:description>
+					<dc:coverage>Praha-Staré Město</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>aH0000743</dc:identifier>
+					<dc:date>Raný středověk</dc:date>
+					<dcterms:temporal>Raný středověk</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 100 mm, šířka 25 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556447</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556445</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nákončí</dc:title>
+					<dc:description>Lité avarsko-slovanské nákončí opasku zdobené motivem lvů </dc:description>
+					<dc:coverage>Praha-Staré Město</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>aH0000744</dc:identifier>
+					<dc:date>Raný středověk</dc:date>
+					<dcterms:temporal>Raný středověk</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 105 mm, šířka 25 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556460</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556458</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hrot kopí</dc:title>
+					<dc:description>Listovitý hrot kopí s tulejí</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>aH0001137</dc:identifier>
+					<dc:date>Doba bronzová - kultura knovízská</dc:date>
+					<dcterms:temporal>Kultura knovízská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 110 mm, šířka 33 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556473</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556471</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Břitva</dc:title>
+					<dc:description>Bronzová břitva s litou rukojetí </dc:description>
+					<dc:coverage>Praha-Liboc</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>aH0008233/002</dc:identifier>
+					<dc:date>Eneolit - Kultura knovízská</dc:date>
+					<dc:date/>
+					<dc:date>-1300-1-1</dc:date>
+					<dcterms:temporal>Kultura knovízská</dcterms:temporal>
+					<dcterms:created>-1300-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>90 mm x 90 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556486</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556484</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Dýka</dc:title>
+					<dc:description>Čepel bronzové dýky se třemi otvory pro nýty</dc:description>
+					<dc:coverage>Praha-Liboc</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>aH0008594</dc:identifier>
+					<dc:date>Doba bronzová</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 84 mm, šířka 31 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556499</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556497</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Závěsek</dc:title>
+					<dc:description>Zlatý trojlaločnatý závěsek typu Úherce s profilovaným ouškem, </dc:description>
+					<dc:coverage>Praha-Libeň</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>aH0008824</dc:identifier>
+					<dc:date>Doba stěhování národů</dc:date>
+					<dcterms:temporal>Doba stěhování národů</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Šířka 15 mm, šířka očka 4 mm</dcterms:extent>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556512</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556510</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Spona</dc:title>
+					<dc:description>Dvojdílná bronzová spona s očky, s klenutým páskovým lučíkem s plastickou výzdobou podél okrajů </dc:description>
+					<dc:coverage>Nehvizdy</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>aH0013356/005</dc:identifier>
+					<dc:date>Doba římská</dc:date>
+					<dc:date/>
+					<dc:date>-50-1-1</dc:date>
+					<dcterms:temporal>Doba římská</dcterms:temporal>
+					<dcterms:created>-50-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 50 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556525</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556523</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Nádobka s polokulovitou miskou a plochým držadlem</dc:description>
+					<dc:coverage>Praha-Libeň</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>aH0016045</dc:identifier>
+					<dc:date>Doba bronzová</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 60 mm, průměr okraje 80 mm, délka držadla 30 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556538</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556536</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Hřivna</dc:title>
+					<dc:description>Bronzová hřivna, povrch zdobí svazky rýh</dc:description>
+					<dc:coverage>Praha-Libeň</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>aH0018797</dc:identifier>
+					<dc:date>Doba bronzová</dc:date>
+					<dcterms:temporal>Doba bronzová</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>130 mm x 115 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556551</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556549</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Sekera</dc:title>
+					<dc:description>Bronzová sekera s tulejí, ouškem a podélnými vějířovitými žebry</dc:description>
+					<dc:coverage>Praha-Libeň</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>aH0018916</dc:identifier>
+					<dc:date>Doba bronzová - kultura knovízská</dc:date>
+					<dcterms:temporal>Kultura knovízská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 100 mm, průměr tuleje 30 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556564</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556562</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Sekera</dc:title>
+					<dc:description>Bronzová sekera s laloky</dc:description>
+					<dc:coverage>Praha-Staré Město</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>aH0050825</dc:identifier>
+					<dc:date>Doba bronzová - kultura knovízská</dc:date>
+					<dcterms:temporal>Kultura knovízská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 151 mm, šířka 25 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556577</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556575</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Nádoba na hrdle zdobená vodorovnými otisky šňůry</dc:description>
+					<dc:coverage>Velké Přílepy</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>P0000486</dc:identifier>
+					<dc:date>Eneolit - Kultura se šňůrovou keramikou</dc:date>
+					<dc:date/>
+					<dc:date>-2800-1-1</dc:date>
+					<dcterms:temporal>Kultura se šňůrovou keramikou</dcterms:temporal>
+					<dcterms:created>-2800-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 170 mm, průměr okraje 115 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556590</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556588</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Faléra</dc:title>
+					<dc:description>Velká bronzová faléra z koňského postroje, na okraji zdobená rytými ornamenty</dc:description>
+					<dc:coverage>Hostouň</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>P0000648</dc:identifier>
+					<dc:date>Doba železná</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 115 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556603</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556601</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Faléra</dc:title>
+					<dc:description>Bronzová faléra z koňského postroje zdobená rytými kroužky</dc:description>
+					<dc:coverage>Hostouň</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>P0000683</dc:identifier>
+					<dc:date>Doba železná</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Průměr 115 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556616</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556614</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Situla - vědro z bronzového plechu</dc:description>
+					<dc:coverage>Hostouň</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>P0000697</dc:identifier>
+					<dc:date>Doba železná</dc:date>
+					<dcterms:temporal>Doba železná</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 210 mm, průměr okraje 170 mm</dcterms:extent>
+					<dcterms:medium>Bronz</dcterms:medium>
+					<dcterms:medium>bronz</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556629</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556627</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:BI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Sekeromlat</dc:title>
+					<dc:description>Broušený vrtaný sekeromlat českého typu </dc:description>
+					<dc:coverage>Velké Přílepy</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>P0001475</dc:identifier>
+					<dc:date>Eneolit</dc:date>
+					<dcterms:temporal>Eneolit</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 130 mm, šířka 46 mm, průměr vrtání 21 mm</dcterms:extent>
+					<dcterms:medium>Kámen jako stavební surovina</dcterms:medium>
+					<dcterms:medium>kámen</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556642</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556640</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nátepní destička</dc:title>
+					<dc:description>Nátepní destička pro ochranu zápěstí lukostřelce </dc:description>
+					<dc:coverage>Praha-Holešovice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>P0003553</dc:identifier>
+					<dc:date>Eneolit</dc:date>
+					<dcterms:temporal>Eneolit</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 85 mm, šířka 25 mm</dcterms:extent>
+					<dcterms:medium>Kámen jako stavební surovina</dcterms:medium>
+					<dcterms:medium>kámen</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556655</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556653</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Kulovitá nádoba tzv. šáreckého typu zdobená rytým ornamentem a černým malováním</dc:description>
+					<dc:coverage>Praha-Dejvice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>P0004526</dc:identifier>
+					<dc:date>Neolit</dc:date>
+					<dcterms:temporal>Neolit</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 150 mm, průměr okraje 165 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556707</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556705</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Závěsek</dc:title>
+					<dc:description>Závěsek obdélného tvaru s otvorem a klenutou střední částí </dc:description>
+					<dc:coverage>Praha-Liboc</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>P0005383</dc:identifier>
+					<dc:date>Pravěk</dc:date>
+					<dc:date/>
+					<dc:date>-8000-1-1</dc:date>
+					<dcterms:temporal>Pravěk - střední Evropa</dcterms:temporal>
+					<dcterms:created>-8000-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 37 mm, šířka 16 mm, průměr otvoru 5 mm</dcterms:extent>
+					<dcterms:medium>Kámen jako stavební surovina</dcterms:medium>
+					<dcterms:medium>kámen</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556720</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556718</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Hruškovitá nádoba zdobená vypíchaným krokvicovitým ornamentem a výčnělky na výduti</dc:description>
+					<dc:coverage>Praha-Bubeneč</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>PJ0000062</dc:identifier>
+					<dc:date>Neolit - kultura s vypíchanou keramikou</dc:date>
+					<dcterms:temporal>Kultura s vypíchanou keramikou</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 130 mm, průměr okraje 170 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556746</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556744</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Nádoba se zdrsněným povrchem a otvorem ve spodní části</dc:description>
+					<dc:coverage>Tuchoměřice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>P0000471</dc:identifier>
+					<dc:date>Doba bronzová - kultura knovízská</dc:date>
+					<dcterms:temporal>Kultura knovízská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 170 mm, průměr okraje 140 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556759</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556757</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Jehlice</dc:title>
+					<dc:description>Část bronzové jehlice s krčkem potaženým zlatým plechem</dc:description>
+					<dc:coverage>Velké Přílepy</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>P0001844</dc:identifier>
+					<dc:date>Doba bronzová - kultura únětická</dc:date>
+					<dc:date/>
+					<dc:date>-2200-1-1</dc:date>
+					<dcterms:temporal>Kultura únětická</dcterms:temporal>
+					<dcterms:created>-2200-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 67 mm, 15 mm</dcterms:extent>
+					<dcterms:medium>Zlato</dcterms:medium>
+					<dcterms:medium>bronz, zlato</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556772</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556770</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-01-13T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:SI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pilka</dc:title>
+					<dc:description>Štípaná pilka s jednostranně retušovanými boky</dc:description>
+					<dc:coverage>Přerov</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>P0002040</dc:identifier>
+					<dc:date>Paleolit</dc:date>
+					<dcterms:temporal>Paleolit a mezolit</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Délka 25 mm, šířka 7 mm</dcterms:extent>
+					<dcterms:medium>Pazourek</dcterms:medium>
+					<dcterms:medium>pazourek</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556785</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556783</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-03-19T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Kuřácký stolek</dc:title>
+					<dc:description>Dřevěný stolek z bohatě vyřezávaného dřeva imitující větve stromů; byl součástí nabídky obchodu U města Paříže. Na desce stolku byla umístěna schránka na doutníky (otvíratelná se značkou obchodního domu na rubu víka), stojánek na zápalky, popelníky na odkládání zapáleného kuřiva a pomůcka pro odřezávání špiček doutníků. Stojánek ani popelníky na sbírkovém předmětu se nedochovaly.</dc:description>
+					<dc:coverage>Hlavní město Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H051352</dc:identifier>
+					<dc:date>konec 19. století</dc:date>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dcterms:extent>výška 90 cm</dcterms:extent>
+					<dcterms:medium>Dřevo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=23534455</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/22625777</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-03-19T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Lednice na přírodní led z pražské domácnosti</dc:title>
+					<dc:description>Dřevěná skříňka s kovovou schránkou na led, prostřednictvím které se zajišťoval chlad pro potraviny uložené ve skříňce, používaná od roku 1907 obyvateli domu u Městského sadu, dnešní Washingtonově ulici 9. Dle vzpomínky posledního uživatele lednice, se pro led chodilo k Vltavě a tam se získával od ledařů.</dc:description>
+					<dc:coverage>Hlavní město Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H254452</dc:identifier>
+					<dc:date>po roce 1900</dc:date>
+					<dc:date/>
+					<dc:date>1901-1-1</dc:date>
+					<dcterms:temporal>20. století</dcterms:temporal>
+					<dcterms:created>1901-1-1</dcterms:created>
+					<dcterms:extent>výška 82 cm; šířka 54 cm; hloubka 46 cm</dcterms:extent>
+					<dcterms:medium>Dřevo</dcterms:medium>
+					<dcterms:medium>kov</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=23534463</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/22625801</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-03-19T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Dámské rukavice v luxusní schránce</dc:title>
+					<dc:description>Rukavice z modré kozinky uložené ve schránce potažená kůží, v níž se nacházely i kostěné napínací kleště na rukavice. Na dolní části schránky se nachází nálepka se znakem vyhlášeného obchodu U města Paříže.</dc:description>
+					<dc:coverage>Hlavní město Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H254026</dc:identifier>
+					<dc:date>kolem roku 1900</dc:date>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dcterms:extent>výška 7 cm; šířka 37,5 cm; hloubka 11,5 cm</dcterms:extent>
+					<dcterms:medium>Kůže</dcterms:medium>
+					<dcterms:medium>satén, mosaz, kost</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=23534468</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/22625815</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-03-22T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Nádoba</dc:title>
+					<dc:description>Nízká mísa zdobená svazky rýh a vpichy, se stopami červené malby</dc:description>
+					<dc:coverage>Praha-Suchdol</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0210250</dc:identifier>
+					<dc:date>Doba halštatská - kultura bylanská</dc:date>
+					<dcterms:temporal>Kultura bylanská</dcterms:temporal>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Výška 59 mm, průměr okraje 250 mm</dcterms:extent>
+					<dcterms:medium>Keramika</dcterms:medium>
+					<dcterms:medium>keramika</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9556083</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9556081</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-03-25T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:1</setSpec>
+				<setSpec>publikacePredmetu:S:1:A</setSpec>
+				<setSpec>publikacePredmetu:S:1:A:BI</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Sekeromlat</dc:title>
+					<dc:description>Broušený vrtaný sekeromlat s okrouhlým týlem </dc:description>
+					<dc:coverage>Lokalita neznámá</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Archeologické sbírky</dc:relation>
+					<dc:identifier>A0000082</dc:identifier>
+					<dc:date>Eneolit</dc:date>
+					<dc:date/>
+					<dc:date>-4400-1-1</dc:date>
+					<dcterms:temporal>Eneolit</dcterms:temporal>
+					<dcterms:created>-4400-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>129 mm x 72 mm x 57 mm</dcterms:extent>
+					<dcterms:medium>Kámen jako stavební surovina</dcterms:medium>
+					<dcterms:medium>kámen</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=9554848</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/9554846</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-12T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korouhev cechu knihařů</dc:title>
+					<dc:description>V oválném poli vymalovaný znak s knihařským lisem, na druhé straně ve znaku zavřená kniha.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H033888</dc:identifier>
+					<dc:date>1791</dc:date>
+					<dc:date/>
+					<dc:date>1701-1-1</dc:date>
+					<dcterms:temporal>18. století</dcterms:temporal>
+					<dcterms:created>1701-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=60cm; š.=90cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26877085</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11860910</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-12T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korouhev cechu vyšehradských zámečníků</dc:title>
+					<dc:description>Korouhev byla vytvořena u příležitosti konání průvodu k oslavě druhé svatby císaře Františka I. v roce 1808 s Marií Ludovikou Beatrix z Modeny.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H007943</dc:identifier>
+					<dc:date>1808-1-1</dc:date>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=59cm; š.=86cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26877098</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11863500</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-16T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Vývěsní štít cechu truhlářů</dc:title>
+					<dc:description>Náročně provedený vývěsní štít podoby zasklené skříňky je vybavený drobnou architekturou, edikulou, v jejímž oblouku najdeme truhlářské nástroje, které bývaly často ve znaku řemesla: hoblík, úhelník a kružidlo. Tento štít býval zavěšený v interiéru.</dc:description>
+					<dc:coverage>Hlavní město Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>HD000988</dc:identifier>
+					<dc:date>1800 až 1850</dc:date>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=68cm; š.=56cm; h.=37cm</dcterms:extent>
+					<dcterms:medium>Dřevo</dcterms:medium>
+					<dcterms:medium>kov</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=22695394</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11862262</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pohřební štít cechu kožešníků</dc:title>
+					<dc:description>Kruhový štít nese znak cechu kožešníků s pruhy. Prostřední pruh zdobí kožešina hranostaje a holubice, která je i na kolčí přilbě v klenotu. Výšivka je doplněna vegetabilními rozvilinami. Kolekce tří vyšívaných štítů pražských kožešníků byla zřejmě používaná spolu s trojicí štítů H 034 442. Jsou kompozičně téměř totožné, dochovalo se na nich zlatě krumplované pozadí a snítky v zobáku holubic s iniciálou: W. Ta odkazuje na polepšení znaku Vladislavem II. Jagellonským roku 1473 právě bílou holubicí se zlatou snítkou v zobáku.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H034441</dc:identifier>
+					<dc:date>1501</dc:date>
+					<dc:date/>
+					<dc:date>1501-1-1</dc:date>
+					<dcterms:temporal>1501</dcterms:temporal>
+					<dcterms:created>1501-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=43cm; š.=41cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: textil</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27004327</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11861584</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pohřební štít cechu kožešníků</dc:title>
+					<dc:description>Souborem šesti plechových štítů možná měly být nahrazeny starší textilní. Jejich provedení není tak náročné, znak je dělený na pokos a ne na pruhy. Na rubu stojí nápis: Diese Wappen hatt lassen machen Thobias Bayer Kirschner und Aeltester Zechmaister in einem gantz ehrsammen Handtwerckt der Kirschner ihm und seinen Nachkümlingen zu einer immerwerenden Gedechtnis geschehen im Jahr 1641. Am Tage Jacoby welches war dem 25 Julius (Tyto štíty nechal vyrobit Thobias Bayer Kirschner a nejstarší cechovní mistr celého počestného řemesla Kirschnerů jemu a jeho společníkům na věčnou památku, stalo se roku 1641. V den svatého Jakuba, který byl 25. července).</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H034443</dc:identifier>
+					<dc:date>1641</dc:date>
+					<dc:date/>
+					<dc:date>1641-1-1</dc:date>
+					<dcterms:temporal>1641</dcterms:temporal>
+					<dcterms:created>1641-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=49cm; š.=40cm; h.=1cm</dcterms:extent>
+					<dcterms:medium>Kov</dcterms:medium>
+					<dcterms:medium>Materiál: kov</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27004333</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11861612</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pohřební štít cechu ševců Malé Strany a Hradčan</dc:title>
+					<dc:description>Uprostřed je štít se znakem ševců - tří červených škorní s ostruhami na modrém poli. Přidržují ho štítonoši ve zbroji, po jejich stranách je datum 1591, kolem nápis: Beat morvi qui in domino morivntvr ano XIII (Blaženě zemřeli, kteří v Pánu umírali, roku XIII). Písmeno F s korunou by mělo odkazovat na císaře, tedy Ferdinanda. Otázkou je, kdy přesně štít vznikl, roku 1591 vládl Rudolf II.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H033863</dc:identifier>
+					<dc:date>1591</dc:date>
+					<dc:date/>
+					<dc:date>1591-1-1</dc:date>
+					<dcterms:temporal>1591</dcterms:temporal>
+					<dcterms:created>1591-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=43cm; š.=42cm; h.=2cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: textil</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27004304</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11861686</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pohřební štít cechu vyšehradských krejčích</dc:title>
+					<dc:description>Čtyři štíty zdobí mosazné stříbřené aplikace. Dva mají shodně motiv lebky se zkříženými hnáty doplněný nástroji řemesla: špendlíkem, nůžkami a žehličkou. Pod rámečkem je páska s datací 1794. Další dva jsou s kostlivcem, který drží kosu a rýč, v druhém případě přesýpací hodiny a svícen se sfouknutou svíčkou jako symboly pomíjivosti lidského života.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H005759</dc:identifier>
+					<dc:date>1794</dc:date>
+					<dc:date/>
+					<dc:date>1794-1-1</dc:date>
+					<dcterms:temporal>1794</dcterms:temporal>
+					<dcterms:created>1794-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=42cm; š.=35cm; h.=1.5cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27004234</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11861747</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Torzo korouhve cechu řezníků s císařem Karlem VI. a špička žerdi ve tvaru lva</dc:title>
+					<dc:description>Ve sbírkách Muzea hlavního města Prahy se dochovalo unikátní torzo korouhve cechu pražských řezníků s figurálním portrétem císaře Karla VI. na jedné straně plátna a lvem na červeném poli na straně druhé. Jedná se o plátno vysoké 255 cm a široké 184 cm. Celá korouhev měla nejméně 5 X 3 metry. Byla svěšena z ramene na žerdi ve tvaru T. Mohutná byla i špička v podobě lva, vysoká 97 cm. Předměty byly deponovány do sbírek muzea v roce 1911. Při hledání autora výjimečně kvalitní malby portrétu se uvažovalo o Janu Kupeckém. Během přípravy výstavy bylo zjištěno, že se jedná o dílo Johanna Gottfrieda Auerbacha (1697 – 1753), portrétisty Karla VI. a Marie Terezie. První portrét Karla VI. vytvořil v roce 1728. Také Auerbach ve své dílně nechával malbu pozadí pomocníkům a sám se soustředil na zachycení tváří a rukou. Karel VI. je zobrazený ve zbroji s Řádem zlatého rouna. Pravou rukou se opírá o maršálskou hůl, vedle na stole spočívá česká koruna. Vpravo se otevírá pohled do krajiny a na oblačnou oblohu. Malba lva, cechovního znaku řezníků s datací 1730 provedla dílna. Malba je malovaná na tkanině s atlasovou vazbou, nikoli na klasickém malířském plátně. Ve sbírkách muzea se nacházejí ještě dvě torza rozměrnějších korouhví cechu řezníků. Starší torzo výšky 90 cm je z korouhve vytvořené pravděpodobně roku 1723 u příležitosti oslavy korunovace Karla VI. českým králem. Roku 1781 nechali řezníci vytvořit korouhev s postavou svatého Václava, její torzo má výšku 142 cm.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>HD001527</dc:identifier>
+					<dc:date>1730</dc:date>
+					<dc:date/>
+					<dc:date>1730-1-1</dc:date>
+					<dcterms:temporal>1730</dcterms:temporal>
+					<dcterms:created>1730-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=247cm; š.=188cm; v.=97cm; š.=32cm</dcterms:extent>
+					<dcterms:medium>Atlas</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26971894</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11862151</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Výběrčí misky cechu řezníků Nového Města</dc:title>
+					<dc:description>Dřevěné misky na peníze se zvýšeným a vpředu proříznutým okrajem. Červeně polychromované, na dně namalován věnec se znakem řemesla. Na rubu nápis "1751/ L. S.:"</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>HD001224</dc:identifier>
+					<dc:date>1751</dc:date>
+					<dc:date/>
+					<dc:date>1751-1-1</dc:date>
+					<dcterms:temporal>1751</dcterms:temporal>
+					<dcterms:created>1751-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=23cm; š.=20.5cm; h.=1cm</dcterms:extent>
+					<dcterms:medium>Dřevo</dcterms:medium>
+					<dcterms:medium>Materiál: dřevo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26971847</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11862197</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pohřební štít cechu kolářů</dc:title>
+					<dc:description>Podle Legendy Aurei byla svatá Kateřina za svou křesťanskou víru mučena přivázáním na kolo s hřeby, které ale úder blesku z nebe zničil, aniž by se Kateřině cokoli stalo. Poté byla sťata. Svatá Kateřina je patronkou kolářů. Dole na štítě jsou zobrazeny ještě dva pořízy a sekera. Štít je součástí souboru šesti kusů, tři zobrazují svatou Kateřinu a tři proroka Eliáše, dalšího patrona kolářů. Na ohnivém voze byl vyvezen do nebe, na zemi zůstal pouze plášť, který při jízdě ztratil.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>HD000733</dc:identifier>
+					<dc:date>1750</dc:date>
+					<dc:date/>
+					<dc:date>1750-1-1</dc:date>
+					<dcterms:temporal>1750</dcterms:temporal>
+					<dcterms:created>1750-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=46cm; š.=37cm</dcterms:extent>
+					<dcterms:medium>Železo</dcterms:medium>
+					<dcterms:medium>Materiál: železo</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27004353</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11862223</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pohřební štíty cechu truhlářů</dc:title>
+					<dc:description>Soubor čtyř štítů s truhlářskými nástroji: kružidlo, rejsek, který sloužil na rýsování pomocných čar na obráběném předmětu, měřidlo a úhelník. Na dalších štítech se některé předměty opakují, na druhém štítě je doplňují palice, dláta a pilky, na třetím hoblík, kladívko a ramenový nůž, který se opíral o rameno truhláře. Tím bylo možné vyvinout velký tlak na zpracovávané dřevo, a proto se používal například při výrobě intarzií nebo jím bylo možné proříznout i silnější dýhu. Dále je zde vrtačka s hlavou na výměnu vrtáků či nebozez. Na dalším štítu je hoblík zvaný kocour, který sloužil na vybírání materiálu z drážek (např. svlakových), a rámová pila.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>HD000989</dc:identifier>
+					<dc:date>1676</dc:date>
+					<dc:date/>
+					<dc:date>1676-1-1</dc:date>
+					<dcterms:temporal>1676</dcterms:temporal>
+					<dcterms:created>1676-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=45cm; š.=34cm; h.=4cm</dcterms:extent>
+					<dcterms:medium>Kov</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27007253</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11862236</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korouhev cechu soustružníků</dc:title>
+					<dc:description>Ježíš se vyučil v dílně Josefa tesařem, oba jsou považováni za patrony dřevoobráběcích řemesel. Na korouhvi stojí žehnající Ježíš u soustruhu, v němž je upevněná symbolická zeměkoule. Nad ním jsou Arma Christi neboli nástroje umučení: násada s octovou houbou, palice s hřeby, kleště a kladivo v trnové koruně, důtky a Longinovo kopí. V rozích jsou šachové figury. Druhá strana s vavřínovým věncem, korunou, iniciálou: L II. a datem: 1791 odkazuje na korunovaci Leopolda II. českým králem.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H033604</dc:identifier>
+					<dc:date>1791</dc:date>
+					<dc:date/>
+					<dc:date>1791-1-1</dc:date>
+					<dcterms:temporal>1791</dcterms:temporal>
+					<dcterms:created>1791-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=60cm; š.=92cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27106497</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11862290</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korouhev cechu sládků</dc:title>
+					<dc:description>Sládci na korouhvi uctili svého patrona svatého Gambrina. Stojí ve zbroji u stolu s korbelem, na hlavě má klasovou korunu, v pozadí vidíme práce na přípravě piva. Aby nemohlo dojít k omylu, má pod sebou ještě nápis: Král Brabanskij. Gambrinus byl legendární král Flander, ztotožňovaný s burgundským vévodou Janem Nebojsou (Jan Zonder Vrees, 1371 – 1419), který prý vymyslel výrobu chmeleného piva. Často se také setkáváme s informací, že byl Gambrinus členem dvora Karla Velikého. Na druhé straně je pak svatý Václav ve zbroji a královském hermelínu. Andělé za ním drží palmovou ratolest – symbol mučedníků – a svatozář. U nohou mu sedí lev s královskou korunou a štítem se sladovnickými znaky – lopatou a dvěma limpami.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>HD000594</dc:identifier>
+					<dc:date>1791</dc:date>
+					<dc:date/>
+					<dc:date>1791-1-1</dc:date>
+					<dcterms:temporal>1791</dcterms:temporal>
+					<dcterms:created>1791-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=64.5cm; š.=94cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26974835</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11862980</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korouhev cechu mlynářů</dc:title>
+					<dc:description>Staroměstští mlynáři vyzdobili svou korouhev oválnými obrazy v mosazných rámech. Na jedné straně je štít s kolem a erbem Starého Města. Z boku jej podpírají dva gryfové, mytologické postavy napůl orel a napůl lev, svrchu přidržuje anděl, pod jehož křídly sedí Adam a Eva. Dole na nápisových páskách si přečteme: Insigne coetus Molitorium Pragensium Ao 1564 (Znak cechu mlynářů pražských L. P. 1564). Na druhé straně je zachycený klečící svatý Senanus, patron mlynářů se všemi nezbytnými atributy, jako je mlýnské kolo, pytle, síto, budova mlýna. S. Senanus, Molitor. Pržidam obilý a rozmnožim ge.</dc:description>
+					<dc:coverage>Praha-Staré Město</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H035874</dc:identifier>
+					<dc:date>1791</dc:date>
+					<dc:date/>
+					<dc:date>1701-1-1</dc:date>
+					<dcterms:temporal>18. století</dcterms:temporal>
+					<dcterms:created>1701-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=62.5cm; š.=91cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26897107</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11862993</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korouhev cechu vinařů</dc:title>
+					<dc:description>Vinařská korouhev patří k jedné z mála, která je signovaná. Bohužel o jejím autorovi malíři Martinu Perském nevíme kromě toho, že působil v 18. století jako umělecký odhadce na Starém Městě, nic dalšího. Vinaři nechali na korouhvi zobrazit svého patrona svatého Václava, který v díži mísí hrozny na přípravu vína - Kristovy krve. V pozadí na vinici je rotunda a kostel. V té době se jednalo o velmi oblíbený motiv. Na druhé straně zachytil malíř pohled do dílny. V centru je vinařský lis, po stranách vinařské nože, lopaty a díže. Ve výklenku stojí madona s dítětem. Nahoře a dole je vysvětlující nápis: Prager Weiner Zunft, Praskeg Winarskeg Pořádek.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H032120</dc:identifier>
+					<dc:date>1791</dc:date>
+					<dc:date/>
+					<dc:date>1701-1-1</dc:date>
+					<dcterms:temporal>18. století</dcterms:temporal>
+					<dcterms:created>1701-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=57cm; š.=87cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26877057</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11863136</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pohřební štít cechu mydlářů</dc:title>
+					<dc:description>Soubor čtyř štítů patřil cechu voskařů a mydlářů tří pražských měst. Pozoruhodné jsou především postavy ve slavnostní zbroji - obličeje, které jsou vmalovány do helmy, se vždy liší. S největší pravděpodobností se jedná o portréty starších cechovních mistrů. Mezi nimi je kartuše se dvěma anděly nesoucími štítek s monogramem F III, tedy císaře Ferdinanda III. (1608 - 1657). Ležící lev nad nimi třímá svícen s hořící svící. Druhý cechovní symbol, kostku mýdla, drží na ramínku andělé. Na mýdle jsou vyraženy znaky Starého Města, Nového Města a Malé Strany.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H034681</dc:identifier>
+					<dc:date>1650</dc:date>
+					<dc:date/>
+					<dc:date>1601-1-1</dc:date>
+					<dcterms:temporal>17. století</dcterms:temporal>
+					<dcterms:created>1601-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=48cm; š.=42cm; h.=2cm</dcterms:extent>
+					<dcterms:medium>Kov</dcterms:medium>
+					<dcterms:medium>Materiál: kov</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26897101</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11863162</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korouhev cechu hrnčířů</dc:title>
+					<dc:description>Na korouhvi jsou zachyceni Adam a Eva pod stromem poznání. Na druhé straně vidíme dílnu s hrnčířem vytáčejícím na kruhu džbán. Za ním je také výrobek - kamna, jejich podoba odráží aktuální dobovou módu válcových kamen završených vázou, do kterých se dávaly odpařovat vonné tekutiny.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H033662</dc:identifier>
+					<dc:date>1791</dc:date>
+					<dc:date/>
+					<dc:date>1701-1-1</dc:date>
+					<dcterms:temporal>18. století</dcterms:temporal>
+					<dcterms:created>1701-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=59.5cm; š.=86cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26877077</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11863188</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pohřební štíty cechu hedvábníků</dc:title>
+					<dc:description>Pozoruhodnými díly jsou dva štíty cechu hedvábníků. Na prvním je zachycený František Xaverský zázračně uzdravující. Doprovází ho svatý Vavřinec se svým typickým atributem (roštem, na kterém byl upečen) a mučednickou palmovou ratolestí. Z obláčků shlíží madona s dítětem. Svatý František Xaverský byl důležitý italský světec, jezuitský misionář, souputník Ignáce z Loyoly. Jako patron hedvábníků byl vyvolený i kvůli svým dalekým křesťanským misiím na Dálný východ, odkud hedvábí pocházelo - do Indie, Japonska a na Cejlon. Při cestě do Číny onemocněl a zemřel. Na štítě je nápis: Založeno od čestného pořádku hedbawnickeho roku 1752, obnoweno roku 1850. Druhý štít zachycuje dva židy Bezalela a Oholiaba, kteří na přání Mojžíše vytvořili Archu úmluvy. Bezalel je považovaný za patrona uměleckých řemeslníků. Dole na štítu je nápis: Bezeleel a Aholiab, wtipny řemeslnik a krumpeř šarlatu čerwcy dwakrat barwenem a kmentu. Exo. XXXVIII.23.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H008779</dc:identifier>
+					<dc:date>1752</dc:date>
+					<dc:date/>
+					<dc:date>1701-1-1</dc:date>
+					<dcterms:temporal>18. století</dcterms:temporal>
+					<dcterms:created>1701-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=27cm; š.=22cm</dcterms:extent>
+					<dcterms:medium>Kov</dcterms:medium>
+					<dcterms:medium>Materiál: kov</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26862815</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11863240</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pohřební štít cechu zedníků</dc:title>
+					<dc:description>Malovaný plechový štít, na němž jsou v oválném věnci na šedomodré půdě namalované nástroje řemesla: úhelník, kružidlo, kladivo, lžíce.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H000812</dc:identifier>
+					<dc:date>1664</dc:date>
+					<dc:date/>
+					<dc:date>1664-1-1</dc:date>
+					<dcterms:temporal>1664</dcterms:temporal>
+					<dcterms:created>1664-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=50cm; š.=34cm; h.=1.5cm</dcterms:extent>
+					<dcterms:medium>Plech</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27004204</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11863279</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pohřební štít cechu zedníků</dc:title>
+					<dc:description>Na štítu je vyšitý model ideální fasády kostela, na tympanonu stojí socha svatého Rocha se psem, po stranách jsou trojúhelník a úhelník.</dc:description>
+					<dc:coverage>Čechy</dc:coverage>
+					<dcterms:spatial>Česká republika</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H014436</dc:identifier>
+					<dc:date>1856</dc:date>
+					<dc:date/>
+					<dc:date>1856-1-1</dc:date>
+					<dcterms:temporal>1856</dcterms:temporal>
+					<dcterms:created>1856-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=53cm; š.=43.5cm; h.=1.5cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: textil</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27004246</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11863305</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pokladna cechu kominíků</dc:title>
+					<dc:description>Patron kominíků svatý Florián je zachycen v intarzii kartuše nesené dvěma kominíky. Svatý Florián byl římský voják z hornorakouského města Ems (Emže), který se obrátil na křesťanskou víru. Legenda praví, že prý uhasil hořící město jediným vědrem vody. Ani to ho neuchránilo před mučednickou smrtí, za svou víru byl roku 304 hozen do řeky s mlýnským kamenem na krku. Nejčastěji bývá zobrazován, jak vědrem hasí požár. Truhla patří mezi nepočetnou skupinu kusů, jejichž víko se neotevírá na pantech, ale vysouvá na speciálních ližinách do výšky.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>HD001313</dc:identifier>
+					<dc:date>1775</dc:date>
+					<dc:date/>
+					<dc:date>1775-1-1</dc:date>
+					<dcterms:temporal>1775</dcterms:temporal>
+					<dcterms:created>1775-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=53cm; š.=74cm; h.=45cm</dcterms:extent>
+					<dcterms:medium>Dřevo</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27007273</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11863344</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pohřební štít cechu zámečníků</dc:title>
+					<dc:description>Jeden ze souboru čtyř štítů zámečnických řemeslníků: zámečníci, ostružníci, puškaři a hodináři. Na štítě jsou vyšity zkřížené klíče, zámek dveřní a zámek visací, kolem jsou jména členů cechu: Thomas Rolant, Iobs Schmeler, Ieras Gorgschwamer, Lazar Bamser, Hans Stull, Nickel Spiner.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>HD000832</dc:identifier>
+					<dc:date>1611</dc:date>
+					<dc:date/>
+					<dc:date>1601-1-1</dc:date>
+					<dcterms:temporal>17. století</dcterms:temporal>
+					<dcterms:created>1601-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=36cm; š.=31cm; h.=2cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26897204</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11863461</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korouhev cechu kovářů</dc:title>
+					<dc:description>Obraz na korouhvi zachycuje svatého Eligia jako biskupa v Noyon, kterému anděl podává podkovu. Dole vpravo vidíme nápis: S. Eloy, jedná se o variantu jména Eligius. Na druhé straně jsou dva gryfové se štítem a kovářskými nástroji. Gryfové byli prý strážci indického zlata. Podle řecké mytologie strážili skytské zlaté doly. Skytové prosluli jako vynikající zpracovatele kovů.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>HD000625</dc:identifier>
+					<dc:date>1791</dc:date>
+					<dc:date/>
+					<dc:date>1701-1-1</dc:date>
+					<dcterms:temporal>18. století</dcterms:temporal>
+					<dcterms:created>1701-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=59cm; š.=94cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26897178</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11863487</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korouhev cechu tesařů</dc:title>
+					<dc:description>Tesaři a další řemesla pracující se dřevem uznávají jako svého nejdůležitějšího patrona svatého Josefa a s ním i Ježíše Krista. Svatý Josef byl tesařem a řemeslo naučil i Ježíše. Od středověku byly oblíbené pohledy do Josefovy dílny s nářadím, kterému pomáhá Panna Marie i malý Ježíš. Na korouhvi je zachycena výuka Ježíše tesařskému řemeslu, a aby nemohlo dojít k omylu, mají před sebou nákres krovu, jehož zhotovení bylo jednou z mistrovských prací tesařů. Panna Marie se výuky nezúčastňuje, čte v knize. Na druhé straně korouhve je zobrazen Noe, jeden z patriarchálních typů Krista. Scéna zachycuje moment úmluvy Boha Otce s Noem o jeho záchraně. Vlevo vidíme archu a pod ní skupinu posmívačů.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>HD000955</dc:identifier>
+					<dc:date>1791</dc:date>
+					<dc:date/>
+					<dc:date>1791-1-1</dc:date>
+					<dcterms:temporal>1791</dcterms:temporal>
+					<dcterms:created>1791-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=68cm; š.=101cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27004385</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11868720</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Vývěsní štít cechu tesařů</dc:title>
+					<dc:description>Vývěsní štít býval podle údajů v inventární knize zavěšený v hospodě, kde visíval nad truhlářským stolem. Uvnitř prosklené skříňky je z plechu vystřižený altánek a v něm stojí dva tesaři u oltáře, na němž je soubor nástrojů řemesla.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H000750</dc:identifier>
+					<dc:date>1801</dc:date>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v. 67 cm, š. 53 cm, h. 21,5 cm</dcterms:extent>
+					<dcterms:medium>Plech</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26729855</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11868733</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pohřební štít cechu pokrývačů</dc:title>
+					<dc:description>Atributem cechu pokrývačů byla pokrývačská kladívka, která jsou zachycena i na tomto pohřebním štítě. Kolem je nápis: Mataus Stachowli, Ian Topinka, 1631</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>HD000841</dc:identifier>
+					<dc:date>1631</dc:date>
+					<dc:date/>
+					<dc:date>1631-1-1</dc:date>
+					<dcterms:temporal>1631</dcterms:temporal>
+					<dcterms:created>1631-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=55cm; š.=51cm; h.=1.5cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: textil</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27004368</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11877581</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korouhev cechu zahradníků</dc:title>
+					<dc:description>Jedná se o jednu z mála korouhví, jejíhož autora známe. Signatura: F.Pka patří pražskému malíři Františkovi Xaverovi Procházkovi (1746-1815). Procházka se vyučil u Jana Kastnera a nějakou dobu působil v ateliéru Norberta Grunda (1717 – 1767). V roce 1787 si zakoupil dům na Nové Městě. Živil se zejména jako malíř oltářních obrazů, patří ale i k prvním restaurátorům. Díky jeho aktivitě byly zachráněny Rubensovy obrazy z kostela svatého Tomáše na Malé Straně. Obraz na korouhvi zachycuje scénu Noli me tangere (nedotýkej se mne). Po vzkříšení se Kristus zjevil Maří Magdaléně, která klečela a plakala u jeho hrobu. Nejprve ho pokládala za zahradníka, ale záhy ho poznala. Kristus jí nedovolil se ho dotknout a přikázal jí vzkázat učedníkům, že byl vzkříšen. Tato scéna je hojně využívaná v zahradnické ikonografii. Na druhé straně je zobrazena zahrada s růžovým keřem, jehož bílé květy symbolizují čistotu. Na páskách rámu je nápis: Na Božim požehnanj wssechno záleží. A Z gest we swetě negwgetssi zbožij. Erb kunstu poržadku zahradnického</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>HD000718</dc:identifier>
+					<dc:date>1795</dc:date>
+					<dc:date/>
+					<dc:date>1795-1-1</dc:date>
+					<dcterms:temporal>1795</dcterms:temporal>
+					<dcterms:created>1795-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=66.5cm; š.=96cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27106524</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/12381844</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TE</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korouhev cechu rybářů</dc:title>
+					<dc:description>Vznik korouhve u příležitosti korunovace Leopolda II. datuje na jedné straně obraz s iniciálou: L II a datací: 1791. Na druhé straně najdeme výjev Povolání Petra a Ondřeje. Jedná se o jednu z legend ze života svatého Petra, který byl patronem rybářů. Ježíš na břehu Galilejského moře uviděl Šimona (Petra) a jeho bratra Ondřeje, jak vrhají síť do moře. Ježíš je zastavil a řekl: pojďte za mnou a učiním vás rybáře lidí.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H000157</dc:identifier>
+					<dc:date>1791</dc:date>
+					<dc:date/>
+					<dc:date>1701-1-1</dc:date>
+					<dcterms:temporal>18. století</dcterms:temporal>
+					<dcterms:created>1701-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměry: v.=61,5cm; š.=93cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26862759</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/12597925</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pohřební štít cechu rybářů</dc:title>
+					<dc:description>Malovaný štít s motivem tří rybářů na dvou loďkách, kteří zatahují síť. Vpravo u stromu stojí smrt, která míří lukem na jednoho z rybářů.</dc:description>
+					<dc:coverage>Čechy</dc:coverage>
+					<dcterms:spatial>Česká republika</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H000158</dc:identifier>
+					<dc:date>1777</dc:date>
+					<dc:date/>
+					<dc:date>1701-1-1</dc:date>
+					<dcterms:temporal>18. století</dcterms:temporal>
+					<dcterms:created>1701-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=51cm; š.=50cm; h.=4cm</dcterms:extent>
+					<dcterms:medium>Plátno</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26729849</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/12597975</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korouhev cechu sklenářů</dc:title>
+					<dc:description>Patronem sklenářů, stejně jako malířů, byl evangelista Lukáš. Podle legendy maloval pannu Marii s dítětem. Tak je zachycen i na korouhvi, za zády vykukuje býk, Lukášův atribut. Na druhé straně jsou ve znaku neseném lvy sklenářské nástroje. Korouhev vznikla u příležitosti korunovace Leopolda II. českým králem v roce 1791.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>HD001241</dc:identifier>
+					<dc:date>1791</dc:date>
+					<dc:date/>
+					<dc:date>1791-1-1</dc:date>
+					<dcterms:temporal>1791</dcterms:temporal>
+					<dcterms:created>1791-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=60cm; š.=91cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26974853</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/12599644</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-23T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Talíř neurčitého cechu</dc:title>
+					<dc:description>Do cechovních domů patřilo i nádobí určené k servírování svačiny, tedy pohoštění členů.</dc:description>
+					<dc:coverage>Střední Evropa</dc:coverage>
+					<dcterms:spatial>Evropa</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H037503</dc:identifier>
+					<dc:date>1601</dc:date>
+					<dc:date/>
+					<dc:date>1601-1-1</dc:date>
+					<dcterms:temporal>1601</dcterms:temporal>
+					<dcterms:created>1601-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: p.=35.5cm; h.=5cm</dcterms:extent>
+					<dcterms:medium>Kov</dcterms:medium>
+					<dcterms:medium>Materiál: kov</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26897121</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/12619931</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-29T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Prapor Spolku vzájemně se podporujících živnostníků na Pankráci a okolí</dc:title>
+					<dc:description>Na jedné straně je zobrazen štít se znaky spojených řemesel: krejčí, zámečníci, sladovníci, koláři, mlynáři, varhaníci, řezníci, stavitelé, zedníci, knihaři, pekaři, bednáři, lodníci, ševci, tesaři a truhláři, sedláři, kováři. Kolem je nápis: Spolek vzáj. se podporujících živnostníků na Pankráci a okolí, 1904. Na druhé straně na červeném základu je vyšitý medailon se svatým Václavem a kolem stojí: Nedej zahynouti nám ni budoucím.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H058378</dc:identifier>
+					<dc:date>1904</dc:date>
+					<dc:date/>
+					<dc:date>1904-1-1</dc:date>
+					<dcterms:temporal>1904</dcterms:temporal>
+					<dcterms:created>1904-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=149cm; š.=176cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: textil</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27193566</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11863097</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-29T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Prapor Společenstva obuvníků na Královských Vinohradech</dc:title>
+					<dc:description>Společenstvo obuvníků si nechalo zhotovit prapor krátce po přejmenování Viničné Hory na Královské Vinohrady roku 1867. Spolkový prapor má na jedné straně vyšívaný znak Vinohrad s textem: I. Společenstvo obuvníků na Král. Vinohradech. Na druhé straně je motiv, který převzali od cechu ševců - štít se třemi škorněmi a dva štítonoši ve zbroji. Na štítu je koruna s: W, připomínající statuta Vladislava Jagellonského. Nad ní je česká koruna s iniciálami: F II C VI, upomínající na císaře Ferdinanda II. a Karla VI. Autorem návrhu byl Jindřich Václav Jan Trenkwald (1820 – 1896), starší bratr Josefa Matyáše Trenkwalda (1824 – 1897). Roku 1853 založil firmu na výrobu praporů, které dodával po celých Čechách i za jejich hranice. Trenkwaldova firma byla největší svého druhu v Čechách v 2. polovině 19. století.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H038559</dc:identifier>
+					<dc:date>1869</dc:date>
+					<dc:date/>
+					<dc:date>1869-1-1</dc:date>
+					<dcterms:temporal>1869</dcterms:temporal>
+					<dcterms:created>1869-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=148cm; š.=178cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: textil</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27193558</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11863123</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-04-29T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Prapor Spolku ku podporování řezníků a uzenářů v Praze-Dejvicích</dc:title>
+					<dc:description>Spolkové tradice se držely i v době mezi válkami. Roku 1934 si nechali zhotovit slavnostní prapor Spolku ku podporování řezníků a uzenářů v Praze-Dejvicích. Na jedné straně je výšivka stříbrného lva se sekerou v tlapách s daty: 1930 – 1934. Nahoře a dole jsou medailony s pohledem na kostel svatého Matěje v Dejvicích a pohled na brusku – Píseckou bránu. Po stranách je pestrá svérázová výšivka. Na druhé straně je svatý Václav na koni v polabské krajině s Řípem na horizontu. Po stranách jsou erby Prahy a Bubenče. V oblouku se klene nápis: Nedej zahynouti nám i budoucím. Nahoře a dole jsou opět dva medailony s motivy české koruny a Pražského hradu.</dc:description>
+					<dc:coverage>Praha-Dejvice</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>HD004252</dc:identifier>
+					<dc:date>1934</dc:date>
+					<dc:date/>
+					<dc:date>1934-1-1</dc:date>
+					<dcterms:temporal>1934</dcterms:temporal>
+					<dcterms:created>1934-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v. 106 cm, š. 148 cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: textil</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27193601</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/12381817</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-05-19T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Vandrovní knížka Havla Vogela</dc:title>
+					<dc:description>Tovaryš po příchodu do města zamířil do cechovního domu - herberku. Pokud cech neměl vlastní sídlo, přihlásil se tovaryš v domě cechmistra. Uvítal ho cechmistr nebo někdo z představenstva. Tovaryš dostal najíst a nocleh. Jestliže nedostal u žádného mistra práci, musel druhý den město opustit a vandrovat jinam. Na cestu dostal drobný příspěvek, dárek neboli Geschenk. Pro cechy, které posílaly tovaryše na vandr, se pak vžil termín šenkovní cechy. Jestliže tovaryš práci našel, zůstal ve městě obvykle jeden až tři měsíce.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H020538</dc:identifier>
+					<dc:date>1852</dc:date>
+					<dc:date/>
+					<dc:date>1852-1-1</dc:date>
+					<dcterms:temporal>1852</dcterms:temporal>
+					<dcterms:created>1852-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: š.=12,3 cm, v.=19,5 cm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<dcterms:medium>Materiál: papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=12619854</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/12619852</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-06-02T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korouhev cechu prýmkařů</dc:title>
+					<dc:description>Korouhev byla vytvořena ke korunovaci Leopolda II. U příležitosti korunovace císaře Ferdinanda I. českým králem, toho jména pátého, byla korouhev opravena. Pod korunovačními klenoty s nápisem: FI 1386 Renovirt prosvítá starší motiv. Na druhé straně jsou výrobky prýmkařů – střapce, šňůry a porty neboli prýmky.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H035334</dc:identifier>
+					<dc:date>1791</dc:date>
+					<dc:date/>
+					<dc:date>1791-1-1</dc:date>
+					<dcterms:temporal>1791</dcterms:temporal>
+					<dcterms:created>1791-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=60cm; š.=90.5cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27106510</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11861828</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-06-02T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korouhev cechu pekařů</dc:title>
+					<dc:description>Převážná většina korouhví dochovaných ve sbírkách Muzea hl. m. Prahy byla vytvořena u příležitosti korunovace císaře Leopolda II. českým králem. Jejich zobrazení se dochovalo na grafikách Filipa (1734 – 1804) a Františka (1766 – 1831) Hegerových a Kašpara Plutha (1766 – 1822) zachycujících slavnostní průvod, konkrétně na listu z Malostranského náměstí. Řada korouhví má tuto událost připomenout v malbě. Pekaři se omezili na iniciály: L II ve štítku lemovaném datem: 1791. Na druhou stranu nechali vymalovat znak pekařů, kterými jsou dva lvi držící preclík a žemle.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H034501</dc:identifier>
+					<dc:date>1791</dc:date>
+					<dc:date/>
+					<dc:date>1701-1-1</dc:date>
+					<dcterms:temporal>18. století</dcterms:temporal>
+					<dcterms:created>1701-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=60.5cm; š.=91.5cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26877147</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11863084</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-06-02T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korouhev cechu provazníků</dc:title>
+					<dc:description>Na obraze je zachycený svatý Posthumus patron provazníků, se svým pomocníkem, jak pletou provaz. Na druhé straně je malba vztahující se ke korunovaci Leopolda II. českým králem.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H033970</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1701-1-1</dc:date>
+					<dcterms:temporal>18. století</dcterms:temporal>
+					<dcterms:created>1701-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=61cm; š.=97cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=26877131</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/12406787</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-06-03T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:UR</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Pohřební štít cechu zedníků a kameníků</dc:title>
+					<dc:description>Pohřební štít je součástí souboru šesti kusů malovaných na plátně. Odlišují se předměty nad lebkou se zkříženými hnáty. Tři doplňuje kladívko, trojúhelník, zednická lžíce a nápis: Dnes mnie, zejtra tobie. Další tři s úhelníkem, kladívkem a dláty doprovází týž nápis v němčině: Heut mir Morgen Dir.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>H000813</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1726-1-1</dc:date>
+					<dcterms:temporal>1726</dcterms:temporal>
+					<dcterms:created>1726-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=53cm; š.=38cm; h.=1.5cm</dcterms:extent>
+					<dcterms:medium>Jiné</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27004210</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/11863292</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2020-12-15T23:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Korouhev cechu řezníků Starého Města</dc:title>
+					<dc:description>Červenofialová korouhev, které je se zlatem krumplovaného hedvábí. Po obou stranách jsou olejomalby. Z jedné strany jsou vyobrazeni dva obrněnci, kteří útočí sekyrami na uzavřenou bránu mezi dvěma věžemi. Na straně druhé je vyobrazen dvouocasý lev na červeném pozadí. Mezi jeho zadníma nohama je letopočet 1791.</dc:description>
+					<dc:coverage>Praha-Staré Město</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Umělecké řemeslo</dc:relation>
+					<dc:identifier>HD001526</dc:identifier>
+					<dc:date>1791</dc:date>
+					<dc:date/>
+					<dc:date>1791-1-1</dc:date>
+					<dcterms:temporal>1791</dcterms:temporal>
+					<dcterms:created>1791-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>Rozměr: v.=64.5cm; š.=99cm</dcterms:extent>
+					<dcterms:medium>Textil</dcterms:medium>
+					<dcterms:medium>Materiál: kombinovaný materiál</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=27416850</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/12599599</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-18T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Modrovous</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na premiéru zpěvohry ve čtyřech jednáních – Modrovous od H. Meilhaca a L. Halévyho. Hudba - Jacques Offenbach, přeložil E. F. Züngel a J. J. Stankovský, režie – E. Chvalovský. Benefice Jindřicha Mošny. Datum konání – 23. prosince 1880. Ceduli orámovanou černým ornamentem vytiskla Knihtiskárna Politiky Praha.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056781/001</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 302 mm, š. 237 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35403844</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35330941</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-18T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Angot, dítě pařížské tržnice</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na komickou operetu ve třech jednáních – Angot, dítě pařížské tržnice od Clairvilla, P. Siraudina a V. Koniga. Hudba – Charles-Alexandre Lecocq, překlad – J. H. Böhm, režie – F. K. Kolár, malba kulis – E. Herold (I. a II. jednání). Datum konání – 9. února 1875. Ceduli orámovanou ozdobným ornamentem vytiskl B. Stýbl v Praze.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056783/005</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 450 mm, š. 310 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35403850</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35330957</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-18T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Romeo a Julie</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na operu v pěti jednáních – Romeo a Julie dle W. Skakespeara sepsal J. Barbier a M. Carré. Překlad – E. Züngel, režie – E. Chvalovský. Datum konání – 27. února 1877. Vytiskl Karel Mann, Praha.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056784/002</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 490 mm, š. 310 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35403860</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35330973</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-18T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Výnosné místo</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na komedii ve čtyřech jednáních – Výnosné místo od Alexandra Nikolajevič Ostrovskije. Překlad – E. Vávra, režie – F. K. Kolár. Pouze jediné představení. Datum konání – 14. března 1877. Vytiskl Karel Mann, Praha.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056784/008</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 490 mm, š. 310 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35403866</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35330989</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-18T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Bandité</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na operetu ve třech jednáních – Bandité od L. Meilhaca a L. Halévyho. Hudba – Jacques Offenbach, režie – E. Chvalovský. Datum konání – 8. dubna 1877. Vytiskl Karel Mann, Praha.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056784/016</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 490 mm, š. 310 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35403872</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35331005</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule 500.000 čertů</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Královského zemského českého divadla v Praze na féerie se zpěvem a tanci ve třech jednáních a sedmi obrazech – 500.000 čertů od E. Jakobsona a C. Thalburga. Hudba – Michaelis, tance a evoluce – sl. Hentzová, režisér – Chvalovský. Datum konání – 1. ledna 1877. Vytiskla Knihtiskárna Karla Manna v Praze, nákladem vlastním.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056785/001</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 630 mm, š. 490 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35547199</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35527713</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Cizinka</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na premiéru hry v pěti jednáních – Cizinka od Alexandra Dumas ml. Režie – F. K. Kolár. Datum konání – 2. ledna 1877. Vytiskla knihtiskárna Karla Manna v Praze, nákladem vlastním.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056785/002</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 630 mm, š. 490 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35547205</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35528059</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Orfeus v podsvětí</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na operetu ve čtyřech jednáních – Orfeus v podsvětí od J. Crémieux. Hudba - Jacques Offenbach, režie – E. Chvalovský, choreografie – M. Hentzová. Uvedeno mimo předplacení. Datum konání – 6. ledna 1877. Ceduli vytiskla Knihtiskárna Karla Manna v Praze, nákladem vlastním.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056785/003</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 630 mm, š. 490 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35547211</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35528513</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Zlatý křížek</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na operu ve dvou jednáních – Zlatý křížek od S. H. Mossenthala. Hudba – Ignaz Brüll, překlad – J. K. (B. Frida, J. Vrchlický), režie – E. Chvalovský. Datum konání – 12. ledna 1877. Ceduli vytiskla Knihtiskárna Karla Manna v Praze, nákladem vlastním.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056785/004</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 630 mm, š. 490 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35547217</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35528529</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Se stupně k stupni</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na hru se zpěvy a tanci v pěti jednáních – Se stupně k stupni od Huga Müllera. Překlad – J. J. Stankovský, režie – E. Chvalovský, hudba – F. Roth, choreografie – M. Hentzová. Uvedeno mimo předplacení. Datum konání – 14. ledna 1877. Tiskem Knihtiskárna Karla Manna v Praze, nákladem vlastním.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056785/005</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 630 mm, š. 490 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35547223</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35528545</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Sen noci svatojánské</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na hru ve třech jednáních – Sen noci svatojánské od Williama Shakespeara. Překlad – F. Doucha, režie – F. K. Kolár, hudba – Mendelssohn-Bartholdy. Uvedeno mimo předplacení. Datum konání – 14. ledna 1877. Ceduli vytiskla Knihtiskárna Karla Manna v Praze, nákladem vlastním.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056785/006</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 630 mm, š. 490 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35547229</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35528726</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Fromont junior &amp; Risler senior</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na hru v pěti jednáních - Fromont junior &amp; Risler senior od Alphonse Daudeta a Adolpha Belota. Překlad – E. Pešková?, režie – F. K. Kolár. Datum konání – 4. února 1877. Ceduli vytiskla knihtiskárna Karla Manna v Praze, nákladem vlastním.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056785/008</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 630 mm, š. 490 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35547245</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35528923</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Kloboučník a punčochář aneb Pramáti v letním divadle</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na hru se zpěvy ve dvou jednáních - Kloboučník a punčochář aneb Pramáti v letním divadle od Friedricha Ernsta Hoppa. Překlad – J. N. Štěpánek, režie – E. Chvalovský. Uvedeno mimo předplacení. Datum konání – 4. února 1877. Ceduli vytiskla Knihtiskárna Karla Manna v Praze, nákladem vlastním.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056785/009</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 630 mm, š. 490 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35547251</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35528939</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Fučík</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na premiéru hry o pěti jednáních – Fučík od Friedricha Halma. Překlad – J. J. Stankovský, režie – F. K. Kolár. Datum konání – 7. února 1877. Ceduli vytiskla knihtiskárna Karla Manna v Praze, nákladem vlastním.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056785/010</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 630 mm, š. 490 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35547257</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35528955</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Svatojánské proudy</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na operu ve čtyřech jednáních – Svatojánské proudy od E. Rüffera. Hudba – Josef Richard Rozkošný, režie – E. Chvalovský. Uvedeno náhradou za zrušené představení opery Němá z Portici pro onemocnění P. Glaserové. Datum konání – 10. února 1877. Ceduli vytiskla knihtiskárna Karla Manna v Praze, nákladem vlastním.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056785/011</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 630 mm, š. 490 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35547263</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35529409</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Enšpigl aneb Každou chvilku nějaké čtveráctví</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na hru - Enšpigl aneb Každou chvilku nějaké čtveráctví od Johanna Nestroye. Překlad – J. K. Tyl, režie – E. Chvalovský. Uvedeno mimo předplacení. Datum konání – 11. února 1877. Vytiskla knihtiskárna Karla Manna v Praze, nákladem vlastním.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056785/012</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 630 mm, š. 490 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35547269</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35529425</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Námořní kadet</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na operetu ve třech jednáních – Námořní kadet od F. Zella. Hudba – Richard Genée, překlad F. Z. (E. F. Züngel), režie F. Chvalovský. Uvedeno mimo předplacení. Datum konání – 22. dubna 1877. Ceduli vytiskla Knihtiskárna Karla Manna v Praze, nákladem vlastním.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056785/013</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 630 mm, š. 490 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35547275</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35529441</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Ultimo</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na hru v pěti jednáních – Ultimo od Gustava Mosera. Překlad B. Brandejs, režie – F. K. Kolár. Datum konání – 11. května 1881. Vytiskla knihtiskárna „Politik“ v Praze, nákladem vlastním.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056785/014</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 630 mm, š. 490 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35547281</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35529457</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Pan Alfons</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Prozatimního divadla na hru ve třech jednáních – Pan Alfons od Alexandra Duma ml. Překlad – E. Bozděch, režie – F. K. Kolár. Datum konání - 26. května 1877. Ceduli vytiskla knihtiskárna Karla Manna v Praze, nákladem vlastním.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056785/015</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 630 mm, š. 490 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35547287</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35529637</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-05-27T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Samá ženidla</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Letního divadla na hradbách (Aréna na Hradbách) na hru se zpěvy ve třech jednáních – Samá ženidla od Johanna Nepomuka Nestroye. Překlad – J. J. Stankovský, režie – J. K. Chramosta, hudba – M. Hebenstreit. Datum konání – 22. července 1869. Ceduli vytiskl Steinhauser a Novák v Praze, nákladem vlastním.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056787</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 450 mm, š. 605 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=35547293</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/35532405</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-06-30T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Já mám příjem!/Nehody starého mládence</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Letního divadla na hradbách na veselohru v jednom jednání – Já mám příjem! od Ferdinanda Františka Šamberka. Nato následuje fraška se zpěvy ve třech jednáních – Nehody starého mládence od Johanna Nestroye. Benefice Jindřicha Mošny. Datum konání – 15. července 1873. Orámovanou ceduli černým ornamentem vytiskla Knihtiskárna B. Stýbla v Praze. V pravém rohu nahoře razítko ""Archiv Jindřicha Mošny"".</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056788/003</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>cmxcm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=36095566</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/36078913</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-06-30T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Pan farář a jeho kostelník</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Letního divadla na hradbách na premiéru frašky v pěti odděleních – Pan farář a jeho kostelník od Rudolfa Kneisela. Překlad – E. Pešková. Benefice Jindřicha Mošny. Datum konání – 16. července 1874. Ceduli orámovanou černým ornamentem vytiskla Knihtiskárna B. Stýbla v Praze. V pravém rohu nahoře razítko ""Archiv Jindřicha Mošny"".</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056788/004</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>cmxcm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=36095572</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/36078929</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-06-30T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Chyba a trefa aneb Aspoň civilně</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Letního divadla na hradbách na obraz ze života ve třech jednáních se zpěvy a tanci – Chyba a trefa aneb Aspoň civilně dle F. B. Benefice Jindřicha Mošny. Datum konání – 15. července 1875. Ceduli orámovanou černým ornamentem vytiskla Knihtiskárna B. Stýbla v Praze. V pravém rohu nahoře razítko ""Archiv Jindřicha Mošny"".</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056788/005</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>cmxcm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=36095578</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/36078945</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-06-30T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TI</setSpec>
+				<setSpec>publikacePredmetu:S:2:TI:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Katinka Heilbronská aneb Zkoušení ohněm</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Stavovského divadla na hru v pěti jednáních – Katinka Heilbronská aneb Zkoušení ohněm od Heinricha Kleista. Překlad – F. D. (František Doucha). První vystoupení Arnoštky Libické v titulní roli. Datum konání – 13. března 1859. Ceduli orámovanou černým ornamentem vytiskli synové Bohumila Haase. Dole uprostřed iniciály F. Th.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056797/001</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 395 mm, š. 515 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=36095585</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/36078961</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-07-01T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Císař Josef aneb Oběť synovské lásky</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Arény ve Pštrosce (Královské stavovské letní divadlo v Pštrosce) na hru ve třech jednáních - Císař Josef aneb Oběť synovské lásky od Josefa Kajetána Tyla. Úprava Varryho (vlastním jménem Anton Loger) hry Das Monarchenspiegel. Datum konání – 4. září 1849. Ceduli vytiskla Cís. k. dworní knihtiskárna synů Bohumila Haase.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056798</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 480 mm, š. 400 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=36101784</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/36078977</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-07-01T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TI</setSpec>
+				<setSpec>publikacePredmetu:S:2:TI:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Faust</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Stavovského divadla na hru v šesti dějstvích – Faust od Johanna Wolfganga Goetheho. Překlad – J. J. Kolár, hudba (P. J.) Lindpaintner. Datum konání – 11. prosince 1859. Černě orámovanou ceduli vytiskli Synové Bohumila Haase, dole uprostřed iniciály F. Th.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056797/002</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 395 mm, š. 515 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=36101790</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/36078993</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-07-01T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Vrátný z Karlína</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Stavovského divadla na hru se zpěvy a tanci ve třech jednáních – Vrátný z Karlína od J. K. Z. Podle Antona Langra. Hudba – A. Müller. Datum konání – 6. ledna 1860. Černě orámovanou ceduli vytiskli Synové Bohumila Haase, dole uprostřed F. Th.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056797/003</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 395 mm, š. 515 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=36101796</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/36079009</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>ndf</identifier>
+				<datestamp>2021-07-01T22:00:00Z</datestamp>
+				<setSpec>publikacePredmetu</setSpec>
+				<setSpec>publikacePredmetu:S</setSpec>
+				<setSpec>publikacePredmetu:S:2</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR</setSpec>
+				<setSpec>publikacePredmetu:S:2:TR:DIV</setSpec>
+			</header>
+			<metadata>
+				<europeana:record
+					xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
+					<dc:title>Divadelní cedule Giroflé-Girofla</dc:title>
+					<dc:description>Divadelní cedule zvoucí do Národní Arény na operetu ve třech jednáních – Giroflé-Girofla od A. Vanloo a E. Letteriera. Překlad – B. P. (Bedřich Peška), režie – E. Chvalovský. Datum konání – 15. května 1877. Ceduli vytiskla Knihtiskárna Karla Manna v Praze, nákladem vlastním.</dc:description>
+					<dc:coverage>Praha</dc:coverage>
+					<dcterms:spatial>Hlavní město Praha</dcterms:spatial>
+					<dc:relation>Historické sbírky</dc:relation>
+					<dc:identifier>H056799/001</dc:identifier>
+					<dc:date/>
+					<dc:date/>
+					<dc:date>1801-1-1</dc:date>
+					<dcterms:temporal>19. století</dcterms:temporal>
+					<dcterms:created>1801-1-1</dcterms:created>
+					<dc:rights>http://www.europeana.eu/rights/rr-f/</dc:rights>
+					<dcterms:extent>v. 613 mm, š. 457 mm</dcterms:extent>
+					<dcterms:medium>Papír</dcterms:medium>
+					<europeana:provider>eSbírky</europeana:provider>
+					<europeana:dataProvider>Muzeum hlavního města Prahy</europeana:dataProvider>
+					<europeana:isShownBy>https://www.esbirky.cz/img.php?id=36101802</europeana:isShownBy>
+					<europeana:isShownAt>https://www.esbirky.cz/detail/36079025</europeana:isShownAt>
+					<europeana:rights>http://rightsstatements.org/vocab/InC/1.0/</europeana:rights>
+					<europeana:type>IMAGE</europeana:type>
+				</europeana:record>
+			</metadata>
+		</record>
+		<resumptionToken completeListSize="308" cursor="100">metadataPrefix~ese!set~publikacePredmetu!nextPage~2</resumptionToken>
+	</ListRecords>
+</OAI-PMH>

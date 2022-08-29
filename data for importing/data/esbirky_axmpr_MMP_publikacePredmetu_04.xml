@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:europeana="http://www.europeana.eu/schemas/ese/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2022-05-05T13:27:45Z</responseDate><request metadataPrefix="axmpr" set="publikacePredmetu" resumptionToken="metadataPrefix~axmpr!set~publikacePredmetu!nextPage~3" verb="ListRecords">http://admin.esbirky.cz/w4m/oai/MMP</request><ListRecords><record><header><identifier>oai:esbirky.cz:MMP~publikacePredmetu~HK000644</identifier><datestamp>2021-11-11T10:26:31Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:2</setSpec><setSpec>publikacePredmetu:S:2:TI</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
+    <id>39861852</id>
+    <inventarniCislo>H175364</inventarniCislo>
+    <nazev>Divadelní cedule Zpovědník</nazev>
+    <popis>Divadelní cedule zvoucí do Národního divadla na drama v osmi obrazech - Zpovědník od Franka Tetauera. Režie - A. Podhorský, výprava - V. Hofman, hudba - M. Ponc.</popis>
+    <rozmer>295 x 210 mm</rozmer>
+    <konvLokalita>Praha</konvLokalita>
+    <poznamka>záznam získán harvestingem OAI-PMH dne 6.11.2021</poznamka>
+    <autorskaPrava>http://www.europeana.eu/rights/rr-f/</autorskaPrava>
+    <datumPublikace>2021-11-11+01:00</datumPublikace>
+    <datumModifikace>2021-11-11+01:00</datumModifikace>
+    <Datace>
+        <start>100000019010101</start>
+        <end>100000020001231</end>
+        <poznamka>1940</poznamka>
+        <snad>false</snad>
+        <snad2>false</snad2>
+        <dataceNazvemPublic setSpec="DataceNazvemPublic" oaiId="oai:esbirky.cz:~dataceNazvemPublic~294950" id="294950" label="Století 1.-21.|20. století"/>
+    </Datace>
+    <typSbirkyPublic setSpec="TypSbirkyPublic" oaiId="oai:esbirky.cz:~typSbirkyPublic~7340968" id="7340968" label="Historické sbírky"/>
+    <materialPublic setSpec="MaterialPublic" oaiId="oai:esbirky.cz:~materialPublic~17369" id="17369" label="Jiné|Papír"/>
+    <lokalitaPublic setSpec="LokalitaPublic" oaiId="oai:esbirky.cz:~lokalitaPublic~17193" id="17193" label="Evropa|Česká republika|Hlavní město Praha"/>
+    <typPredmetu>P</typPredmetu>
+    <KontextovyDokument>
+        <oaiId>oai:esbirky.cz:MMP~kontextovyDokument~40195580</oaiId>
+        <id>40195580</id>
+        <nazev>H175364_1</nazev>
+        <nahled>true</nahled>
+        <url>H175364_001_original.jpg</url>
+        <licenceCc>false</licenceCc>
+        <urlResource>https://www.esbirky.cz/img.php?id=40195580</urlResource>
+        <typPrilohy>IMAGE</typPrilohy>
+        <publikacePredmetu setSpec="PublikacePredmetu" oaiId="oai:esbirky.cz:MMP~publikacePredmetu~HK000644" id="39861852" label="Divadelní cedule Zpovědník"/>
+    </KontextovyDokument>
+    <KontextovyDokument>
+        <oaiId>oai:esbirky.cz:MMP~kontextovyDokument~40195583</oaiId>
+        <id>40195583</id>
+        <nazev>H175364_2</nazev>
+        <nahled>false</nahled>
+        <url>H175364_002_original.jpg</url>
+        <licenceCc>false</licenceCc>
+        <urlResource>https://www.esbirky.cz/img.php?id=40195583</urlResource>
+        <typPrilohy>IMAGE</typPrilohy>
+        <publikacePredmetu setSpec="PublikacePredmetu" oaiId="oai:esbirky.cz:MMP~publikacePredmetu~HK000644" id="39861852" label="Divadelní cedule Zpovědník"/>
+    </KontextovyDokument>
+    <sbirka setSpec="Sbirka" oaiId="oai:esbirky.cz:MMP~sbirka~3458476" id="3458476" label="S"/>
+    <spravceSbirky setSpec="SpravceSbirky" oaiId="oai:esbirky.cz:MMP~spravceSbirky~3458471" id="3458471" label="MMP"/>
+    <podsbirka setSpec="Podsbirka" oaiId="oai:esbirky.cz:MMP~podsbirka~9429005" id="9429005" label="2"/>
+    <fond setSpec="Fond" oaiId="oai:esbirky.cz:MMP~fond~12619897" id="12619897" label="TI"/>
+</PublikacePredmetu></axmpr></metadata></record><record><header><identifier>oai:esbirky.cz:MMP~publikacePredmetu~HK000645</identifier><datestamp>2021-11-11T10:30:26Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:2</setSpec><setSpec>publikacePredmetu:S:2:TI</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
+    <id>39861870</id>
+    <inventarniCislo>H175365</inventarniCislo>
+    <nazev>Divadelní cedule Spáč</nazev>
+    <popis>Divadelní cedule zvoucí do Národního divadla na komedii o třech dějstvích a šesti obrazech - Spáč od Ludwiga Holberga. Režie - A. Podhorský, výprava - V. Gottlieb, hudba M. Ponc.</popis>
+    <rozmer>295 x 210 mm</rozmer>
+    <konvLokalita>Praha</konvLokalita>
+    <poznamka>záznam získán harvestingem OAI-PMH dne 6.11.2021</poznamka>
+    <autorskaPrava>http://www.europeana.eu/rights/rr-f/</autorskaPrava>
+    <datumPublikace>2021-11-11+01:00</datumPublikace>
+    <datumModifikace>2021-11-11+01:00</datumModifikace>
+    <Datace>
+        <start>100000019010101</start>
+        <end>100000020001231</end>
+        <poznamka>40.léta 20.stol.</poznamka>
+        <snad>false</snad>
+        <snad2>false</snad2>
+        <dataceNazvemPublic setSpec="DataceNazvemPublic" oaiId="oai:esbirky.cz:~dataceNazvemPublic~294950" id="294950" label="Století 1.-21.|20. století"/>
+    </Datace>
+    <typSbirkyPublic setSpec="TypSbirkyPublic" oaiId="oai:esbirky.cz:~typSbirkyPublic~7340968" id="7340968" label="Historické sbírky"/>
+    <materialPublic setSpec="MaterialPublic" oaiId="oai:esbirky.cz:~materialPublic~17369" id="17369" label="Jiné|Papír"/>
+    <lokalitaPublic setSpec="LokalitaPublic" oaiId="oai:esbirky.cz:~lokalitaPublic~17193" id="17193" label="Evropa|Česká republika|Hlavní město Praha"/>
+    <typPredmetu>P</typPredmetu>
+    <KontextovyDokument>
+        <oaiId>oai:esbirky.cz:MMP~kontextovyDokument~40195590</oaiId>
+        <id>40195590</id>
+        <nazev>H175365</nazev>
+        <nahled>true</nahled>
+        <url>H175365_original.jpg</url>
+        <licenceCc>false</licenceCc>
+        <urlResource>https://www.esbirky.cz/img.php?id=40195590</urlResource>
+        <typPrilohy>IMAGE</typPrilohy>
+        <publikacePredmetu setSpec="PublikacePredmetu" oaiId="oai:esbirky.cz:MMP~publikacePredmetu~HK000645" id="39861870" label="Divadelní cedule Spáč"/>
+    </KontextovyDokument>
+    <sbirka setSpec="Sbirka" oaiId="oai:esbirky.cz:MMP~sbirka~3458476" id="3458476" label="S"/>
+    <spravceSbirky setSpec="SpravceSbirky" oaiId="oai:esbirky.cz:MMP~spravceSbirky~3458471" id="3458471" label="MMP"/>
+    <podsbirka setSpec="Podsbirka" oaiId="oai:esbirky.cz:MMP~podsbirka~9429005" id="9429005" label="2"/>
+    <fond setSpec="Fond" oaiId="oai:esbirky.cz:MMP~fond~12619897" id="12619897" label="TI"/>
+</PublikacePredmetu></axmpr></metadata></record><record><header><identifier>oai:esbirky.cz:MMP~publikacePredmetu~HK000646</identifier><datestamp>2021-11-11T10:34:35Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:2</setSpec><setSpec>publikacePredmetu:S:2:TI</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
+    <id>39861888</id>
+    <inventarniCislo>H175382</inventarniCislo>
+    <nazev>Divadelní cedule Bludný Holanďan</nazev>
+    <popis>Divadelní cedule zvoucí do Národního divadla na romantickou operu o třech dějstvích - Bludný Holanďan od Richarda Wagnera. Režie - J. Muclinger, dirigent - J. Charvát. Cedule je součástí periodika Národního divadla, čísla 9, ročníku XI. z roku 1933.</popis>
+    <rozmer>295 x 210 mm</rozmer>
+    <konvLokalita>Praha</konvLokalita>
+    <poznamka>záznam získán harvestingem OAI-PMH dne 6.11.2021</poznamka>
+    <autorskaPrava>http://www.europeana.eu/rights/rr-f/</autorskaPrava>
+    <datumPublikace>2021-11-11+01:00</datumPublikace>
+    <datumModifikace>2021-11-11+01:00</datumModifikace>
+    <Datace>
+        <start>100000019010101</start>
+        <end>100000020001231</end>
+        <poznamka>1933</poznamka>
+        <snad>false</snad>
+        <snad2>false</snad2>
+        <dataceNazvemPublic setSpec="DataceNazvemPublic" oaiId="oai:esbirky.cz:~dataceNazvemPublic~294950" id="294950" label="Století 1.-21.|20. století"/>
+    </Datace>
+    <typSbirkyPublic setSpec="TypSbirkyPublic" oaiId="oai:esbirky.cz:~typSbirkyPublic~7340968" id="7340968" label="Historické sbírky"/>
+    <materialPublic setSpec="MaterialPublic" oaiId="oai:esbirky.cz:~materialPublic~17369" id="17369" label="Jiné|Papír"/>
+    <lokalitaPublic setSpec="LokalitaPublic" oaiId="oai:esbirky.cz:~lokalitaPublic~17193" id="17193" label="Evropa|Česká republika|Hlavní město Praha"/>
+    <typPredmetu>P</typPredmetu>
+    <KontextovyDokument>
+        <oaiId>oai:esbirky.cz:MMP~kontextovyDokument~40195597</oaiId>
+        <id>40195597</id>
+        <nazev>H175382_1</nazev>
+        <nahled>true</nahled>
+        <url>H175382_001_original.jpg</url>
+        <licenceCc>false</licenceCc>
+        <urlResource>https://www.esbirky.cz/img.php?id=40195597</urlResource>
+        <typPrilohy>IMAGE</typPrilohy>
+        <publikacePredmetu setSpec="PublikacePredmetu" oaiId="oai:esbirky.cz:MMP~publikacePredmetu~HK000646" id="39861888" label="Divadelní cedule Bludný Holanďan"/>
+    </KontextovyDokument>
+    <KontextovyDokument>
+        <oaiId>oai:esbirky.cz:MMP~kontextovyDokument~40195600</oaiId>
+        <id>40195600</id>
+        <nazev>H175382_2</nazev>
+        <nahled>false</nahled>
+        <url>H175382_002_original.jpg</url>
+        <licenceCc>false</licenceCc>
+        <urlResource>https://www.esbirky.cz/img.php?id=40195600</urlResource>
+        <typPrilohy>IMAGE</typPrilohy>
+        <publikacePredmetu setSpec="PublikacePredmetu" oaiId="oai:esbirky.cz:MMP~publikacePredmetu~HK000646" id="39861888" label="Divadelní cedule Bludný Holanďan"/>
+    </KontextovyDokument>
+    <sbirka setSpec="Sbirka" oaiId="oai:esbirky.cz:MMP~sbirka~3458476" id="3458476" label="S"/>
+    <spravceSbirky setSpec="SpravceSbirky" oaiId="oai:esbirky.cz:MMP~spravceSbirky~3458471" id="3458471" label="MMP"/>
+    <podsbirka setSpec="Podsbirka" oaiId="oai:esbirky.cz:MMP~podsbirka~9429005" id="9429005" label="2"/>
+    <fond setSpec="Fond" oaiId="oai:esbirky.cz:MMP~fond~12619897" id="12619897" label="TI"/>
+</PublikacePredmetu></axmpr></metadata></record><record><header><identifier>oai:esbirky.cz:MMP~publikacePredmetu~HK000647</identifier><datestamp>2021-11-11T10:39:30Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:2</setSpec><setSpec>publikacePredmetu:S:2:TR</setSpec><setSpec>publikacePredmetu:S:2:TR:DIV</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
+    <id>39861906</id>
+    <inventarniCislo>H183818</inventarniCislo>
+    <nazev>Divadelní cedule Dejte mi čamaru</nazev>
+    <popis>Divadelní cedule zvoucí do Letního divadla na hradbách na veselohru ve třech jednáních - Dejte mi čamaru od Josefa Jiřího Kolára. Datum konání - 28. září 1869. Ceduli orámovanou grafickým ornamentem vytiskl Steinhauser a Novák v Praze.</popis>
+    <rozmer>210 x 161mm</rozmer>
+    <konvLokalita>Praha</konvLokalita>
+    <poznamka>záznam získán harvestingem OAI-PMH dne 6.11.2021</poznamka>
+    <autorskaPrava>http://www.europeana.eu/rights/rr-f/</autorskaPrava>
+    <datumPublikace>2021-11-11+01:00</datumPublikace>
+    <datumModifikace>2021-11-11+01:00</datumModifikace>
+    <Datace>
+        <start>100000018010101</start>
+        <end>100000019001231</end>
+        <poznamka>28.9.1869</poznamka>
+        <snad>false</snad>
+        <snad2>false</snad2>
+        <dataceNazvemPublic setSpec="DataceNazvemPublic" oaiId="oai:esbirky.cz:~dataceNazvemPublic~294948" id="294948" label="Století 1.-21.|19. století"/>
+    </Datace>
+    <typSbirkyPublic setSpec="TypSbirkyPublic" oaiId="oai:esbirky.cz:~typSbirkyPublic~7340968" id="7340968" label="Historické sbírky"/>
+    <materialPublic setSpec="MaterialPublic" oaiId="oai:esbirky.cz:~materialPublic~17369" id="17369" label="Jiné|Papír"/>
+    <lokalitaPublic setSpec="LokalitaPublic" oaiId="oai:esbirky.cz:~lokalitaPublic~17193" id="17193" label="Evropa|Česká republika|Hlavní město Praha"/>
+    <typPredmetu>P</typPredmetu>
+    <KontextovyDokument>
+        <oaiId>oai:esbirky.cz:MMP~kontextovyDokument~40195607</oaiId>
+        <id>40195607</id>
+        <nazev>H183818</nazev>
+        <nahled>true</nahled>
+        <url>H183818_original.jpg</url>
+        <licenceCc>false</licenceCc>
+        <urlResource>https://www.esbirky.cz/img.php?id=40195607</urlResource>
+        <typPrilohy>IMAGE</typPrilohy>
+        <publikacePredmetu setSpec="PublikacePredmetu" oaiId="oai:esbirky.cz:MMP~publikacePredmetu~HK000647" id="39861906" label="Divadelní cedule Dejte mi čamaru"/>
+    </KontextovyDokument>
+    <sbirka setSpec="Sbirka" oaiId="oai:esbirky.cz:MMP~sbirka~3458476" id="3458476" label="S"/>
+    <spravceSbirky setSpec="SpravceSbirky" oaiId="oai:esbirky.cz:MMP~spravceSbirky~3458471" id="3458471" label="MMP"/>
+    <podsbirka setSpec="Podsbirka" oaiId="oai:esbirky.cz:MMP~podsbirka~9429005" id="9429005" label="2"/>
+    <fond setSpec="Fond" oaiId="oai:esbirky.cz:MMP~fond~34465609" id="34465609" label="TR"/>
+    <skupina setSpec="Skupina" oaiId="oai:esbirky.cz:MMP~skupina~34465610" id="34465610" label="DIV"/>
+</PublikacePredmetu></axmpr></metadata></record><record><header><identifier>oai:esbirky.cz:MMP~publikacePredmetu~HK000648</identifier><datestamp>2021-11-11T12:03:04Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:2</setSpec><setSpec>publikacePredmetu:S:2:TR</setSpec><setSpec>publikacePredmetu:S:2:TR:DIV</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
+    <id>40198767</id>
+    <inventarniCislo>H204482</inventarniCislo>
+    <nazev>Divadelní cedule Der Weinachtsbaum</nazev>
+    <popis>Divadelní cedule zvoucí v německém jazyce do Novoměstkého divadla na férie v třech jednáních - Der Weinachtsbaum od Alberta Vanloo a Mortiera. Hudba - Louise Roth, režie - Edmund Kreibich, scéna - R. Holzer, Svoboda, kostýmy - A. Grevin, Draner, Marre. Ceduli vytiskl Steinhauser a Novák v Praze.</popis>
+    <rozmer>315 x 240 mm</rozmer>
+    <konvLokalita>Praha</konvLokalita>
+    <poznamka>záznam získán harvestingem OAI-PMH dne 11.11.2021</poznamka>
+    <autorskaPrava>http://www.europeana.eu/rights/rr-f/</autorskaPrava>
+    <datumPublikace>2021-11-11+01:00</datumPublikace>
+    <datumModifikace>2021-11-11+01:00</datumModifikace>
+    <Datace>
+        <start>100000018010101</start>
+        <end>100000019001231</end>
+        <poznamka>19.stol.</poznamka>
+        <snad>false</snad>
+        <snad2>false</snad2>
+        <dataceNazvemPublic setSpec="DataceNazvemPublic" oaiId="oai:esbirky.cz:~dataceNazvemPublic~294948" id="294948" label="Století 1.-21.|19. století"/>
+    </Datace>
+    <typSbirkyPublic setSpec="TypSbirkyPublic" oaiId="oai:esbirky.cz:~typSbirkyPublic~7340968" id="7340968" label="Historické sbírky"/>
+    <materialPublic setSpec="MaterialPublic" oaiId="oai:esbirky.cz:~materialPublic~17369" id="17369" label="Jiné|Papír"/>
+    <lokalitaPublic setSpec="LokalitaPublic" oaiId="oai:esbirky.cz:~lokalitaPublic~17193" id="17193" label="Evropa|Česká republika|Hlavní město Praha"/>
+    <typPredmetu>P</typPredmetu>
+    <KontextovyDokument>
+        <oaiId>oai:esbirky.cz:MMP~kontextovyDokument~40198860</oaiId>
+        <id>40198860</id>
+        <nazev>H204482</nazev>
+        <nahled>true</nahled>
+        <url>H204482_original.jpg</url>
+        <licenceCc>false</licenceCc>
+        <urlResource>https://www.esbirky.cz/img.php?id=40198860</urlResource>
+        <typPrilohy>IMAGE</typPrilohy>
+        <publikacePredmetu setSpec="PublikacePredmetu" oaiId="oai:esbirky.cz:MMP~publikacePredmetu~HK000648" id="40198767" label="Divadelní cedule Der Weinachtsbaum"/>
+    </KontextovyDokument>
+    <sbirka setSpec="Sbirka" oaiId="oai:esbirky.cz:MMP~sbirka~3458476" id="3458476" label="S"/>
+    <spravceSbirky setSpec="SpravceSbirky" oaiId="oai:esbirky.cz:MMP~spravceSbirky~3458471" id="3458471" label="MMP"/>
+    <podsbirka setSpec="Podsbirka" oaiId="oai:esbirky.cz:MMP~podsbirka~9429005" id="9429005" label="2"/>
+    <fond setSpec="Fond" oaiId="oai:esbirky.cz:MMP~fond~34465609" id="34465609" label="TR"/>
+    <skupina setSpec="Skupina" oaiId="oai:esbirky.cz:MMP~skupina~34465610" id="34465610" label="DIV"/>
+</PublikacePredmetu></axmpr></metadata></record><record><header><identifier>oai:esbirky.cz:MMP~publikacePredmetu~HK000649</identifier><datestamp>2021-11-11T12:07:06Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:2</setSpec><setSpec>publikacePredmetu:S:2:TR</setSpec><setSpec>publikacePredmetu:S:2:TR:T</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
+    <id>40198785</id>
+    <inventarniCislo>H213134</inventarniCislo>
+    <nazev>Divadelní cedule Veronika</nazev>
+    <popis>Divadelní cedule zvoucí do Prozatímního divadla v Karlíně na premiéru dramatu s hudbou o čtyřech obrazech - Veronika od Dalibora C. Faltise. Inscenátoři: J. Frejka, J. Trnka, V. Černý. Premiéra byla uvedena 14. listopadu 1941. Na rubu vytištěn text P. Tučného "Lidový projev výtvarný" k výstavě v Národním divadle a reklama.</popis>
+    <rozmer>295 x 215 mm</rozmer>
+    <konvLokalita>Praha</konvLokalita>
+    <poznamka>záznam získán harvestingem OAI-PMH dne 11.11.2021</poznamka>
+    <autorskaPrava>http://www.europeana.eu/rights/rr-f/</autorskaPrava>
+    <datumPublikace>2021-11-11+01:00</datumPublikace>
+    <datumModifikace>2021-11-11+01:00</datumModifikace>
+    <Datace>
+        <start>100000019010101</start>
+        <end>100000020001231</end>
+        <poznamka>14.11.1941</poznamka>
+        <snad>false</snad>
+        <snad2>false</snad2>
+        <dataceNazvemPublic setSpec="DataceNazvemPublic" oaiId="oai:esbirky.cz:~dataceNazvemPublic~294950" id="294950" label="Století 1.-21.|20. století"/>
+    </Datace>
+    <typSbirkyPublic setSpec="TypSbirkyPublic" oaiId="oai:esbirky.cz:~typSbirkyPublic~7340968" id="7340968" label="Historické sbírky"/>
+    <materialPublic setSpec="MaterialPublic" oaiId="oai:esbirky.cz:~materialPublic~17369" id="17369" label="Jiné|Papír"/>
+    <lokalitaPublic setSpec="LokalitaPublic" oaiId="oai:esbirky.cz:~lokalitaPublic~17193" id="17193" label="Evropa|Česká republika|Hlavní město Praha"/>
+    <typPredmetu>P</typPredmetu>
+    <KontextovyDokument>
+        <oaiId>oai:esbirky.cz:MMP~kontextovyDokument~40198867</oaiId>
+        <id>40198867</id>
+        <nazev>H213134_1</nazev>
+        <nahled>true</nahled>
+        <url>H213134_001_original.jpg</url>
+        <licenceCc>false</licenceCc>
+        <urlResource>https://www.esbirky.cz/img.php?id=40198867</urlResource>
+        <typPrilohy>IMAGE</typPrilohy>
+        <publikacePredmetu setSpec="PublikacePredmetu" oaiId="oai:esbirky.cz:MMP~publikacePredmetu~HK000649" id="40198785" label="Divadelní cedule Veronika"/>
+    </KontextovyDokument>
+    <KontextovyDokument>
+        <oaiId>oai:esbirky.cz:MMP~kontextovyDokument~40198870</oaiId>
+        <id>40198870</id>
+        <nazev>H213134_2</nazev>
+        <nahled>false</nahled>
+        <url>H213134_002_original.jpg</url>
+        <licenceCc>false</licenceCc>
+        <urlResource>https://www.esbirky.cz/img.php?id=40198870</urlResource>
+        <typPrilohy>IMAGE</typPrilohy>
+        <publikacePredmetu setSpec="PublikacePredmetu" oaiId="oai:esbirky.cz:MMP~publikacePredmetu~HK000649" id="40198785" label="Divadelní cedule Veronika"/>
+    </KontextovyDokument>
+    <sbirka setSpec="Sbirka" oaiId="oai:esbirky.cz:MMP~sbirka~3458476" id="3458476" label="S"/>
+    <spravceSbirky setSpec="SpravceSbirky" oaiId="oai:esbirky.cz:MMP~spravceSbirky~3458471" id="3458471" label="MMP"/>
+    <podsbirka setSpec="Podsbirka" oaiId="oai:esbirky.cz:MMP~podsbirka~9429005" id="9429005" label="2"/>
+    <fond setSpec="Fond" oaiId="oai:esbirky.cz:MMP~fond~34465609" id="34465609" label="TR"/>
+    <skupina setSpec="Skupina" oaiId="oai:esbirky.cz:MMP~skupina~40198753" id="40198753" label="T"/>
+</PublikacePredmetu></axmpr></metadata></record><record><header><identifier>oai:esbirky.cz:MMP~publikacePredmetu~HK000650</identifier><datestamp>2021-11-11T12:11:00Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:2</setSpec><setSpec>publikacePredmetu:S:2:TR</setSpec><setSpec>publikacePredmetu:S:2:TR:T</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
+    <id>40198803</id>
+    <inventarniCislo>H213140</inventarniCislo>
+    <nazev>Divadelní cedule Lišák Pseudolus</nazev>
+    <popis>Divadelní cedule zvoucí do Prozatimního divadla v Karlíně na komedii o šesti scénách - Lišák Pseudolus od T. Maccia Plauta. Inscenátoři: J. Frejka, J. Trnka, M. Ponc, J. Jenčík, D. Vondrová. Cedule pochází nejspíše z roku 1942, hra byla uváděná v letech 1942-1945. Na rubu cedule je vytištěn text ke hře a reklama.</popis>
+    <rozmer>295 x 215mm</rozmer>
+    <konvLokalita>Praha</konvLokalita>
+    <poznamka>záznam získán harvestingem OAI-PMH dne 11.11.2021</poznamka>
+    <autorskaPrava>http://www.europeana.eu/rights/rr-f/</autorskaPrava>
+    <datumPublikace>2021-11-11+01:00</datumPublikace>
+    <datumModifikace>2021-11-11+01:00</datumModifikace>
+    <Datace>
+        <start>100000019010101</start>
+        <end>100000020001231</end>
+        <poznamka>1942</poznamka>
+        <snad>false</snad>
+        <snad2>false</snad2>
+        <dataceNazvemPublic setSpec="DataceNazvemPublic" oaiId="oai:esbirky.cz:~dataceNazvemPublic~294950" id="294950" label="Století 1.-21.|20. století"/>
+    </Datace>
+    <typSbirkyPublic setSpec="TypSbirkyPublic" oaiId="oai:esbirky.cz:~typSbirkyPublic~7340968" id="7340968" label="Historické sbírky"/>
+    <materialPublic setSpec="MaterialPublic" oaiId="oai:esbirky.cz:~materialPublic~17369" id="17369" label="Jiné|Papír"/>
+    <lokalitaPublic setSpec="LokalitaPublic" oaiId="oai:esbirky.cz:~lokalitaPublic~17193" id="17193" label="Evropa|Česká republika|Hlavní město Praha"/>
+    <typPredmetu>P</typPredmetu>
+    <KontextovyDokument>
+        <oaiId>oai:esbirky.cz:MMP~kontextovyDokument~40198877</oaiId>
+        <id>40198877</id>
+        <nazev>H213140_1</nazev>
+        <nahled>true</nahled>
+        <url>H213140_001_original.jpg</url>
+        <licenceCc>false</licenceCc>
+        <urlResource>https://www.esbirky.cz/img.php?id=40198877</urlResource>
+        <typPrilohy>IMAGE</typPrilohy>
+        <publikacePredmetu setSpec="PublikacePredmetu" oaiId="oai:esbirky.cz:MMP~publikacePredmetu~HK000650" id="40198803" label="Divadelní cedule Lišák Pseudolus"/>
+    </KontextovyDokument>
+    <KontextovyDokument>
+        <oaiId>oai:esbirky.cz:MMP~kontextovyDokument~40198880</oaiId>
+        <id>40198880</id>
+        <nazev>H213140_2</nazev>
+        <nahled>false</nahled>
+        <url>H213140_002_original.jpg</url>
+        <licenceCc>false</licenceCc>
+        <urlResource>https://www.esbirky.cz/img.php?id=40198880</urlResource>
+        <typPrilohy>IMAGE</typPrilohy>
+        <publikacePredmetu setSpec="PublikacePredmetu" oaiId="oai:esbirky.cz:MMP~publikacePredmetu~HK000650" id="40198803" label="Divadelní cedule Lišák Pseudolus"/>
+    </KontextovyDokument>
+    <sbirka setSpec="Sbirka" oaiId="oai:esbirky.cz:MMP~sbirka~3458476" id="3458476" label="S"/>
+    <spravceSbirky setSpec="SpravceSbirky" oaiId="oai:esbirky.cz:MMP~spravceSbirky~3458471" id="3458471" label="MMP"/>
+    <podsbirka setSpec="Podsbirka" oaiId="oai:esbirky.cz:MMP~podsbirka~9429005" id="9429005" label="2"/>
+    <fond setSpec="Fond" oaiId="oai:esbirky.cz:MMP~fond~34465609" id="34465609" label="TR"/>
+    <skupina setSpec="Skupina" oaiId="oai:esbirky.cz:MMP~skupina~40198753" id="40198753" label="T"/>
+</PublikacePredmetu></axmpr></metadata></record><record><header><identifier>oai:esbirky.cz:MMP~publikacePredmetu~HK000652</identifier><datestamp>2021-11-11T12:31:33Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:2</setSpec><setSpec>publikacePredmetu:S:2:TR</setSpec><setSpec>publikacePredmetu:S:2:TR:DIV</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
+    <id>40198839</id>
+    <inventarniCislo>HV001434</inventarniCislo>
+    <nazev>Divadelní cedule Der Mönch von Berg Karmel</nazev>
+    <popis>Divadelní cedule zvoucí v německém jazyce do velkovévodského dvorního divadla na drama v pěti dějstvích - Der Mönch von Berg Karmel od Wolfganga Heriberta von Dalberga. Benefice madam Häuslerové. Provedeno Häuslerovou divadelní společností v blíže neurčeném velkovévodském dvorním divadle (v Mannheimu ?). Datum konání - 30. listopadu 1789. Červeno-černý text cedule s ornamentálním zdobením je vytištěna na hedvábí.</popis>
+    <rozmer>? cm x ? cm</rozmer>
+    <konvLokalita>Praha</konvLokalita>
+    <poznamka>záznam získán harvestingem OAI-PMH dne 11.11.2021</poznamka>
+    <autorskaPrava>http://www.europeana.eu/rights/rr-f/</autorskaPrava>
+    <datumPublikace>2021-11-11+01:00</datumPublikace>
+    <datumModifikace>2021-11-11+01:00</datumModifikace>
+    <Datace>
+        <start>100000017010101</start>
+        <end>100000018001231</end>
+        <poznamka>30.11.1789</poznamka>
+        <snad>false</snad>
+        <snad2>false</snad2>
+        <dataceNazvemPublic setSpec="DataceNazvemPublic" oaiId="oai:esbirky.cz:~dataceNazvemPublic~294946" id="294946" label="Století 1.-21.|18. století"/>
+    </Datace>
+    <typSbirkyPublic setSpec="TypSbirkyPublic" oaiId="oai:esbirky.cz:~typSbirkyPublic~7340968" id="7340968" label="Historické sbírky"/>
+    <materialPublic setSpec="MaterialPublic" oaiId="oai:esbirky.cz:~materialPublic~17207" id="17207" label="Textil"/>
+    <lokalitaPublic setSpec="LokalitaPublic" oaiId="oai:esbirky.cz:~lokalitaPublic~17193" id="17193" label="Evropa|Česká republika|Hlavní město Praha"/>
+    <typPredmetu>P</typPredmetu>
+    <KontextovyDokument>
+        <oaiId>oai:esbirky.cz:MMP~kontextovyDokument~40198928</oaiId>
+        <id>40198928</id>
+        <nazev>HV001434</nazev>
+        <nahled>true</nahled>
+        <url>HV001434_original.jpg</url>
+        <licenceCc>false</licenceCc>
+        <urlResource>https://www.esbirky.cz/img.php?id=40198928</urlResource>
+        <typPrilohy>IMAGE</typPrilohy>
+        <publikacePredmetu setSpec="PublikacePredmetu" oaiId="oai:esbirky.cz:MMP~publikacePredmetu~HK000652" id="40198839" label="Divadelní cedule Der Mönch von Berg Karmel"/>
+    </KontextovyDokument>
+    <sbirka setSpec="Sbirka" oaiId="oai:esbirky.cz:MMP~sbirka~3458476" id="3458476" label="S"/>
+    <spravceSbirky setSpec="SpravceSbirky" oaiId="oai:esbirky.cz:MMP~spravceSbirky~3458471" id="3458471" label="MMP"/>
+    <podsbirka setSpec="Podsbirka" oaiId="oai:esbirky.cz:MMP~podsbirka~9429005" id="9429005" label="2"/>
+    <fond setSpec="Fond" oaiId="oai:esbirky.cz:MMP~fond~34465609" id="34465609" label="TR"/>
+    <skupina setSpec="Skupina" oaiId="oai:esbirky.cz:MMP~skupina~34465610" id="34465610" label="DIV"/>
+</PublikacePredmetu></axmpr></metadata></record><resumptionToken completeListSize="308" cursor="300"/></ListRecords></OAI-PMH>
