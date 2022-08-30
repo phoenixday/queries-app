@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:europeana="http://www.europeana.eu/schemas/ese/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2022-05-05T13:21:59Z</responseDate><request metadataPrefix="axmpr" set="publikacePredmetu" verb="ListRecords">http://admin.esbirky.cz/w4m/oai/MMP</request><ListRecords><record><header><identifier>ndf</identifier><datestamp>2020-01-13T23:00:00Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:1</setSpec><setSpec>publikacePredmetu:S:1:A</setSpec><setSpec>publikacePredmetu:S:1:A:BI</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:europeana="http://www.europeana.eu/schemas/ese/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2022-05-05T13:21:59Z</responseDate>
+    <request metadataPrefix="axmpr" set="publikacePredmetu" verb="ListRecords">http://admin.esbirky.cz/w4m/oai/MMP</request>
+    <ListRecords>
+        <record><header><identifier>ndf</identifier><datestamp>2020-01-13T23:00:00Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:1</setSpec><setSpec>publikacePredmetu:S:1:A</setSpec><setSpec>publikacePredmetu:S:1:A:BI</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
     <id>9554859</id>
     <inventarniCislo>A0000127</inventarniCislo>
     <nazev>Sekera</nazev>
@@ -36,7 +40,8 @@
     <podsbirka setSpec="Podsbirka" id="3458477" label="1"/>
     <fond setSpec="Fond" id="3459877" label="A"/>
     <skupina setSpec="Skupina" id="9491067" label="BI"/>
-</PublikacePredmetu></axmpr></metadata></record><record><header><identifier>ndf</identifier><datestamp>2020-01-13T23:00:00Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:1</setSpec><setSpec>publikacePredmetu:S:1:A</setSpec><setSpec>publikacePredmetu:S:1:A:BI</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
+</PublikacePredmetu></axmpr></metadata></record>
+    <record><header><identifier>ndf</identifier><datestamp>2020-01-13T23:00:00Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:1</setSpec><setSpec>publikacePredmetu:S:1:A</setSpec><setSpec>publikacePredmetu:S:1:A:BI</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
     <id>9554885</id>
     <inventarniCislo>A0000386</inventarniCislo>
     <nazev>Sekera</nazev>
@@ -73,7 +78,8 @@
     <podsbirka setSpec="Podsbirka" id="3458477" label="1"/>
     <fond setSpec="Fond" id="3459877" label="A"/>
     <skupina setSpec="Skupina" id="9491067" label="BI"/>
-</PublikacePredmetu></axmpr></metadata></record><record><header><identifier>ndf</identifier><datestamp>2020-01-13T23:00:00Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:1</setSpec><setSpec>publikacePredmetu:S:1:A</setSpec><setSpec>publikacePredmetu:S:1:A:ozdob</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
+</PublikacePredmetu></axmpr></metadata></record>
+        <record><header><identifier>ndf</identifier><datestamp>2020-01-13T23:00:00Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:1</setSpec><setSpec>publikacePredmetu:S:1:A</setSpec><setSpec>publikacePredmetu:S:1:A:ozdob</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
     <id>9554898</id>
     <inventarniCislo>A0000391</inventarniCislo>
     <nazev>Záušnice</nazev>
@@ -110,7 +116,8 @@
     <podsbirka setSpec="Podsbirka" id="3458477" label="1"/>
     <fond setSpec="Fond" id="3459877" label="A"/>
     <skupina setSpec="Skupina" id="9429013" label="ozdob"/>
-</PublikacePredmetu></axmpr></metadata></record><record><header><identifier>ndf</identifier><datestamp>2020-01-13T23:00:00Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:1</setSpec><setSpec>publikacePredmetu:S:1:JIRA</setSpec><setSpec>publikacePredmetu:S:1:JIRA:ozdob</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
+</PublikacePredmetu></axmpr></metadata></record>
+        <record><header><identifier>ndf</identifier><datestamp>2020-01-13T23:00:00Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:1</setSpec><setSpec>publikacePredmetu:S:1:JIRA</setSpec><setSpec>publikacePredmetu:S:1:JIRA:ozdob</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
     <id>9554911</id>
     <inventarniCislo>A0000392</inventarniCislo>
     <nazev>Náušnice</nazev>
@@ -147,7 +154,8 @@
     <podsbirka setSpec="Podsbirka" id="3458477" label="1"/>
     <fond setSpec="Fond" id="10151433" label="JIRA"/>
     <skupina setSpec="Skupina" id="10151438" label="ozdob"/>
-</PublikacePredmetu></axmpr></metadata></record><record><header><identifier>ndf</identifier><datestamp>2020-01-13T23:00:00Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:1</setSpec><setSpec>publikacePredmetu:S:1:JIRA</setSpec><setSpec>publikacePredmetu:S:1:JIRA:ostat</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
+</PublikacePredmetu></axmpr></metadata></record>
+        <record><header><identifier>ndf</identifier><datestamp>2020-01-13T23:00:00Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:1</setSpec><setSpec>publikacePredmetu:S:1:JIRA</setSpec><setSpec>publikacePredmetu:S:1:JIRA:ostat</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
     <id>9554924</id>
     <inventarniCislo>A0000441</inventarniCislo>
     <nazev>Udidlo</nazev>
@@ -184,7 +192,8 @@
     <podsbirka setSpec="Podsbirka" id="3458477" label="1"/>
     <fond setSpec="Fond" id="10151433" label="JIRA"/>
     <skupina setSpec="Skupina" id="10151437" label="ostat"/>
-</PublikacePredmetu></axmpr></metadata></record><record><header><identifier>ndf</identifier><datestamp>2020-01-13T23:00:00Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:1</setSpec><setSpec>publikacePredmetu:S:1:A</setSpec><setSpec>publikacePredmetu:S:1:A:NADOB</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
+</PublikacePredmetu></axmpr></metadata></record>
+        <record><header><identifier>ndf</identifier><datestamp>2020-01-13T23:00:00Z</datestamp><setSpec>publikacePredmetu</setSpec><setSpec>publikacePredmetu:S</setSpec><setSpec>publikacePredmetu:S:1</setSpec><setSpec>publikacePredmetu:S:1:A</setSpec><setSpec>publikacePredmetu:S:1:A:NADOB</setSpec></header><metadata><axmpr xmlns="https://api.museion.cz/schema/axmpr" xsi:schemaLocation="https://api.museion.cz/schema/axmpr  https://api.museion.cz/schema/axmpr-v1.0.xsd"><PublikacePredmetu xmlns="">
     <id>9554950</id>
     <inventarniCislo>A0000544</inventarniCislo>
     <nazev>Nádoba</nazev>
@@ -3699,4 +3708,7 @@
     <podsbirka setSpec="Podsbirka" id="3458477" label="1"/>
     <fond setSpec="Fond" id="3459877" label="A"/>
     <skupina setSpec="Skupina" id="9429013" label="ozdob"/>
-</PublikacePredmetu></axmpr></metadata></record><resumptionToken completeListSize="308" cursor="0">metadataPrefix~axmpr!set~publikacePredmetu!nextPage~1</resumptionToken></ListRecords></OAI-PMH>
+</PublikacePredmetu></axmpr></metadata></record>
+        <resumptionToken completeListSize="308" cursor="0">metadataPrefix~axmpr!set~publikacePredmetu!nextPage~1</resumptionToken>
+    </ListRecords>
+</OAI-PMH>
