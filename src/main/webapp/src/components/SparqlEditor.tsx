@@ -5,7 +5,11 @@ import CodeMirror from '@uiw/react-codemirror';
 import {QueryResults} from "../interfaces";
 import {DataTable} from "./DataTable";
 
-export const SparqlEditor = () => {
+interface SparqlEditorProps {
+    format: string
+}
+
+export const SparqlEditor = ({format}: SparqlEditorProps) => {
     const [query, setQuery] = useState<string>(
         "SELECT * WHERE {\n" +
         "\t?subject ?predicate ?object\n" +
@@ -19,6 +23,7 @@ export const SparqlEditor = () => {
     function handleSubmit(e: FormEvent<HTMLFormElement>) {
         e.preventDefault();
         const formData = new FormData();
+        formData.append('format', format);
         formData.append('query', query);
         fetch(
             `api/query`,

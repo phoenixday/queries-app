@@ -22,7 +22,7 @@ export const GraphSettingsController = ({hoveredNode, hoveredNeighbours}: GraphS
                     } else if (hoveredNode !== node){
                         res.label = "";
                         res.color = "#dad7d7";
-                    };
+                    }
                 }
                 return res;
             }
@@ -37,7 +37,7 @@ export const GraphSettingsController = ({hoveredNode, hoveredNeighbours}: GraphS
                 return res;
             }
         );
-    }, [hoveredNode, graph, sigma]);
+    }, [hoveredNode, hoveredNeighbours, graph, sigma]);
 
     return null;
 };

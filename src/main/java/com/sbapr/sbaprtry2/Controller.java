@@ -18,11 +18,9 @@ import java.util.Objects;
 @RestController
 @RequestMapping("/api/")
 public class Controller {
-    String format;
 
     @PostMapping("/upload")
-    public HttpStatus upload(@RequestParam("format") String format, @RequestParam("file") MultipartFile file) {
-        this.format = format;
+    public HttpStatus upload(@RequestParam("file") MultipartFile file) {
         File dest = new File(Objects.requireNonNull(Controller.class.getResource("input.xml")).getPath());
         try {
             file.transferTo(dest.getAbsoluteFile());
@@ -33,7 +31,7 @@ public class Controller {
     }
 
     @PostMapping("/query")
-    public String askQuery(@RequestParam("query") String queryStr) {
+    public String askQuery(@RequestParam("format") String format, @RequestParam("query") String queryStr) {
         XSLTTransformer transformer = new XSLTTransformer(format);
         transformer.transformXMLToRDF();
         QueryModel queryModel = new QueryModel(format);

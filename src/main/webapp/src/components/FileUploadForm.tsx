@@ -1,9 +1,8 @@
 import {ChangeEvent, FormEvent, useEffect, useState} from "react";
 
 interface FileUploadFormProps {
-    onLoad: (loading: boolean, uploaded: boolean) => void;
+    onLoad: (loading: boolean, format: string) => void;
 }
-
 
 export const FileUploadForm = ({onLoad}: FileUploadFormProps) => {
     const [format, setFormat] = useState("ese");
@@ -12,11 +11,10 @@ export const FileUploadForm = ({onLoad}: FileUploadFormProps) => {
 
     function handleSubmit(e: FormEvent<HTMLFormElement>) {
         e.preventDefault();
-        onLoad(true, false);
+        onLoad(true, format);
         if (file === undefined || error) return;
         const formData = new FormData();
         formData.append('file', file);
-        formData.append('format', format);
         fetch(
             'api/upload',
             {
@@ -26,7 +24,7 @@ export const FileUploadForm = ({onLoad}: FileUploadFormProps) => {
         )
             .then((response) => {
                 console.log(`Success... ${response.status} ... ${response.statusText}`);
-                onLoad(false, true);
+                onLoad(false, format);
             })
             .catch((error) => {
                 console.error('Error:', error);

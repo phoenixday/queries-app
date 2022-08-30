@@ -10,7 +10,11 @@ import {MultiDirectedGraph} from "graphology";
 import {GraphEventsController} from "./GraphEventsController";
 import {GraphSettingsController} from "./GraphSettingsController";
 
-export const DataGraph = () => {
+interface DataGraphProps {
+    format: string
+}
+
+export const DataGraph = ({format}: DataGraphProps) => {
     const [hoveredNode, setHoveredNode] = useState<string | null>(null);
     const [hoveredNeighbours, setHoveredNeighbours] = useState<Set<string> | null>(null);
     const [data, setData] = useState<QueryResults | undefined>();
@@ -21,6 +25,7 @@ export const DataGraph = () => {
 
     useEffect(() => {
         const formData = new FormData();
+        formData.append('format', format);
         formData.append('query', query);
         fetch(`api/query`, {method: 'POST', body: formData})
             .then((response) => response.json())
@@ -31,7 +36,7 @@ export const DataGraph = () => {
                 alert(`Error: ${error}`);
                 console.error('Error:', error);
             });
-    }, [query])
+    }, [query, format])
 
     return (<div className="center-page">
         <SigmaContainer style={{border: "1px solid #ddd", height: "500px", width: "1000px"}}

@@ -1,5 +1,5 @@
 import {useRegisterEvents, useSigma} from "@react-sigma/core";
-import React, {useEffect} from "react";
+import {useEffect} from "react";
 
 interface GraphEventsControllerProps {
     setHoveredNode: (node: string | null) => void,
@@ -22,7 +22,7 @@ export const GraphEventsController = ({setHoveredNode, setHoveredNeighbours}: Gr
                 setHoveredNeighbours(null);
             },
         });
-    }, []);
+    }, [graph, registerEvents, setHoveredNeighbours, setHoveredNode]);
 
     return null;
 };
