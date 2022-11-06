@@ -15,7 +15,11 @@ public class QueryModel {
         String outputRDF = Objects.requireNonNull(QueryModel.class.getResource("output.rdf")).getPath();
 
         if (format.equalsIgnoreCase("ese")) {
-            this.model = RDFDataMgr.loadModel(outputRDF);
+            // if format == "ese"
+            String dictionaries = Objects.requireNonNull(QueryModel.class.getResource("ese/dublin_core_terms.rdf")).getPath();
+            Model schema = RDFDataMgr.loadModel(dictionaries);
+            Model data = RDFDataMgr.loadModel(outputRDF);
+            this.model = ModelFactory.createRDFSModel(schema, data);
         } else {
             // if format == "axmpr"
             String dictionaries = Objects.requireNonNull(QueryModel.class.getResource("axmpr/dictionaries_schema.rdf")).getPath();

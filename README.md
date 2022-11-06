@@ -2,6 +2,7 @@
 
 ### Run the backend REST API
 
+Open terminal in the folder sbapr-try-2 and run
 `mvn clean install -DskipTests && mvn spring-boot:run`
 
 ### Run the frontend react server 
@@ -35,6 +36,13 @@ SELECT ?title ?material WHERE {
 ?subject europeana:dataProvider "Národní muzeum - Historické muzeum" .
 ?subject dc:title ?title .
 ?subject dcterms:medium ?material
+}`
+
+`PREFIX dcterms:` <<http://purl.org/dc/terms/>>`
+SELECT ?title ?predicate ?object WHERE {
+?subject ?predicate ?object .
+?subject dcterms:coverage ?object .
+?subject dcterms:title ?title
 }`
 
 #### AXMPR
