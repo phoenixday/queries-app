@@ -10,28 +10,28 @@
         <rdf:RDF>
             <xsl:for-each select="oai:OAI-PMH/oai:ListRecords/oai:record/oai:metadata/europeana:record">
                 <rdf:Description>
-                    <dcterms:title rdf:resource="http://purl.org/dc/terms/title"><xsl:value-of select="dc:title"/></dcterms:title>
-                    <dcterms:description rdf:resource="http://purl.org/dc/terms/description"><xsl:value-of select="dc:description"/></dcterms:description>
+                    <dcterms:title><xsl:value-of select="dc:title"/></dcterms:title>
+                    <dcterms:description><xsl:value-of select="dc:description"/></dcterms:description>
                     <!-- пространственное или временное покрытие -->
-                    <dcterms:coverage rdf:resource="http://purl.org/dc/terms/coverage"><xsl:value-of select="dc:coverage"/></dcterms:coverage>
+                    <dcterms:coverage><xsl:value-of select="dc:coverage"/></dcterms:coverage>
                     <!-- пространственное покрытие -->
-                    <dcterms:spatial rdf:resource="http://purl.org/dc/terms/spatial"><xsl:value-of select="dcterms:spatial"/></dcterms:spatial>
+                    <dcterms:spatial><xsl:value-of select="dcterms:spatial"/></dcterms:spatial>
                     <!-- A related resource (sbírky) -->
-                    <dcterms:relation rdf:resource="http://purl.org/dc/terms/relation"><xsl:value-of select="dc:relation"/></dcterms:relation>
+                    <dcterms:relation><xsl:value-of select="dc:relation"/></dcterms:relation>
                     <!-- An unambiguous reference to the resource within a given context. -->
-                    <dcterms:identifier rdf:resource="http://purl.org/dc/terms/identifier"><xsl:value-of select="dc:identifier"/></dcterms:identifier>
+                    <dcterms:identifier><xsl:value-of select="dc:identifier"/></dcterms:identifier>
                     <xsl:for-each select="dc:date">
-                        <dcterms:date rdf:resource="http://purl.org/dc/terms/date"><xsl:value-of select="./text()"/></dcterms:date>
+                        <dcterms:date><xsl:value-of select="./text()"/></dcterms:date>
                     </xsl:for-each>
                     <!-- временное покрытие -->
-                    <dcterms:temporal rdf:resource="http://purl.org/dc/terms/temporal"><xsl:value-of select="./dcterms:temporal"/></dcterms:temporal>
-                    <dcterms:created rdf:resource="http://purl.org/dc/terms/created"><xsl:value-of select="./dcterms:created"/></dcterms:created>
-                    <dcterms:rights rdf:resource="http://purl.org/dc/terms/rights"><xsl:value-of select="./dc:rights"/></dcterms:rights>
+                    <dcterms:temporal><xsl:value-of select="./dcterms:temporal"/></dcterms:temporal>
+                    <dcterms:created><xsl:value-of select="./dcterms:created"/></dcterms:created>
+                    <dcterms:rights><xsl:value-of select="./dc:rights"/></dcterms:rights>
                     <!-- The size or duration of the resource. (обычно размер) -->
-                    <dcterms:extent rdf:resource="http://purl.org/dc/terms/extent"><xsl:value-of select="./dcterms:extent"/></dcterms:extent>
+                    <dcterms:extent><xsl:value-of select="./dcterms:extent"/></dcterms:extent>
                     <!-- The material or physical carrier(носитель) of the resource. -->
                     <xsl:for-each select="./dcterms:medium">
-                        <dcterms:medium rdf:resource="http://purl.org/dc/terms/medium"><xsl:value-of select="./text()"/></dcterms:medium>
+                        <dcterms:medium><xsl:value-of select="./text()"/></dcterms:medium>
                     </xsl:for-each>
 <!--                    &lt;!&ndash; на интернете (eSbírky) &ndash;&gt;-->
 <!--                    <europeana:provider><xsl:value-of select="europeana:provider"/></europeana:provider>-->

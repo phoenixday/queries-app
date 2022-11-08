@@ -9,27 +9,30 @@ import java.util.Objects;
 public class XSLTTransformer{
 
     String format;
+    String XSLT_PATH = "transform.xslt";
+    String XML_PATH = "input.xml";
+    String RDF_PATH = "output.rdf";
 
     public XSLTTransformer(String format) {
-        this.format = format.toUpperCase();
+        this.format = format.toLowerCase();
     }
 
     public void transformXMLToRDF() {
-        TransformerFactory factory = TransformerFactory.newInstance();
-        String path = format.equalsIgnoreCase("ese") ? "ese/transform.xslt" : "axmpr/transform.xslt";
-        Source xslt = new StreamSource(new File(Objects.requireNonNull(XSLTTransformer.class.getResource(path)).getPath()));
-        Transformer transformer;
         try {
-            transformer = factory.newTransformer(xslt);
-        } catch (TransformerConfigurationException e) {
-            throw new RuntimeException(e);
-        }
-
-        Source text = new StreamSource(new File(Objects.requireNonNull(XSLTTransformer.class.getResource("input.xml")).getPath()));
-        try {
-            transformer.transform(text, new StreamResult(new File(Objects.requireNonNull(XSLTTransformer.class.getResource("output.rdf")).getPath())));
+            TransformerFactory
+                    .newInstance()
+                    .newTransformer(createStreamSource(format + "/" + XSLT_PATH))
+                    .transform(createStreamSource(XML_PATH), createStreamResult(RDF_PATH));
         } catch (TransformerException e) {
             throw new RuntimeException(e);
         }
+    }
+
+    private StreamSource createStreamSource(String path) {
+        return new StreamSource(new File(Objects.requireNonNull(XSLTTransformer.class.getResource(path)).getPath()));
+    }
+
+    private StreamResult createStreamResult(String path) {
+        return new StreamResult(new File(Objects.requireNonNull(XSLTTransformer.class.getResource(path)).getPath()));
     }
 }

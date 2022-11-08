@@ -12,17 +12,17 @@ public class QueryModel {
     Model model;
 
     public QueryModel(String format) {
-        String outputRDF = Objects.requireNonNull(QueryModel.class.getResource("output.rdf")).getPath();
+        String outputRDF = findUri("output.rdf");
 
         if (format.equalsIgnoreCase("ese")) {
             // if format == "ese"
-            String dictionaries = Objects.requireNonNull(QueryModel.class.getResource("ese/dublin_core_terms.rdf")).getPath();
+            String dictionaries = findUri("ese/dublin_core_terms.rdf");
             Model schema = RDFDataMgr.loadModel(dictionaries);
             Model data = RDFDataMgr.loadModel(outputRDF);
             this.model = ModelFactory.createRDFSModel(schema, data);
         } else {
             // if format == "axmpr"
-            String dictionaries = Objects.requireNonNull(QueryModel.class.getResource("axmpr/dictionaries_schema.rdf")).getPath();
+            String dictionaries = findUri("axmpr/dictionaries_schema.rdf");
             InfModel dictionariesModel = ModelFactory.createRDFSModel(RDFDataMgr.loadModel(dictionaries));
             this.model = ModelFactory.createRDFSModel(dictionariesModel, RDFDataMgr.loadModel(outputRDF));
         }
@@ -30,5 +30,9 @@ public class QueryModel {
 
     public Model getModel() {
         return model;
+    }
+
+    private String findUri(String path) {
+        return Objects.requireNonNull(QueryModel.class.getResource(path)).getPath();
     }
 }

@@ -29,12 +29,11 @@ SELECT distinct ?duration WHERE {
 ?subject dcterms:temporal ?duration}
 ORDER BY ?duration`
 
-`PREFIX dc:` <<http://purl.org/dc/elements/1.1/>>`
-PREFIX europeana:` <<http://www.europeana.eu/schemas/ese/>>`
+`PREFIX europeana:` <<http://www.europeana.eu/schemas/ese/>>`
 PREFIX dcterms:` <<http://purl.org/dc/terms/>>`
 SELECT ?title ?material WHERE {
 ?subject europeana:dataProvider "Národní muzeum - Historické muzeum" .
-?subject dc:title ?title .
+?subject dcterms:title ?title .
 ?subject dcterms:medium ?material
 }`
 
@@ -60,35 +59,35 @@ SELECT ?title WHERE {
 `PREFIX dc:` <<http://purl.org/dc/elements/1.1/>>`
 PREFIX dcterms:` <<http://purl.org/dc/terms/>>`
 PREFIX :` <<http://myloc.org/>>`
-PREFIX pubpred:` <<https://api.museion.cz/schema/axmpr/PublikacePredmetu>>`
+PREFIX example:` <<https://api.museion.cz/schema/axmpr/PublikacePredmetu>>`
 SELECT ?nazev ?regiontitle WHERE {
 ?country dc:title "Česká republika" .
 ?region dcterms:isPartOf* ?country .
-?predmet pubpred:lokalitaPublic ?region .
-?predmet pubpred:nazev ?nazev .
+?predmet example:lokalitaPublic ?region .
+?predmet example:nazev ?nazev .
 ?region dc:title ?regiontitle
 }`
 
 `PREFIX dc:` <<http://purl.org/dc/elements/1.1/>>`
 PREFIX dcterms:` <<http://purl.org/dc/terms/>>`
 PREFIX :` <<http://mymat.org/>>`
-PREFIX pubpred:` <<https://api.museion.cz/schema/axmpr/PublikacePredmetu>>`
+PREFIX example:` <<https://api.museion.cz/schema/axmpr/PublikacePredmetu>>`
 SELECT ?nazev ?materialtitle WHERE {   
 ?group dc:title "Živočišný původ" .
 ?material dcterms:isPartOf* ?group .
-?predmet pubpred:materialPublic ?material .
-?predmet pubpred:nazev ?nazev .
+?predmet example:materialPublic ?material .
+?predmet example:nazev ?nazev .
 ?material dc:title ?materialtitle
 }`
 
 `PREFIX dc:` <<http://purl.org/dc/elements/1.1/>>`
 PREFIX dcterms:` <<http://purl.org/dc/terms/>>`
 PREFIX :` <<http://mymat.org/>>`
-PREFIX pubpred:` <<https://api.museion.cz/schema/axmpr/PublikacePredmetu>>`
+PREFIX example:` <<https://api.museion.cz/schema/axmpr/PublikacePredmetu>>`
 SELECT ?nazev ?materialtitle WHERE {   
 ?group dc:title "Nerost" .
 ?material dcterms:isPartOf* ?group .
-?predmet pubpred:materialPublic ?material .
-?predmet pubpred:nazev ?nazev .
+?predmet example:materialPublic ?material .
+?predmet example:nazev ?nazev .
 ?material dc:title ?materialtitle
 }`
