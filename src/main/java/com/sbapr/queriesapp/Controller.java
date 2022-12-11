@@ -1,4 +1,4 @@
-package com.sbapr.sbaprtry2;
+package com.sbapr.queriesapp;
 
 import lombok.extern.slf4j.Slf4j;
 import org.apache.jena.query.*;

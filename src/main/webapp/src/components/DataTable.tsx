@@ -1,7 +1,7 @@
 import {Binding, QueryResults} from "../interfaces";
 import {useEffect, useState} from "react";
 
-const BINDINGS_PER_PAGE = 5
+const BINDINGS_PER_PAGE = 20
 
 interface DataTableProps {
     data: QueryResults

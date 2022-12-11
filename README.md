@@ -2,7 +2,7 @@
 
 ### Run the backend REST API
 
-Open terminal in the folder sbapr-try-2 and run
+Open terminal in the folder queriesapp and run
 `mvn clean install -DskipTests && mvn spring-boot:run`
 
 ### Run the frontend react server 
@@ -30,18 +30,20 @@ SELECT distinct ?duration WHERE {
 ORDER BY ?duration`
 
 `PREFIX europeana:` <<http://www.europeana.eu/schemas/ese/>>`
+PREFIX dc:` <<http://purl.org/dc/elements/1.1/>>`
 PREFIX dcterms:` <<http://purl.org/dc/terms/>>`
 SELECT ?title ?material WHERE {
 ?subject europeana:dataProvider "Národní muzeum - Historické muzeum" .
-?subject dcterms:title ?title .
+?subject dc:title ?title .
 ?subject dcterms:medium ?material
 }`
 
 `PREFIX dcterms:` <<http://purl.org/dc/terms/>>`
+PREFIX dc:` <<http://purl.org/dc/elements/1.1/>>`
 SELECT ?title ?predicate ?object WHERE {
 ?subject ?predicate ?object .
 ?subject dcterms:coverage ?object .
-?subject dcterms:title ?title
+?subject dc:title ?title
 }`
 
 #### AXMPR
@@ -80,14 +82,3 @@ SELECT ?nazev ?materialtitle WHERE {
 ?material dc:title ?materialtitle
 }`
 
-`PREFIX dc:` <<http://purl.org/dc/elements/1.1/>>`
-PREFIX dcterms:` <<http://purl.org/dc/terms/>>`
-PREFIX :` <<http://mymat.org/>>`
-PREFIX example:` <<https://api.museion.cz/schema/axmpr/PublikacePredmetu>>`
-SELECT ?nazev ?materialtitle WHERE {   
-?group dc:title "Nerost" .
-?material dcterms:isPartOf* ?group .
-?predmet example:materialPublic ?material .
-?predmet example:nazev ?nazev .
-?material dc:title ?materialtitle
-}`

@@ -1,4 +1,4 @@
-package com.sbapr.sbaprtry2;
+package com.sbapr.queriesapp;
 
 import javax.xml.transform.*;
 import javax.xml.transform.stream.StreamResult;

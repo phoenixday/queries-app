@@ -1,4 +1,4 @@
-package com.sbapr.sbaprtry2;
+package com.sbapr.queriesapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
