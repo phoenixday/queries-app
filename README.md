@@ -4,7 +4,7 @@ An application for creating a simple ontology over museum objects. One can uploa
 
 This is a proof-of-concept for my bachelor thesis for the <a href="https://www.axiell.com/cz/reseni/produkty/museion/">Museion</a> company. Its functionality and algorithm could be enhanced in many ways.
 
-The app is written on Java, using <a href="https://jena.apache.org/">Apache Jena</a> for triplestore. The frontend is written in React; graphs are visualized with <a href="https://www.sigmajs.org/">Sigma.js</a> library; SPARQL queries are highlighted with a <a href="https://codemirror.net/">CodeMirror</a> library.
+The app is written on Java, using <a href="https://jena.apache.org/">Apache Jena</a> for triplestore. The frontend is written in React; graphs are visualized with <a href="https://www.sigmajs.org/">Sigma.js</a>; SPARQL queries are highlighted with <a href="https://codemirror.net/">CodeMirror</a>.
 
 ## Local deployment
 
