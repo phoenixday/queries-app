@@ -1,3 +1,11 @@
+# Museum ontology
+
+An application for creating a simple ontology over museum objects. One can upload an XML with objects data. The app will create a triplestore, transform data to <a href="https://en.wikipedia.org/wiki/Resource_Description_Framework">RDF</a> format and display the graph of objects, their properties and relations between them. The user then can ask the SPARQL queries over the triplestore. 
+
+This is a proof-of-concept for <a href="https://www.axiell.com/cz/reseni/produkty/museion/">Museion</a> company. Its functionality and algorithm should be enhanced in many ways.
+
+The app is written on Java, using <a href="https://jena.apache.org/">Apache Jena</a> for triplestore. The frontend is written in React; graphs are visualised with <a href="https://www.sigmajs.org/">Sigma.js</a> library; SPARQL queries are highlighted 
+
 ## Local deployment
 
 ### Run the backend REST API
