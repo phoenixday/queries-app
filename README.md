@@ -1,6 +1,6 @@
 # Museum ontology
 
-An application for creating a simple ontology over museum objects. One can upload an XML with object data. The app will generate a triplestore, transform data to <a href="https://en.wikipedia.org/wiki/Resource_Description_Framework">RDF</a> format and display the graph with objects, properties, and relations between them. The user then can ask the SPARQL queries over the triplestore.
+An application for creating a simple ontology over museum objects. One can upload an XML with objects data. The app will generate a triplestore, transform data to <a href="https://en.wikipedia.org/wiki/Resource_Description_Framework">RDF</a> format and display the graph with objects, properties, and relations between them. The user then can ask the SPARQL queries over the triplestore.
 
 This is a proof-of-concept for my bachelor thesis for the <a href="https://www.axiell.com/cz/reseni/produkty/museion/">Museion</a> company. Its functionality and algorithm could be enhanced in many ways.
 
